@@ -1,0 +1,34 @@
+/*
+ Theme Name:   Handschuh Neubau
+ Theme URI:    http://handschuh-neubau.at
+ Description:  Child-Theme for www.handschuh-neubau.at
+ Author:       Benjamin Pazdernik
+ Author URI:   http://web.benpazdernik.com
+ Template:     Divi
+ Version:      1.0.0
+ Text Domain:  handschuh-neubau
+ */
+
+ @import url("../Divi/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Coquette" !important;
+}
+p {
+	font-family: "kepler-std-semicondensed-cap" !important;
+}
+
+#et-top-navigation {
+	display: none;
+}
+
+body {
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1.2;
+	background: url('http://etc-mysitemyway.s3.amazonaws.com/webtreats/assets/posts/903/full/tileable-leather-patterns-4.jpg') repeat fixed;
+
+}
