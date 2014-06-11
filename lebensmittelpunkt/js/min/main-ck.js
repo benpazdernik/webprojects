@@ -1,1 +1,0 @@
-!function(){var n=document.getElementById("contact-submit");n&&(n.onclick=function(){this.innerHTML="Sende ..."})}();

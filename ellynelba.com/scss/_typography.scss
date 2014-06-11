@@ -1,0 +1,140 @@
+body {
+	-webkit-font-smoothing: antialiased;
+}
+
+p {
+	font-family: "Arno Pro";
+	font-size: 1.1em;
+}
+
+h1, h2, h3 {
+	font-family: "Jocham";
+}
+
+
+header {
+
+	text-align: right;
+	
+	h1 {
+		font-family: "Jocham";
+		margin-bottom: 0;
+	}
+
+	h2 {
+		font-family: "Arno Pro";
+		font-weight: lighter;
+		margin-top: 0;
+	}
+
+	.arno{
+		font-family: "Arno Pro";
+	}
+	
+}
+
+#box-1 {
+
+	text-align: center;
+	line-height: 1.5;
+
+	h3 {
+		font-family: "Jocham";
+		font-size: 175%;
+		margin: 0;
+
+	}
+
+	h4 {
+		font-family: "Arno Pro";
+		font-weight: lighter;
+		font-size: 150%;
+		margin: 0 0 5% 0;
+	}
+
+	h5 {
+		font-family: "Helvetica", Arial, sans-serif;
+		margin: 5% 0;
+	}
+
+	p {
+		font-family: "Arno Pro";
+		font-size: 1em;
+		margin: 10% 0;
+	}
+
+}
+
+.separator {
+	text-align: center;
+
+	h3 {
+		font-family: "Jocham";
+		font-size: 175%;
+	} 
+}
+
+#video {
+	h4 {
+		font-family: "Arno Pro";
+		font-weight: lighter;
+		font-size: 150%;
+	}
+}
+
+.card {
+	h4 {
+		font-family: "Jocham";
+		color: $darkgrey;
+		font-size: 150%;
+		margin: 9% 0 0 0;
+	}
+
+	h5 {
+		font-family: "Arno Pro";
+		font-weight: lighter;
+		color: #cbcbcb;
+		font-size: 125%;
+		margin: 0;
+	}
+}
+
+#contact-details {
+
+	li {
+		text-decoration: none;
+		font-family: Arno Pro;
+		font-size: 1.2em;
+		font-weight: bold;
+
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
+.textbox {
+	font-size: 1.3em;
+}
+
+footer {
+	font-family: Arno Pro;
+	font-size: 1.2em;
+	font-weight: bold;
+
+	a.various {
+		text-decoration: none;
+		color: #fff;
+		padding: .5em;
+		display: block;
+	}
+
+	.powered_by {
+
+		a {
+			text-decoration: none;
+			color: #fff;
+			font-size: 0.7em;
+		}
+	}
+} 

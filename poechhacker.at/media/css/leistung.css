@@ -1,0 +1,53 @@
+#services p {
+  padding: 0 100px;
+}
+#services section {
+  float: left;
+  width: 32%;
+  margin-right: 2%;
+}
+#services section:nth-child(3) {
+  margin-right: 0;
+}
+#services section a {
+  display: block;
+}
+.last {
+  margin-right: 0 !important;
+}
+#all-services section {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+}
+#all-services ul {
+  margin-bottom: 1em;
+  padding: 0;
+}
+#all-services ul li {
+  list-style-type: none;
+}
+#all-services p {
+  border-bottom: 1px solid #8fbec5;
+}
+#detail {
+  padding: 0 100px;
+}
+#detail p {
+  text-align: justify;
+}
+#customers section {
+  width: 23.5%;
+  float: left;
+  margin-right: 2%;
+}
+#customers section:nth-child(4) {
+  margin-right: 0;
+}
+#customers section a {
+  display: block;
+  color: #000000;
+}
+#customers section p {
+  font-size: 0.8em;
+}

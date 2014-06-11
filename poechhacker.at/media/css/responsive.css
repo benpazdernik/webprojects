@@ -1,0 +1,83 @@
+/*
+
+Responsive Design for poechhacker.at
+
+Author:  Benjamin Pazdernik
+Version: 1.0
+
+*/
+/* Better size management overall */
+div,
+section,
+footer,
+header,
+aside,
+main {
+  box-sizing: border-box;
+}
+/* Background image for h2 headings full width */
+h2 {
+  background-size: cover;
+}
+#news-box {
+  background-size: cover;
+}
+/* ---------------------- SMARTPHONES (portrait and landscape) ---------------------- */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  /* CSS DIRECTORY
+	1. GLOBAL
+	2. TYPOGRAPHY
+	3. HEADER
+	4. SIDEBAR
+	5. MAIN CONTENT
+	6. FOOTER
+*/
+  /* =============== */
+  /* 1. GLOBAL SETTINGS 
+/* =============== */
+  /* =============== */
+  /* 2. TYPOGRAPHY   */
+  /* =============== */
+  /* Set text-align to left for better readability on mobile */
+  p,
+  main {
+    text-align: left;
+  }
+  /* =============== */
+  /* 3. HEADER       */
+  /* =============== */
+  header nav {
+    display: none;
+  }
+  /* =============== */
+  /* 4. SIDEBAR      */
+  /* =============== */
+  aside {
+    width: 100%;
+  }
+  /* =============== */
+  /* 5. MAIN CONTENT */
+  /* =============== */
+  /* Removing paddings from text contents */
+  main,
+  #detail,
+  #services > p {
+    max-width: 100%;
+    width: 100%;
+    padding: 5%;
+  }
+  /* Removing white space on mobile */
+  #content {
+    min-height: 0;
+  }
+  /* Services on mobile full width */
+  #services section,
+  #customers section,
+  .person_wrapper section {
+    width: 100%;
+    margin-bottom: 5%;
+  }
+  /* =============== */
+  /* 6. FOOTER       */
+  /* =============== */
+}

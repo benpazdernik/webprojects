@@ -1,0 +1,25 @@
+span.rollover {
+	opacity: 1;
+	transition: all 0.3s;
+	cursor: pointer;
+	width: 210px;
+	height: 139px;
+	position: absolute;
+	z-index: 10;
+	background-color: $red;
+	opacity: 0;
+	vertical-align: middle;
+	text-align: center;
+	line-height: 150%;
+	color: #fff;
+	font-size: 5em;
+	box-sizing: border-box;
+
+}
+
+span.rollover:hover {
+	opacity: .85;
+	transition: all 0.3s;
+
+}
+

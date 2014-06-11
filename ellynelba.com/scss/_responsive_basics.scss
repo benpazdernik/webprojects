@@ -1,0 +1,105 @@
+img {
+	max-width: 100%;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+#box-1 {
+    		img {
+    			height: 15%;
+    		}
+    	}
+    }
+
+
+/* Smartphone */
+
+@media screen and (max-width: 700px){
+    html, body { 
+        background: none;
+    }
+
+    .arrow-icon {
+        width: 10%;
+    }
+
+    #box-1 {
+    	.square, .square_last {
+    		width: 100%;
+    		margin-bottom: 5%;
+            padding: 50% 20% 50% 20% ; 
+            box-sizing: border-box;
+            font-size: 1.5em;
+
+            div {
+                top: 15%;
+            }
+    	}
+    }
+
+    .separator {
+        padding-top: 10%;
+
+        img {
+            width: 15%;
+        }
+    }
+
+    .textbox {
+		width: 80%;
+        font-size: 1.1em;
+    }
+
+    #productvideo {
+        width: 90%;
+        height: 200px;
+    }
+
+    .rollover {
+        display: none;
+    }
+
+    .card {
+    	width: 100%;
+
+    	img {
+    		margin-top: 3%;
+    	}
+
+    	h3 {
+    		margin-top: 0;
+    	}
+    }
+
+    #rollator {
+        display: none;
+    }
+
+    #contact-details {
+        float: none;
+        margin: 0;
+
+        ul {
+            margin-right: auto;
+            margin-left: auto;
+            width: 50%;
+            padding: 0;
+
+            li {
+                padding-left: 0;
+            }
+        }
+    }
+
+    #contact-form input[type="text"],
+    #contact-form input[type="email"],
+    #contact-form input[type="tel"],
+    #contact-form input[type="url"],
+    #contact-form textarea {
+
+        width: 70%;
+    }
+}

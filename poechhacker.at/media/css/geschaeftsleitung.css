@@ -1,0 +1,23 @@
+.team_data {
+  float: left;
+  width: 65%;
+  margin-right: 3%;
+  min-height: 320px;
+}
+.team_data span {
+  display: block;
+}
+.team_data span p {
+  margin-top: 0;
+}
+.team_data p {
+  text-align: justify;
+}
+.team_data .rule-line {
+  border-top: 1px solid #8fbec5;
+  margin-bottom: 1em;
+}
+.team_img {
+  float: right;
+  width: 32%;
+}
