@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Button Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-14 12:42+0300\n"
+"PO-Revision-Date: 2014-04-14 12:42+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ facebook
+#: facebook-button-plugin.php:72
+#: facebook-button-plugin.php:397
+#, fuzzy
+msgid "Facebook Button Settings"
+msgstr "אפשרויות כפתור פייסבוק"
+
+# @ facebook
+#: facebook-button-plugin.php:72
+#, fuzzy
+msgid "Facebook Button"
+msgstr "כפתור פייסבוק"
+
+#: facebook-button-plugin.php:188
+msgid "requires"
+msgstr ""
+
+#: facebook-button-plugin.php:188
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr ""
+
+#: facebook-button-plugin.php:188
+msgid "Back to the WordPress"
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:188
+#, fuzzy
+msgid "Plugins page"
+msgstr "תוספים מומלצים"
+
+# @ facebook
+#: facebook-button-plugin.php:223
+#, fuzzy
+msgid "Settings saved"
+msgstr "הגדרות"
+
+# @ facebook
+#: facebook-button-plugin.php:245
+msgid "Error: File size > 32K"
+msgstr "שגיאה: גודל הקובץ גדול מ 32K"
+
+# @ facebook
+#: facebook-button-plugin.php:248
+msgid "Error: Invalid file type"
+msgstr "שגיאה: סוג קובץ שגוי"
+
+# @ facebook
+#: facebook-button-plugin.php:256
+msgid "Error: moving file failed"
+msgstr "שגיאה: העברת הקובץ נכשלה"
+
+# @ facebook
+#: facebook-button-plugin.php:259
+msgid "Error: check image width or height"
+msgstr "שגיאה: בדוק את רוחב וגובה התמונה"
+
+# @ facebook
+#: facebook-button-plugin.php:263
+msgid "Uploading Error: check image properties"
+msgstr "שגיאת טעינה: בדוק את מאפייני התמונה"
+
+#: facebook-button-plugin.php:288
+#: facebook-button-plugin.php:327
+msgid "Wrong license key"
+msgstr ""
+
+#: facebook-button-plugin.php:320
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvenience."
+msgstr ""
+
+#: facebook-button-plugin.php:329
+msgid "This license key is bind to another site"
+msgstr ""
+
+#: facebook-button-plugin.php:331
+msgid "Unfortunately, you have exceeded the number of available tries. Please, upload the plugin manually."
+msgstr ""
+
+#: facebook-button-plugin.php:349
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:355
+msgid "Your server does not support either ZipArchive or Phar. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:359
+#: facebook-button-plugin.php:368
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:372
+msgid "Something went wrong. Try again later or upload the plugin manually. We are sorry for inconvienience."
+msgstr ""
+
+#: facebook-button-plugin.php:387
+msgid "Please, enter Your license key"
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:399
+#: facebook-button-plugin.php:720
+#: facebook-button-plugin.php:732
+msgid "Settings"
+msgstr "הגדרות"
+
+# @ facebook
+#: facebook-button-plugin.php:400
+#, fuzzy
+msgid "Extra settings"
+msgstr "הגדרות"
+
+#: facebook-button-plugin.php:401
+msgid "Go PRO"
+msgstr ""
+
+#: facebook-button-plugin.php:404
+msgid "Notice:"
+msgstr ""
+
+#: facebook-button-plugin.php:404
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:410
+#, fuzzy
+msgid "Your Facebook ID:"
+msgstr "מזהה הפייסבוק שלך:"
+
+# @ facebook
+#: facebook-button-plugin.php:416
+msgid "Display button:"
+msgstr "הצג כפתור:"
+
+# @ captcha
+#: facebook-button-plugin.php:418
+msgid "My Page"
+msgstr "הדף שלי"
+
+# @ captcha
+#: facebook-button-plugin.php:419
+msgid "Like"
+msgstr "לייק"
+
+# @ facebook
+#: facebook-button-plugin.php:424
+#, fuzzy
+msgid "Choose display settings:"
+msgstr "בחר אפשרות תצוגה:"
+
+# @ facebook
+#: facebook-button-plugin.php:428
+#, fuzzy
+msgid "Standard Facebook image"
+msgstr "תמונת פייסבוק רגילה"
+
+# @ facebook
+#: facebook-button-plugin.php:430
+#, fuzzy
+msgid "Custom Facebook image"
+msgstr "תמונת פייסבוק מותאמת אישית"
+
+# @ facebook
+#: facebook-button-plugin.php:437
+msgid "Current image:"
+msgstr "תמונה נוכחית:"
+
+# @ facebook
+#: facebook-button-plugin.php:445
+#, fuzzy
+msgid "Facebook image:"
+msgstr "תמונת פייסבוק:"
+
+# @ facebook
+#: facebook-button-plugin.php:451
+#, fuzzy
+msgid "Image properties: max image width:100px; max image height:40px; max image size:32Kb; image types:\"jpg\", \"jpeg\", \"png\"."
+msgstr "מאפייני תמונה: רוחב מירבי: 100 פיקסלים. גובה מירבי: 40 פיקסלים, גודל מירבי: 32KB, סוגי קובץ: \"jpg\", \"jpeg\"."
+
+# @ facebook
+#: facebook-button-plugin.php:456
+#, fuzzy
+msgid "Facebook Button Position:"
+msgstr "מיקום כפתור הפייסבוק:"
+
+# @ facebook
+#: facebook-button-plugin.php:460
+msgid "Before"
+msgstr "לפני"
+
+# @ facebook
+#: facebook-button-plugin.php:461
+msgid "After"
+msgstr "אחרי"
+
+# @ facebook
+#: facebook-button-plugin.php:462
+msgid "Before and After"
+msgstr "לפני ואחרי"
+
+# @ facebook
+#: facebook-button-plugin.php:463
+msgid "Shortcode"
+msgstr "קיצור קוד"
+
+# @ facebook
+#: facebook-button-plugin.php:465
+#, fuzzy
+msgid "If you would like to add a Facebook button to your website, just copy and paste this shortcode into your post or page:"
+msgstr "אם ברצונך להוסיף כפתור פייסבוק לאתר שלך, פשוט העתק את קיצור הקוד שלהלן והדבק אל הפוסט או הדף שלך:"
+
+# @ facebook
+#: facebook-button-plugin.php:470
+#, fuzzy
+msgid "Facebook Button language:"
+msgstr "שפת כפתור פייסבוק:"
+
+# @ facebook
+#: facebook-button-plugin.php:481
+#, fuzzy
+msgid "Change the language of Facebook Like Button"
+msgstr "בחר שפה לכפתור לייק"
+
+#: facebook-button-plugin.php:485
+msgid "Html tag for Like Button:"
+msgstr ""
+
+#: facebook-button-plugin.php:489
+msgid "Use this tag to improve validation of your site"
+msgstr ""
+
+# @ default
+#: facebook-button-plugin.php:495
+#: facebook-button-plugin.php:534
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: facebook-button-plugin.php:501
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:502
+#, fuzzy
+msgid "Rate the plugin"
+msgstr "תוספים מומלצים"
+
+#: facebook-button-plugin.php:505
+msgid "If there is something wrong about it, please contact us"
+msgstr ""
+
+#: facebook-button-plugin.php:516
+msgid "Please choose the necessary post types (or single pages) where Facebook button will be displayed:"
+msgstr ""
+
+#: facebook-button-plugin.php:523
+msgid "Show URL for pages"
+msgstr ""
+
+#: facebook-button-plugin.php:529
+msgid "Example of site pages' tree"
+msgstr ""
+
+#: facebook-button-plugin.php:539
+msgid "If you upgrade to Pro version all your settings will be saved."
+msgstr ""
+
+#: facebook-button-plugin.php:546
+msgid "Unlock premium options by upgrading to a PRO version."
+msgstr ""
+
+#: facebook-button-plugin.php:547
+#: facebook-button-plugin.php:813
+msgid "Learn More"
+msgstr ""
+
+#: facebook-button-plugin.php:550
+msgid "Go"
+msgstr ""
+
+#: facebook-button-plugin.php:562
+msgid "Congratulations! The PRO version of the plugin is successfully download and activated."
+msgstr ""
+
+#: facebook-button-plugin.php:564
+msgid "Please, go to"
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:564
+#, fuzzy
+msgid "the setting page"
+msgstr "הגדרות"
+
+#: facebook-button-plugin.php:565
+msgid "You will be redirected automatically in 5 seconds."
+msgstr ""
+
+#: facebook-button-plugin.php:570
+msgid "You can download and activate"
+msgstr ""
+
+#: facebook-button-plugin.php:572
+msgid "version of this plugin by entering Your license key."
+msgstr ""
+
+#: facebook-button-plugin.php:574
+msgid "You can find your license key on your personal page Client area, by clicking on the link"
+msgstr ""
+
+#: facebook-button-plugin.php:576
+msgid "(your username is the email you specify when purchasing the product)."
+msgstr ""
+
+#: facebook-button-plugin.php:584
+#: facebook-button-plugin.php:594
+msgid "Go!"
+msgstr ""
+
+#: facebook-button-plugin.php:587
+msgid "Unfortunately, you have exceeded the number of available tries per day. Please, upload the plugin manually."
+msgstr ""
+
+# @ facebook
+#: facebook-button-plugin.php:733
+msgid "FAQ"
+msgstr "שאלות ותשובות"
+
+# @ facebook
+#: facebook-button-plugin.php:734
+msgid "Support"
+msgstr "תמיכה"
+
+#: facebook-button-plugin.php:816
+msgid "It's time to upgrade your <strong>Facebook Like Button</strong> to <strong>PRO</strong> version"
+msgstr ""
+
+#: facebook-button-plugin.php:817
+msgid "Extend standard plugin functionality with new great options"
+msgstr ""
+
+# @ captcha
+#, fuzzy
+#~ msgid "Memory usage"
+#~ msgstr "הדף שלי"
+
+# @ facebook
+#~ msgid "Activated plugins"
+#~ msgstr "תוספים פעילים"
+# @ facebook
+#~ msgid "Read more"
+#~ msgstr "קרא עוד"
+# @ facebook
+#~ msgid "Installed plugins"
+#~ msgstr "תוספים מותקנים"
+# @ facebook
+#~ msgid "Recommended plugins"
+#~ msgstr "תוספים מומלצים"
+# @ facebook
+#~ msgid "Download"
+#~ msgstr "הורד"
+# @ default
+#~ msgid "Install %s"
+#~ msgstr "התקן %s"
+# @ facebook
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "הורד כעת מ wordpress.org"
+# @ facebook
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "תוספים פעילים"
+
+# @ facebook
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "תוספים פעילים"
+
+# @ facebook
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "תמיכה"
+
+# @ facebook
+#, fuzzy
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
+#~ "or fill out the contact form on our website"
+#~ msgstr ""
+#~ "אם יש לך שאלות כלשהן, אנא צור עמנו קשר דרך plugin@bestwebsoft.com או "
+#~ "שתמלא את טופס יצירת הקשר באתר שלנו"

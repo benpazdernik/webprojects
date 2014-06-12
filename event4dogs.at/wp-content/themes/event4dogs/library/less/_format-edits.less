@@ -1,0 +1,85 @@
+// import mixins
+@import "_mixins.less";
+
+
+/* Basic Layout
+--------------------------------------------- 
+---------------------------------------------
+*/
+
+h1,h2,h3,h4,h5,h6 > :first-child { margin-top: 0 !important; margin-left: 0 !important; }
+h1,h2,h3,h4,h5,h6 > :last-child { margin-bottom: 0 !important; margin-right: 0 !important; }
+
+/* Header
+--------------------------------------------- 
+---------------------------------------------
+*/
+
+/* Push header for proper logo display */
+.header {
+	margin-top: 15px;
+}
+
+#logo {
+	float: left;
+}
+
+.header-widget {
+	float: right;
+	padding-right: 0;
+	width: 30%;
+	text-align: right;
+	font-family: @serif;
+}
+
+.vcard {
+	display: none;
+}
+
+/* Sub menu indicators */
+
+.nav > .menu-item.menu-item-has-children > a:after {
+	content: "\f107";
+	font-family: 'FontAwesome';
+	padding-left: 0.5rem;
+	speak: none;
+}
+
+ul.sub-menu li.menu-item-has-children > a:after {
+	content: "\f105";
+	font-family: 'FontAwesome';
+	padding-left: 1rem;
+	speak: none;
+}
+
+/* END Sub menu indicators */
+
+
+
+
+/* Content
+--------------------------------------------- 
+---------------------------------------------
+*/
+
+/* Shadow and appearence for main-content */
+#inner-content {
+	padding: 25px;
+	box-shadow: 0 0 25px #efefef;
+	background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* Ticket Price Table width edit */
+.tkt-slctr-tbl {
+	width: 100%;
+}
+
+
+/* Footer
+--------------------------------------------- 
+---------------------------------------------
+*/
+
+footer {
+	margin-top: 2.2em;
+}

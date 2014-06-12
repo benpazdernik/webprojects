@@ -1,0 +1,72 @@
+// import mixins
+@import "_mixins.less";
+
+@media only screen and (min-width: 768px) {
+
+	html {
+		background: url(/wp-content/themes/event4dogs/library/images/logo_blue.png) no-repeat right bottom;
+		background-size: 35%;
+		background-attachment: fixed;
+
+	}
+
+}
+
+/* Customize Text-Highlighting-Color */
+::selection {color:white;background:fade(@e4d-blue,90%);}
+::-moz-selection {color:white;background:fade(@e4d-blue,90%);}
+
+#content a {
+
+	color: @e4d-blue;
+
+	&:hover {
+		color: lighten(@e4d-blue, 20%);
+	}
+
+} 
+
+.nav {
+	background-color: fade(@e4d-blue,90%);
+	transition: background-color 0.1s linear;
+
+	li {
+
+		a {
+			background-color: transparent;
+			transition: background-color 0.1s linear;
+
+			&:hover, &:active {
+				background-color: fade(@e4d-blue,90%) * 1.15;
+				transition: background-color 0.1s linear;
+			}
+		}
+
+		ul {
+
+			padding-top: 8px !important; //correct distance for caret
+
+			li {
+
+				background-color: fade(@e4d-blue,90%);
+
+				&:first-child > a:after {
+					content: '';
+					position: absolute;
+					left: 20px;
+					top: -8px;
+					width: 0;
+					height: 0;
+					border-left: 5px solid transparent;
+					border-right: 5px solid transparent;
+					border-bottom: 8px solid fade(@e4d-blue,90%);
+				}
+
+				&:hover {
+					background-color: fade(@e4d-blue,90%) * 1.15;
+					transition: background-color 0.1s linear;
+				}
+			}
+		}
+	}
+}

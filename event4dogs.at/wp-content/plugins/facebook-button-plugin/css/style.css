@@ -1,0 +1,37 @@
+/*
+* Plugin styles
+*/
+#fcbk_settings_form select,
+#fcbk_settings_form input[type="text"],
+#fcbk_settings_form input[type="file"] {
+    min-width: 200px;
+}
+#fcbk_settings_form label code {
+	background: none;
+}
+#fcbk_share {
+	clear: both;
+	height: 40px;
+}
+.fcbk_button {
+	float: left;
+	margin-right: 10px;
+}
+.fcbk_button a {
+	height: 40px;
+	display: block;
+}
+.fcbk_button a:hover {
+	opacity: 0.9;
+}
+.fcbk_like {
+	float: left;
+	position: relative;
+	top: -3px;
+}
+.fb_edge_widget_with_comment span {
+	width: 450px !important;
+}
+.fcbk_like iframe {
+	max-width: 450px;
+}

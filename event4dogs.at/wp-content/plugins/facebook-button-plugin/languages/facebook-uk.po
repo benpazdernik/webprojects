@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: facebook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-14 12:43+0300\n"
+"PO-Revision-Date: 2014-04-14 12:43+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: ua_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-button-plugin.php:72
+#: facebook-button-plugin.php:397
+msgid "Facebook Button Settings"
+msgstr "Установки кнопки Facebook"
+
+#: facebook-button-plugin.php:72
+msgid "Facebook Button"
+msgstr "кнопка FaceBook"
+
+#: facebook-button-plugin.php:188
+msgid "requires"
+msgstr "потребує"
+
+#: facebook-button-plugin.php:188
+msgid "or higher, that is why it has been deactivated! Please upgrade WordPress and try again."
+msgstr "чи вище, тому він був деактивований! Будь ласка оновіть WordPress та спробуйте ще раз."
+
+#: facebook-button-plugin.php:188
+msgid "Back to the WordPress"
+msgstr "Повернутися до WordPress на"
+
+#: facebook-button-plugin.php:188
+msgid "Plugins page"
+msgstr "Сторінку плагинів"
+
+#: facebook-button-plugin.php:223
+msgid "Settings saved"
+msgstr "Установки збережені"
+
+#: facebook-button-plugin.php:245
+msgid "Error: File size > 32K"
+msgstr "Помилка: Розмір файлу> 32K"
+
+#: facebook-button-plugin.php:248
+msgid "Error: Invalid file type"
+msgstr "Помилка: Невірний тип файлу"
+
+#: facebook-button-plugin.php:256
+msgid "Error: moving file failed"
+msgstr "Помилка: не вдалося Переміщення файлів"
+
+#: facebook-button-plugin.php:259
+msgid "Error: check image width or height"
+msgstr "Помилка: Перевірте ширину або висоту зображення"
+
+#: facebook-button-plugin.php:263
+msgid "Uploading Error: check image properties"
+msgstr "Помилка Завантаження: Перевірте властивості зображення"
+
+#: facebook-button-plugin.php:288
+#: facebook-button-plugin.php:327
+msgid "Wrong license key"
+msgstr ""
+
+#: facebook-button-plugin.php:320
+msgid "Something went wrong. Try again later. If the error will appear again, please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</a>. We are sorry for inconvenience."
+msgstr ""
+
+#: facebook-button-plugin.php:329
+msgid "This license key is bind to another site"
+msgstr ""
+
+#: facebook-button-plugin.php:331
+msgid "Unfortunately, you have exceeded the number of available tries. Please, upload the plugin manually."
+msgstr ""
+
+#: facebook-button-plugin.php:349
+msgid "Failed to open the zip archive. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:355
+msgid "Your server does not support either ZipArchive or Phar. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:359
+#: facebook-button-plugin.php:368
+msgid "Failed to download the zip archive. Please, upload the plugin manually"
+msgstr ""
+
+#: facebook-button-plugin.php:372
+msgid "Something went wrong. Try again later or upload the plugin manually. We are sorry for inconvienience."
+msgstr ""
+
+#: facebook-button-plugin.php:387
+msgid "Please, enter Your license key"
+msgstr ""
+
+#: facebook-button-plugin.php:399
+#: facebook-button-plugin.php:720
+#: facebook-button-plugin.php:732
+msgid "Settings"
+msgstr "Установки"
+
+#: facebook-button-plugin.php:400
+#, fuzzy
+msgid "Extra settings"
+msgstr "Установки"
+
+#: facebook-button-plugin.php:401
+msgid "Go PRO"
+msgstr ""
+
+#: facebook-button-plugin.php:404
+msgid "Notice:"
+msgstr ""
+
+#: facebook-button-plugin.php:404
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr ""
+
+#: facebook-button-plugin.php:410
+msgid "Your Facebook ID:"
+msgstr "ID вашого Facebook акаунту"
+
+#: facebook-button-plugin.php:416
+msgid "Display button:"
+msgstr "Відображати кнопку:"
+
+#: facebook-button-plugin.php:418
+msgid "My Page"
+msgstr "Моя сторінка"
+
+#: facebook-button-plugin.php:419
+msgid "Like"
+msgstr "Like"
+
+#: facebook-button-plugin.php:424
+msgid "Choose display settings:"
+msgstr "Виберіть відображати установки:"
+
+#: facebook-button-plugin.php:428
+msgid "Standard Facebook image"
+msgstr "Стандартне зображення FaceBook "
+
+#: facebook-button-plugin.php:430
+msgid "Custom Facebook image"
+msgstr "Кастомне м FaceBook"
+
+#: facebook-button-plugin.php:437
+msgid "Current image:"
+msgstr "Поточне зображення:"
+
+#: facebook-button-plugin.php:445
+msgid "Facebook image:"
+msgstr "Зображення FaceBook :"
+
+#: facebook-button-plugin.php:451
+msgid "Image properties: max image width:100px; max image height:40px; max image size:32Kb; image types:\"jpg\", \"jpeg\", \"png\"."
+msgstr "Властивості зображення: максимальна ширина зображення:1 00px; Максимальна висота зображення: 40px; максимальний розмір зображення: 32Kb; Зображення типів:\"jpg\", \"jpeg\", \"png\"."
+
+#: facebook-button-plugin.php:456
+msgid "Facebook Button Position:"
+msgstr "Розташування кнопки FaceBook:"
+
+#: facebook-button-plugin.php:460
+msgid "Before"
+msgstr "Перш ніж"
+
+#: facebook-button-plugin.php:461
+msgid "After"
+msgstr "Після того як"
+
+#: facebook-button-plugin.php:462
+msgid "Before and After"
+msgstr "До і після"
+
+#: facebook-button-plugin.php:463
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: facebook-button-plugin.php:465
+msgid "If you would like to add a Facebook button to your website, just copy and paste this shortcode into your post or page:"
+msgstr "Якщо ви хочете додати кнопку FaceBook на ваш сайт, просто скопіюйте і помістіть цей шорткод на у пост або на сторінку:"
+
+#: facebook-button-plugin.php:470
+msgid "Facebook Button language:"
+msgstr "Мова кнопки FaceBook:"
+
+#: facebook-button-plugin.php:481
+msgid "Change the language of Facebook Like Button"
+msgstr "Змінити мову для конпки Like Facebook"
+
+#: facebook-button-plugin.php:485
+msgid "Html tag for Like Button:"
+msgstr ""
+
+#: facebook-button-plugin.php:489
+msgid "Use this tag to improve validation of your site"
+msgstr ""
+
+#: facebook-button-plugin.php:495
+#: facebook-button-plugin.php:534
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: facebook-button-plugin.php:501
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr ""
+
+#: facebook-button-plugin.php:502
+msgid "Rate the plugin"
+msgstr ""
+
+#: facebook-button-plugin.php:505
+msgid "If there is something wrong about it, please contact us"
+msgstr ""
+
+#: facebook-button-plugin.php:516
+msgid "Please choose the necessary post types (or single pages) where Facebook button will be displayed:"
+msgstr ""
+
+#: facebook-button-plugin.php:523
+msgid "Show URL for pages"
+msgstr ""
+
+#: facebook-button-plugin.php:529
+msgid "Example of site pages' tree"
+msgstr ""
+
+#: facebook-button-plugin.php:539
+msgid "If you upgrade to Pro version all your settings will be saved."
+msgstr ""
+
+#: facebook-button-plugin.php:546
+msgid "Unlock premium options by upgrading to a PRO version."
+msgstr ""
+
+#: facebook-button-plugin.php:547
+#: facebook-button-plugin.php:813
+msgid "Learn More"
+msgstr ""
+
+#: facebook-button-plugin.php:550
+msgid "Go"
+msgstr ""
+
+#: facebook-button-plugin.php:562
+msgid "Congratulations! The PRO version of the plugin is successfully download and activated."
+msgstr ""
+
+#: facebook-button-plugin.php:564
+msgid "Please, go to"
+msgstr ""
+
+#: facebook-button-plugin.php:564
+#, fuzzy
+msgid "the setting page"
+msgstr "Установки збережені"
+
+#: facebook-button-plugin.php:565
+msgid "You will be redirected automatically in 5 seconds."
+msgstr ""
+
+#: facebook-button-plugin.php:570
+msgid "You can download and activate"
+msgstr ""
+
+#: facebook-button-plugin.php:572
+msgid "version of this plugin by entering Your license key."
+msgstr ""
+
+#: facebook-button-plugin.php:574
+msgid "You can find your license key on your personal page Client area, by clicking on the link"
+msgstr ""
+
+#: facebook-button-plugin.php:576
+msgid "(your username is the email you specify when purchasing the product)."
+msgstr ""
+
+#: facebook-button-plugin.php:584
+#: facebook-button-plugin.php:594
+msgid "Go!"
+msgstr ""
+
+#: facebook-button-plugin.php:587
+msgid "Unfortunately, you have exceeded the number of available tries per day. Please, upload the plugin manually."
+msgstr ""
+
+#: facebook-button-plugin.php:733
+msgid "FAQ"
+msgstr "Часті питання"
+
+#: facebook-button-plugin.php:734
+msgid "Support"
+msgstr "Підтримка"
+
+#: facebook-button-plugin.php:816
+msgid "It's time to upgrade your <strong>Facebook Like Button</strong> to <strong>PRO</strong> version"
+msgstr ""
+
+#: facebook-button-plugin.php:817
+msgid "Extend standard plugin functionality with new great options"
+msgstr ""
+

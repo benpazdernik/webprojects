@@ -1,0 +1,73 @@
+// import mixins
+@import "_mixins.less";
+
+@media only screen and (min-width: 768px) {
+
+
+
+}
+
+/* Customize Text-Highlighting-Color */
+::selection {color:white;background:fade(@e4d-brown,90%);}
+::-moz-selection {color:white;background:fade(@e4d-brown,90%);}
+
+article {
+
+	a {
+
+		color: @e4d-brown;
+
+		&:hover {
+			color: lighten(@e4d-brown, 20%);
+		}
+
+	} 
+
+}
+
+.nav {
+
+	background-image: url(../images/menu_bg.png);
+	background-size:100%;
+
+	li {
+
+		a {
+			background-color: transparent;
+			transition: background-color 0.1s linear;
+			margin-bottom: 1%;
+
+			&:hover, &:active {
+				background-color: fade(@e4d-brown,90%) * 1.15;
+				transition: background-color 0.1s linear;
+			}
+		}
+
+		ul {
+
+			padding-top: 8px !important; //correct distance for caret
+
+			li {
+
+				background-color: fade(@e4d-brown,90%);
+
+				&:first-child > a:after {
+					content: '';
+					position: absolute;
+					left: 20px;
+					top: -8px;
+					width: 0;
+					height: 0;
+					border-left: 5px solid transparent;
+					border-right: 5px solid transparent;
+					border-bottom: 8px solid fade(@e4d-brown,90%);
+				}
+
+				&:hover {
+					background-color: fade(@e4d-brown,90%) * 1.15;
+					transition: background-color 0.1s linear;
+				}
+			}
+		}
+	}
+}
