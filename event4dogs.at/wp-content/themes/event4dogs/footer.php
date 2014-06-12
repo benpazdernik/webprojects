@@ -4,13 +4,17 @@
 
 					<nav role="navigation">
 							<?php bones_footer_links(); ?>
+
+							<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer Widget')) : endif; ?>
+
 					</nav>
 
 					<p class="source-org copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>.</p>
 
+
+
 				</div>
 
-				<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer Widget')) : endif; ?>
 
 			</footer>
 

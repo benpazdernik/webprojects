@@ -183,7 +183,7 @@ function bones_wpsearch($form) {
 // Add widget to header section
 function custom_widgets_init() {
 
-	register_sidebars(array(
+	register_sidebars(2, array(
 		'name' => 'Header Widget',
 		'id' => 'header-widget',
 		'description' => 'Widget in the top right header area',
@@ -205,5 +205,19 @@ function custom_widgets_init() {
 }
 
 add_action('widgets_init', 'custom_widgets_init' );
+
+// Changing dates on the "view more" detail section of a single event page to German date formats
+add_filter ('FHEE__EE_Ticket_Selector__display_ticket_selector__template_path', 'my_custom_ticket_selector_template_location');
+
+function my_custom_ticket_selector_template_location(){
+    return get_stylesheet_directory() . '/ticket_selector_chart.template.php';
+}
+
+add_filter ('FHEE__payment_overview_template__order_conf_desc', 'override_confirmation_text');
+
+function override_confirmation_text() {
+    return 'Ihre Bestellübersicht und Anmeldeinformationen. Sie können sie herunterladen und ausdrucken.';
+}
+
 
 ?>

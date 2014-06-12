@@ -1,12 +1,6 @@
 // import mixins
 @import "_mixins.less";
 
-@media only screen and (min-width: 768px) {
-
-
-
-}
-
 /* Customize Text-Highlighting-Color */
 ::selection {color:white;background:fade(@e4d-brown,90%);}
 ::-moz-selection {color:white;background:fade(@e4d-brown,90%);}
@@ -25,21 +19,18 @@ article {
 
 }
 
-.nav {
+nav {
 
-	background-image: url(../images/menu_bg.png);
-	background-size:100%;
+	transition: background-color 0.1s linear;
 
 	li {
 
 		a {
 			background-color: transparent;
 			transition: background-color 0.1s linear;
-			margin-bottom: 1%;
 
 			&:hover, &:active {
-				background-color: fade(@e4d-brown,90%) * 1.15;
-				transition: background-color 0.1s linear;
+
 			}
 		}
 
@@ -70,4 +61,24 @@ article {
 			}
 		}
 	}
+}
+
+@media only screen and (max-width: 1200px) {
+	
+	nav {
+		background-color: fade(@e4d-brown,90%)!important;
+	} 
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+	nav {
+		background-image: url(../images/menu_bg.png);
+		background-size:100%;
+		margin-bottom: 1%;
+		background-color: transparent;
+		background-repeat: no-repeat;
+	}
+
 }

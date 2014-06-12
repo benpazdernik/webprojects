@@ -242,13 +242,6 @@ BUTTONS
   background-image: -o-linear-gradient(top, #1681c4, #1990db);
   background-image: linear-gradient(to bottom, #1681c4, #1990db);
 }
-@media only screen and (min-width: 768px) {
-  html {
-    background: url(/wp-content/themes/event4dogs/library/images/logo_blue.png) no-repeat right bottom;
-    background-size: 35%;
-    background-attachment: fixed;
-  }
-}
 /* Customize Text-Highlighting-Color */
 ::selection {
   color: white;
@@ -258,32 +251,26 @@ BUTTONS
   color: white;
   background: rgba(31, 138, 255, 0.9);
 }
-#content a {
+article a {
   color: #1f8aff;
 }
-#content a:hover {
+article a:hover {
   color: #85bfff;
 }
-.nav {
-  background-color: rgba(31, 138, 255, 0.9);
+nav {
   transition: background-color 0.1s linear;
 }
-.nav li a {
+nav li a {
   background-color: transparent;
   transition: background-color 0.1s linear;
 }
-.nav li a:hover,
-.nav li a:active {
-  background-color: #249fff;
-  transition: background-color 0.1s linear;
-}
-.nav li ul {
+nav li ul {
   padding-top: 8px !important;
 }
-.nav li ul li {
+nav li ul li {
   background-color: rgba(31, 138, 255, 0.9);
 }
-.nav li ul li:first-child > a:after {
+nav li ul li:first-child > a:after {
   content: '';
   position: absolute;
   left: 20px;
@@ -294,7 +281,21 @@ BUTTONS
   border-right: 5px solid transparent;
   border-bottom: 8px solid rgba(31, 138, 255, 0.9);
 }
-.nav li ul li:hover {
+nav li ul li:hover {
   background-color: #249fff;
   transition: background-color 0.1s linear;
+}
+@media only screen and (max-width: 1200px) {
+  nav {
+    background-color: rgba(31, 138, 255, 0.9) !important;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  nav {
+    background-image: url(../images/menu_bg_blue.png);
+    background-size: 100%;
+    margin-bottom: 1%;
+    background-color: transparent;
+    background-repeat: no-repeat;
+  }
 }

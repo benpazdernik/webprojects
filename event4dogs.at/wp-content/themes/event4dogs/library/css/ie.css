@@ -283,28 +283,22 @@ NAVIGATION STYLES
 /* .menu is clearfixed inside mixins.scss */
 .menu {
   /* end .menu ul */
-
 }
 .menu ul {
   /* end .menu ul li */
-
   /* highlight current page */
-
   /* end current highlighters */
-
 }
 .menu ul li {
   /*
 				plan your menus and drop-downs wisely.
 				*/
-
 }
 .menu ul li a {
   /*
 					you can use hover styles here even though this size
 					has the possibility of being a mobile device.
 					*/
-
 }
 /* end .menu */
 /*********************
@@ -313,7 +307,6 @@ POSTS & CONTENT STYLES
 /* entry content */
 .entry-content {
   /* at this larger size, we can start to align images */
-
 }
 .entry-content .alignleft,
 .entry-content img.alignleft {
@@ -462,7 +455,6 @@ HEADER STYLES
 *********************/
 .header {
   /* Show Header-Widget on larger devices */
-
 }
 .header .header-widget {
   display: block;
@@ -478,14 +470,10 @@ NAVIGATION STYLES
   display: block;
 }
 .nav {
-  background: #eee;
   border: 0;
   /* end .menu ul li */
-
   /* highlight current page */
-
   /* end current highlighters */
-
 }
 .nav ul {
   margin-top: 0;
@@ -496,9 +484,7 @@ NAVIGATION STYLES
   /*
 		plan your menus and drop-downs wisely.
 		*/
-
   /* showing sub-menus */
-
 }
 .nav li a {
   border-bottom: 0;
@@ -506,12 +492,10 @@ NAVIGATION STYLES
 			you can use hover styles here even though this size
 			has the possibility of being a mobile device.
 			*/
-
 }
 .nav li a:hover,
 .nav li a:focus {
   /*background-color: #dedede;*/
-
 }
 .nav li ul.sub-menu,
 .nav li ul.children {
@@ -524,7 +508,6 @@ NAVIGATION STYLES
   opacity: 0;
   transition: visibility 0s linear 0.2s,opacity 0.2s linear;
   /* highlight sub-menu current page */
-
 }
 .nav li ul.sub-menu li,
 .nav li ul.children li {
@@ -533,7 +516,6 @@ NAVIGATION STYLES
 				just remember deeper menus suck
 				for usability. k, bai.
 				*/
-
 }
 .nav li ul.sub-menu li a,
 .nav li ul.children li a {
@@ -571,7 +553,6 @@ SIDEBARS & ASIDES
 .widget ul li {
   margin-bottom: 0.75em;
   /* deep nesting */
-
 }
 .widget ul li ul {
   margin-top: 0.75em;
@@ -602,7 +583,6 @@ mobile. Make sure to double check these!
 			it's very rare to have multi-depth menus in
 			the footer.
 			*/
-
 }
 /* end .footer-links */
 /******************************************************************

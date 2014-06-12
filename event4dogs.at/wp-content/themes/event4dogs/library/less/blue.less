@@ -1,33 +1,26 @@
 // import mixins
 @import "_mixins.less";
 
-@media only screen and (min-width: 768px) {
-
-	html {
-		background: url(/wp-content/themes/event4dogs/library/images/logo_blue.png) no-repeat right bottom;
-		background-size: 35%;
-		background-attachment: fixed;
-
-	}
-
-}
-
 /* Customize Text-Highlighting-Color */
 ::selection {color:white;background:fade(@e4d-blue,90%);}
 ::-moz-selection {color:white;background:fade(@e4d-blue,90%);}
 
-#content a {
+article {
 
-	color: @e4d-blue;
+	a {
 
-	&:hover {
-		color: lighten(@e4d-blue, 20%);
-	}
+		color: @e4d-blue;
 
-} 
+		&:hover {
+			color: lighten(@e4d-blue, 20%);
+		}
 
-.nav {
-	background-color: fade(@e4d-blue,90%);
+	} 
+
+}
+
+nav {
+
 	transition: background-color 0.1s linear;
 
 	li {
@@ -37,8 +30,7 @@
 			transition: background-color 0.1s linear;
 
 			&:hover, &:active {
-				background-color: fade(@e4d-blue,90%) * 1.15;
-				transition: background-color 0.1s linear;
+
 			}
 		}
 
@@ -69,4 +61,24 @@
 			}
 		}
 	}
+}
+
+@media only screen and (max-width: 1200px) {
+	
+	nav {
+		background-color: fade(@e4d-blue,90%)!important;
+	} 
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+	nav {
+		background-image: url(../images/menu_bg_blue.png);
+		background-size:100%;
+		margin-bottom: 1%;
+		background-color: transparent;
+		background-repeat: no-repeat;
+	}
+
 }

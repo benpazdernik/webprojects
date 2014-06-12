@@ -866,6 +866,7 @@ and more scalable.
   border: 1px solid #ccc;
   border-bottom: 0;
   margin: 0;
+  min-height: 60px;
   /* end .menu li */
   /* highlight current page */
   /* end current highlighters */
@@ -883,7 +884,6 @@ and more scalable.
   display: block;
   text-decoration: none;
   padding: 10px 10px;
-  background-color: #eee;
   border-bottom: 1px solid #ccc;
   color: #ffffff;
   font-weight: 200;
@@ -902,6 +902,18 @@ and more scalable.
 .nav li ul.sub-menu li a,
 .nav li ul.children li a {
   padding-left: 30px;
+}
+.nav li ul.sub-menu li:only-child,
+.nav li ul.children li:only-child {
+  border-radius: 10px 10px 10px 10px;
+}
+.nav li ul.sub-menu li:first-child,
+.nav li ul.children li:first-child {
+  border-radius: 10px 10px 0 0;
+}
+.nav li ul.sub-menu li:last-child,
+.nav li ul.children li:last-child {
+  border-radius: 0 0 10px 10px;
 }
 /* end .nav */
 /*********************
@@ -1461,7 +1473,6 @@ NAVIGATION STYLES
     display: block;
   }
   .nav {
-    background: #eee;
     border: 0;
     /* end .menu ul li */
     /* highlight current page */
@@ -1813,6 +1824,12 @@ ul.sub-menu li.menu-item-has-children > a:after {
 /* Ticket Price Table width edit */
 .tkt-slctr-tbl {
   width: 100%;
+}
+/* Border Radius Slider */
+#rev_slider_1_1_wrapper {
+  border-radius: 25px;
+  overflow: hidden!important;
+  margin-bottom: 25px!important;
 }
 /* Footer
 --------------------------------------------- 

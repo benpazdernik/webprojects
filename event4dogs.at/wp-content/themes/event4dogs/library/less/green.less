@@ -1,23 +1,26 @@
 // import mixins
 @import "_mixins.less";
 
-@media only screen and (min-width: 768px) {
-
-	html {
-		background: url(/wp-content/themes/event4dogs/library/images/logo_green.png) no-repeat right bottom;
-		background-size: 35%;
-		background-attachment: fixed;
-
-	}
-
-}
-
 /* Customize Text-Highlighting-Color */
 ::selection {color:white;background:fade(@e4d-green,90%);}
 ::-moz-selection {color:white;background:fade(@e4d-green,90%);}
 
-.nav {
-	background-color: @e4d-green;
+article {
+
+	a {
+
+		color: @e4d-green;
+
+		&:hover {
+			color: lighten(@e4d-green, 20%);
+		}
+
+	} 
+
+}
+
+nav {
+
 	transition: background-color 0.1s linear;
 
 	li {
@@ -27,8 +30,7 @@
 			transition: background-color 0.1s linear;
 
 			&:hover, &:active {
-				background-color: @e4d-green * 1.1;
-				transition: background-color 0.1s linear;
+
 			}
 		}
 
@@ -38,7 +40,7 @@
 
 			li {
 
-				background-color: @e4d-green;
+				background-color: fade(@e4d-green,90%);
 
 				&:first-child > a:after {
 					content: '';
@@ -49,14 +51,34 @@
 					height: 0;
 					border-left: 5px solid transparent;
 					border-right: 5px solid transparent;
-					border-bottom: 8px solid @e4d-green;
+					border-bottom: 8px solid fade(@e4d-green,90%);
 				}
 
 				&:hover {
-					background-color: @e4d-green * 1.1;
+					background-color: fade(@e4d-green,90%) * 1.15;
 					transition: background-color 0.1s linear;
 				}
 			}
 		}
 	}
+}
+
+@media only screen and (max-width: 1200px) {
+	
+	nav {
+		background-color: fade(@e4d-green,90%)!important;
+	} 
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+	nav {
+		background-image: url(../images/menu_bg_green.png);
+		background-size:100%;
+		margin-bottom: 1%;
+		background-color: transparent;
+		background-repeat: no-repeat;
+	}
+
 }
