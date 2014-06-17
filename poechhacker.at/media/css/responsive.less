@@ -21,9 +21,13 @@ h2 {
 	background-size: cover;
 }
 
-/* ---------------------- SMARTPHONES (portrait and landscape) ---------------------- */
+.slicknav_menu {
+	display:none;
+}
 
-@media only screen and (min-width : 320px) and (max-width : 480px) {
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (max-width : 1024px) {
+
 
 /* CSS DIRECTORY
 	1. GLOBAL
@@ -32,9 +36,79 @@ h2 {
 	4. SIDEBAR
 	5. MAIN CONTENT
 	6. FOOTER
-*/
+	*/
 
 /* =============== */
+/* 1. GLOBAL SETTINGS 
+/* =============== */
+
+
+
+/* =============== */
+/* 2. TYPOGRAPHY   */
+/* =============== */
+
+/* Set text-align to left for better readability on mobile */
+
+
+/* =============== */
+/* 3. HEADER       */
+/* =============== */
+
+header {
+	nav ul#menu {
+		display: none;
+	}
+
+	margin-bottom: -20px;
+}
+
+.js .slicknav_menu {
+	display:block;
+}
+
+/* Transparent background for active menu entries on responsive menu*/
+.ancestor, .selected {
+background-color: transparent;
+}
+
+
+/* =============== */
+/* 4. SIDEBAR      */
+/* =============== */
+
+
+/* =============== */
+/* 5. MAIN CONTENT */
+/* =============== */
+
+
+
+
+/* =============== */
+/* 6. FOOTER       */
+/* =============== */
+
+section#contact, section#additional-nav {
+	font-size: 0.8em;
+}
+
+}
+
+/* ---------------------- SMARTPHONES (portrait and landscape) ---------------------- */
+
+@media only screen and (max-width : 480px) {
+
+/* CSS DIRECTORY
+	1. GLOBAL
+	2. TYPOGRAPHY
+	3. HEADER
+	4. SIDEBAR
+	5. MAIN CONTENT
+	6. FOOTER
+	*/
+
+	/* =============== */
 /* 1. GLOBAL SETTINGS 
 /* =============== */
 
@@ -53,10 +127,17 @@ p, main {
 /* 3. HEADER       */
 /* =============== */
 
+
 header {
-	nav {
+	nav ul#menu {
 		display: none;
 	}
+
+	margin-bottom: -20px;
+}
+
+.js .slicknav_menu {
+	display:block;
 }
 
 
@@ -98,6 +179,9 @@ main, #detail, #services > p {
 /* 6. FOOTER       */
 /* =============== */
 
+section#contact, section#additional-nav {
+	font-size: 0.5em;
+}
 
 }
 

@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".faq h4").click(function(){$(this).next("p").slideToggle()}),$(".footable").footable({breakpoints:{phone:480,tablet:860}}),$("#menu").slicknav({label:"Men&uuml;",allowParentLinks:"true",duration:"200",closeOnClick:"false",easingOpen:"swing",easingClose:"swing",prependTo:"#banner"})});

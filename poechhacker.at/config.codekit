@@ -359,6 +359,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/media\/css\/vendor\/slicknav.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/css\/vendor\/slicknav.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/media\/img\/main\/_sliderbild.jpg": {
 		"fileType": 16384,
 		"ignore": 1,
@@ -611,6 +620,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/media\/js\/min\/main-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/js\/min\/main-ck.js",
+		"outputAbbreviatedPath": "\/media\/js\/min\/min\/main-ck-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/media\/js\/plugins.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -628,6 +648,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/media\/js\/vendor\/jquery-1.10.2.min.js",
 		"outputAbbreviatedPath": "\/media\/js\/vendor\/min\/jquery-1.10.2.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/media\/js\/vendor\/jquery.slicknav.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/js\/vendor\/jquery.slicknav.js",
+		"outputAbbreviatedPath": "\/media\/js\/vendor\/min\/jquery.slicknav-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/media\/js\/vendor\/jquery.slicknav.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/media\/js\/vendor\/jquery.slicknav.min.js",
+		"outputAbbreviatedPath": "\/media\/js\/vendor\/min\/jquery.slicknav.min-ck.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

@@ -32,3 +32,10 @@ body {
 	background: url(http://subtlepatterns.com/patterns/grey_wash_wall.png) repeat fixed;
 
 }
+
+/* Logo size increase on mobile */
+@media only screen and (max-width: 980px) {
+	#logo {
+		max-height: 150px;
+	}
+}
