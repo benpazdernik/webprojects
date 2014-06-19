@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Divi 1.0\n"
 "POT-Creation-Date: 2014-05-21 17:40+0400\n"
-"PO-Revision-Date: 2014-05-21 17:40+0400\n"
+"PO-Revision-Date: 2014-06-19 16:40+0100\n"
 "Last-Translator: \n"
 "Language-Team: Ann\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
 "esc_attr_e\n"
 "X-Poedit-Basepath: .\n"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: ../functions.php:129
 msgid "Invalid email"
-msgstr ""
+msgstr "Ungültige E-Mail-Adresse"
 
 #: ../functions.php:130
 msgid "Captcha"
@@ -643,11 +643,11 @@ msgstr ""
 
 #: ../functions.php:3036 ../functions.php:4137
 msgid "Email Address"
-msgstr ""
+msgstr "E-Mail-Adresse"
 
 #: ../functions.php:3092 ../functions.php:4136
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../functions.php:3167
 msgid "Username"
@@ -695,9 +695,8 @@ msgid "Make sure you entered the captcha."
 msgstr "Keine Seite gefunden. Etwas anderes Suchen?"
 
 #: ../functions.php:4079
-#, fuzzy
 msgid "You entered the wrong number in captcha."
-msgstr "Keine Seite gefunden. Etwas anderes Suchen?"
+msgstr "Sie haben eine falsche Nummer im Captcha eingegeben."
 
 #: ../functions.php:4086
 #, fuzzy
@@ -720,11 +719,11 @@ msgstr "Gepostet von %s"
 
 #: ../functions.php:4131
 msgid "Thanks for contacting us"
-msgstr ""
+msgstr "Vielen Dank für Ihre Nachricht!"
 
 #: ../functions.php:4138
 msgid "Message"
-msgstr ""
+msgstr "Nachricht"
 
 #: ../functions.php:4191
 #, fuzzy

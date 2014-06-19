@@ -1,15 +1,15 @@
 # 
 # Translators:
 # edea <emil.deanovic@gmail.com>, 2014
-# ellena <info@ellena.si>, 2014
-# ellena <info@ellena.si>, 2014
+# Željan Topić <info@ellena.si>, 2014
+# Željan Topić <info@ellena.si>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2014-03-24 12:16:53+00:00\n"
-"PO-Revision-Date: 2014-04-22 07:01+0000\n"
-"Last-Translator: ellena <info@ellena.si>\n"
+"POT-Creation-Date: 2014-06-03 15:13:58+00:00\n"
+"PO-Revision-Date: 2014-06-04 08:41+0000\n"
+"Last-Translator: Mike Jolley <mike.jolley@me.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/woocommerce/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,52 +17,981 @@ msgstr ""
 "Language: sl_SI\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
-#: assets/js/admin/editor_plugin_lang.php:5
-msgid "Insert Shortcode"
-msgstr "Vstavi Kratkokodo"
+#: i18n/countries.php:16
+msgid "Afghanistan"
+msgstr "Afganistan"
 
-#: assets/js/admin/editor_plugin_lang.php:6
-msgid "Product price/cart button"
-msgstr "Gumb cena/košarica izdelka"
+#: i18n/countries.php:17
+msgid "&#197;land Islands"
+msgstr "&#197;land Islands"
 
-#: assets/js/admin/editor_plugin_lang.php:7
-msgid "Product by SKU/ID"
-msgstr "Izdelek glede na Šifro/ID"
+#: i18n/countries.php:18
+msgid "Albania"
+msgstr "Albanija"
 
-#: assets/js/admin/editor_plugin_lang.php:8
-msgid "Products by SKU/ID"
-msgstr "Izdelki glede na Šifro/ID"
+#: i18n/countries.php:19
+msgid "Algeria"
+msgstr "Alžir"
 
-#: assets/js/admin/editor_plugin_lang.php:9
-msgid "Product categories"
-msgstr "Kategorije izdelkov"
+#: i18n/countries.php:20
+msgid "Andorra"
+msgstr "Andorra"
 
-#: assets/js/admin/editor_plugin_lang.php:10
-msgid "Products by category slug"
-msgstr "Izdelki glede na \"slug\" kategorije"
+#: i18n/countries.php:21
+msgid "Angola"
+msgstr "Angola"
 
-#: assets/js/admin/editor_plugin_lang.php:11
-msgid "Recent products"
-msgstr "Nedavni izdelki."
+#: i18n/countries.php:22
+msgid "Anguilla"
+msgstr "Anguilla"
 
-#: assets/js/admin/editor_plugin_lang.php:12
-msgid "Featured products"
-msgstr "Izbrani izdelki."
+#: i18n/countries.php:23
+msgid "Antarctica"
+msgstr "Antarktika"
 
-#: assets/js/admin/editor_plugin_lang.php:13
-msgid "Shop Messages"
-msgstr "Sporočila trgovine"
+#: i18n/countries.php:24
+msgid "Antigua and Barbuda"
+msgstr "Antigua and Barbuda"
 
-#: assets/js/admin/editor_plugin_lang.php:14
-msgid "Order tracking"
-msgstr "Sledenje naročilu"
+#: i18n/countries.php:25
+msgid "Argentina"
+msgstr "Argentina"
 
-#: assets/js/admin/editor_plugin_lang.php:15
-#: includes/shortcodes/class-wc-shortcode-checkout.php:91
-#: includes/shortcodes/class-wc-shortcode-my-account.php:111
-#: templates/checkout/thankyou.php:30
-msgid "My Account"
-msgstr "Moj račun"
+#: i18n/countries.php:26
+msgid "Armenia"
+msgstr "Armenija"
+
+#: i18n/countries.php:27
+msgid "Aruba"
+msgstr "Aruba"
+
+#: i18n/countries.php:28
+msgid "Australia"
+msgstr "Australija"
+
+#: i18n/countries.php:29
+msgid "Austria"
+msgstr "Austria"
+
+#: i18n/countries.php:30
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: i18n/countries.php:31
+msgid "Bahamas"
+msgstr "Bahami"
+
+#: i18n/countries.php:32
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: i18n/countries.php:33
+msgid "Bangladesh"
+msgstr "Bangladeš"
+
+#: i18n/countries.php:34
+msgid "Barbados"
+msgstr "Barbados"
+
+#: i18n/countries.php:35
+msgid "Belarus"
+msgstr "Belorusija"
+
+#: i18n/countries.php:36
+msgid "Belgium"
+msgstr "Belgija"
+
+#: i18n/countries.php:37
+msgid "Belau"
+msgstr "Belau"
+
+#: i18n/countries.php:38
+msgid "Belize"
+msgstr "Belize"
+
+#: i18n/countries.php:39
+msgid "Benin"
+msgstr "Benin"
+
+#: i18n/countries.php:40
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: i18n/countries.php:41
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: i18n/countries.php:42
+msgid "Bolivia"
+msgstr "Bolivija"
+
+#: i18n/countries.php:43
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Saint Eustatius in Saba"
+
+#: i18n/countries.php:44
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna in Hercegovina"
+
+#: i18n/countries.php:45
+msgid "Botswana"
+msgstr "Botswana"
+
+#: i18n/countries.php:46
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+#: i18n/countries.php:47
+msgid "Brazil"
+msgstr "Brazilija"
+
+#: i18n/countries.php:48
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+#: i18n/countries.php:49
+msgid "British Virgin Islands"
+msgstr "Britanski Deviški Otoki"
+
+#: i18n/countries.php:50
+msgid "Brunei"
+msgstr "Brunei"
+
+#: i18n/countries.php:51
+msgid "Bulgaria"
+msgstr "Bolgarija"
+
+#: i18n/countries.php:52
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: i18n/countries.php:53
+msgid "Burundi"
+msgstr "Burundi"
+
+#: i18n/countries.php:54
+msgid "Cambodia"
+msgstr "Kambodža"
+
+#: i18n/countries.php:55
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: i18n/countries.php:56
+msgid "Canada"
+msgstr "Kanada"
+
+#: i18n/countries.php:57
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: i18n/countries.php:58
+msgid "Cayman Islands"
+msgstr "Kajmanski Otoki"
+
+#: i18n/countries.php:59
+msgid "Central African Republic"
+msgstr "Centralna Afriška Republika"
+
+#: i18n/countries.php:60
+msgid "Chad"
+msgstr "Čad"
+
+#: i18n/countries.php:61
+msgid "Chile"
+msgstr "Čile"
+
+#: i18n/countries.php:62
+msgid "China"
+msgstr "Kitajska"
+
+#: i18n/countries.php:63
+msgid "Christmas Island"
+msgstr "Božični otok"
+
+#: i18n/countries.php:64
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+#: i18n/countries.php:65
+msgid "Colombia"
+msgstr "Kolumbija"
+
+#: i18n/countries.php:66
+msgid "Comoros"
+msgstr "Comoros"
+
+#: i18n/countries.php:67
+msgid "Congo (Brazzaville)"
+msgstr "Kongo (Brazzaville)"
+
+#: i18n/countries.php:68
+msgid "Congo (Kinshasa)"
+msgstr "Kongo (Kinšasa)"
+
+#: i18n/countries.php:69
+msgid "Cook Islands"
+msgstr "Cookovi otoki"
+
+#: i18n/countries.php:70
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: i18n/countries.php:71
+msgid "Croatia"
+msgstr "Hrvaška"
+
+#: i18n/countries.php:72
+msgid "Cuba"
+msgstr "Kuba"
+
+#: i18n/countries.php:73
+msgid "Cura&Ccedil;ao"
+msgstr "Cura&Ccedil;ao"
+
+#: i18n/countries.php:74
+msgid "Cyprus"
+msgstr "Ciper"
+
+#: i18n/countries.php:75
+msgid "Czech Republic"
+msgstr "Češka Republika"
+
+#: i18n/countries.php:76
+msgid "Denmark"
+msgstr "Danska"
+
+#: i18n/countries.php:77
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: i18n/countries.php:78
+msgid "Dominica"
+msgstr "Dominica"
+
+#: i18n/countries.php:79
+msgid "Dominican Republic"
+msgstr "Dominikanska Republika"
+
+#: i18n/countries.php:80
+msgid "Ecuador"
+msgstr "Ekvador"
+
+#: i18n/countries.php:81
+msgid "Egypt"
+msgstr "Egipt"
+
+#: i18n/countries.php:82
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: i18n/countries.php:83
+msgid "Equatorial Guinea"
+msgstr "Ekvatorijalna Gvineja"
+
+#: i18n/countries.php:84
+msgid "Eritrea"
+msgstr "Eritreja"
+
+#: i18n/countries.php:85
+msgid "Estonia"
+msgstr "Estonija"
+
+#: i18n/countries.php:86
+msgid "Ethiopia"
+msgstr "Etiopija"
+
+#: i18n/countries.php:87
+msgid "Falkland Islands"
+msgstr "Falklandski Otoki"
+
+#: i18n/countries.php:88
+msgid "Faroe Islands"
+msgstr "Ferski Otoki"
+
+#: i18n/countries.php:89
+msgid "Fiji"
+msgstr "Fidži"
+
+#: i18n/countries.php:90
+msgid "Finland"
+msgstr "Finska"
+
+#: i18n/countries.php:91
+msgid "France"
+msgstr "Francija"
+
+#: i18n/countries.php:92
+msgid "French Guiana"
+msgstr "Francoska Gvajana"
+
+#: i18n/countries.php:93
+msgid "French Polynesia"
+msgstr "Francoska Polinezija"
+
+#: i18n/countries.php:94
+msgid "French Southern Territories"
+msgstr "Francoski Južni Teritoriji"
+
+#: i18n/countries.php:95
+msgid "Gabon"
+msgstr "Gabon"
+
+#: i18n/countries.php:96
+msgid "Gambia"
+msgstr "Gambija"
+
+#: i18n/countries.php:97 i18n/states/US.php:23
+msgid "Georgia"
+msgstr "Gruzija"
+
+#: i18n/countries.php:98
+msgid "Germany"
+msgstr "Nemčija"
+
+#: i18n/countries.php:99
+msgid "Ghana"
+msgstr "Gana"
+
+#: i18n/countries.php:100
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: i18n/countries.php:101
+msgid "Greece"
+msgstr "Grčija"
+
+#: i18n/countries.php:102
+msgid "Greenland"
+msgstr "Grenlandija"
+
+#: i18n/countries.php:103
+msgid "Grenada"
+msgstr "Grenada"
+
+#: i18n/countries.php:104
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: i18n/countries.php:105
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+#: i18n/countries.php:106
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: i18n/countries.php:107
+msgid "Guinea"
+msgstr "Gvineja"
+
+#: i18n/countries.php:108
+msgid "Guinea-Bissau"
+msgstr "Gvineja-Bissau"
+
+#: i18n/countries.php:109
+msgid "Guyana"
+msgstr "Gvajana"
+
+#: i18n/countries.php:110
+msgid "Haiti"
+msgstr "Haiti"
+
+#: i18n/countries.php:111
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Island and McDonald Islands"
+
+#: i18n/countries.php:112
+msgid "Honduras"
+msgstr "Honduras"
+
+#: i18n/countries.php:113
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: i18n/countries.php:114
+msgid "Hungary"
+msgstr "Madžarska"
+
+#: i18n/countries.php:115
+msgid "Iceland"
+msgstr "Islandija"
+
+#: i18n/countries.php:116
+msgid "India"
+msgstr "Indija"
+
+#: i18n/countries.php:117
+msgid "Indonesia"
+msgstr "Indonezija"
+
+#: i18n/countries.php:118
+msgid "Iran"
+msgstr "Iran"
+
+#: i18n/countries.php:119
+msgid "Iraq"
+msgstr "Irak"
+
+#: i18n/countries.php:120
+msgid "Republic of Ireland"
+msgstr "Irska Republika"
+
+#: i18n/countries.php:121
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: i18n/countries.php:122
+msgid "Israel"
+msgstr "Izrael"
+
+#: i18n/countries.php:123
+msgid "Italy"
+msgstr "Italija"
+
+#: i18n/countries.php:124
+msgid "Ivory Coast"
+msgstr "Slonokoščena Obala"
+
+#: i18n/countries.php:125
+msgid "Jamaica"
+msgstr "Jamajka"
+
+#: i18n/countries.php:126
+msgid "Japan"
+msgstr "Japonska"
+
+#: i18n/countries.php:127
+msgid "Jersey"
+msgstr "Jersey"
+
+#: i18n/countries.php:128
+msgid "Jordan"
+msgstr "Jordanija"
+
+#: i18n/countries.php:129
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+#: i18n/countries.php:130
+msgid "Kenya"
+msgstr "Kenija"
+
+#: i18n/countries.php:131
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: i18n/countries.php:132
+msgid "Kuwait"
+msgstr "Kuvajt"
+
+#: i18n/countries.php:133
+msgid "Kyrgyzstan"
+msgstr "Kirgistan"
+
+#: i18n/countries.php:134
+msgid "Laos"
+msgstr "Laos"
+
+#: i18n/countries.php:135
+msgid "Latvia"
+msgstr "Latvija"
+
+#: i18n/countries.php:136
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: i18n/countries.php:137
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: i18n/countries.php:138
+msgid "Liberia"
+msgstr "Libarija"
+
+#: i18n/countries.php:139
+msgid "Libya"
+msgstr "Libija"
+
+#: i18n/countries.php:140
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: i18n/countries.php:141
+msgid "Lithuania"
+msgstr "Litva"
+
+#: i18n/countries.php:142
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: i18n/countries.php:143
+msgid "Macao S.A.R., China"
+msgstr "Macao S.A.R., Kitajska"
+
+#: i18n/countries.php:144
+msgid "Macedonia"
+msgstr "Makedonija"
+
+#: i18n/countries.php:145
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: i18n/countries.php:146
+msgid "Malawi"
+msgstr "Malavi"
+
+#: i18n/countries.php:147
+msgid "Malaysia"
+msgstr "Malezija"
+
+#: i18n/countries.php:148
+msgid "Maldives"
+msgstr "Maldivi"
+
+#: i18n/countries.php:149
+msgid "Mali"
+msgstr "Mali"
+
+#: i18n/countries.php:150
+msgid "Malta"
+msgstr "Malta"
+
+#: i18n/countries.php:151
+msgid "Marshall Islands"
+msgstr "Maršalovo Otočje"
+
+#: i18n/countries.php:152
+msgid "Martinique"
+msgstr "Martinique"
+
+#: i18n/countries.php:153
+msgid "Mauritania"
+msgstr "Mavretanija"
+
+#: i18n/countries.php:154
+msgid "Mauritius"
+msgstr "Mavricius"
+
+#: i18n/countries.php:155
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: i18n/countries.php:156
+msgid "Mexico"
+msgstr "Mehika"
+
+#: i18n/countries.php:157
+msgid "Micronesia"
+msgstr "Mikronezija"
+
+#: i18n/countries.php:158
+msgid "Moldova"
+msgstr "Moldavija"
+
+#: i18n/countries.php:159
+msgid "Monaco"
+msgstr "Monako"
+
+#: i18n/countries.php:160
+msgid "Mongolia"
+msgstr "Mongolija"
+
+#: i18n/countries.php:161
+msgid "Montenegro"
+msgstr "Črna Gora"
+
+#: i18n/countries.php:162
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: i18n/countries.php:163
+msgid "Morocco"
+msgstr "Maroko"
+
+#: i18n/countries.php:164
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: i18n/countries.php:165
+msgid "Myanmar"
+msgstr "Mjanmar"
+
+#: i18n/countries.php:166
+msgid "Namibia"
+msgstr "Namibija"
+
+#: i18n/countries.php:167
+msgid "Nauru"
+msgstr "Nauru"
+
+#: i18n/countries.php:168
+msgid "Nepal"
+msgstr "Nepal"
+
+#: i18n/countries.php:169
+msgid "Netherlands"
+msgstr "Nizozemska"
+
+#: i18n/countries.php:170
+msgid "Netherlands Antilles"
+msgstr "Nizozemski Antili"
+
+#: i18n/countries.php:171
+msgid "New Caledonia"
+msgstr "Nova Kaledonija"
+
+#: i18n/countries.php:172
+msgid "New Zealand"
+msgstr "Nova Zelandija"
+
+#: i18n/countries.php:173
+msgid "Nicaragua"
+msgstr "Nikaragva"
+
+#: i18n/countries.php:174
+msgid "Niger"
+msgstr "Niger"
+
+#: i18n/countries.php:175
+msgid "Nigeria"
+msgstr "Nigerija"
+
+#: i18n/countries.php:176
+msgid "Niue"
+msgstr "Niue"
+
+#: i18n/countries.php:177
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: i18n/countries.php:178
+msgid "North Korea"
+msgstr "Severna Koreja"
+
+#: i18n/countries.php:179
+msgid "Norway"
+msgstr "Norveška"
+
+#: i18n/countries.php:180
+msgid "Oman"
+msgstr "Oman"
+
+#: i18n/countries.php:181
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: i18n/countries.php:182
+msgid "Palestinian Territory"
+msgstr "Palestina"
+
+#: i18n/countries.php:183
+msgid "Panama"
+msgstr "Panama"
+
+#: i18n/countries.php:184
+msgid "Papua New Guinea"
+msgstr "Papua Nova Gvineja"
+
+#: i18n/countries.php:185
+msgid "Paraguay"
+msgstr "Paragvaj"
+
+#: i18n/countries.php:186
+msgid "Peru"
+msgstr "Peru"
+
+#: i18n/countries.php:187
+msgid "Philippines"
+msgstr "Filipini"
+
+#: i18n/countries.php:188
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: i18n/countries.php:189
+msgid "Poland"
+msgstr "Poljska"
+
+#: i18n/countries.php:190
+msgid "Portugal"
+msgstr "Portugal"
+
+#: i18n/countries.php:191
+msgid "Qatar"
+msgstr "Katar"
+
+#: i18n/countries.php:192
+msgid "Reunion"
+msgstr "Reunion"
+
+#: i18n/countries.php:193
+msgid "Romania"
+msgstr "Romunija"
+
+#: i18n/countries.php:194
+msgid "Russia"
+msgstr "Rusija"
+
+#: i18n/countries.php:195
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: i18n/countries.php:196
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint Barth&eacute;lemy"
+
+#: i18n/countries.php:197
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: i18n/countries.php:198
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+#: i18n/countries.php:199
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: i18n/countries.php:200
+msgid "Saint Martin (French part)"
+msgstr "Saint Martin (Francoski del)"
+
+#: i18n/countries.php:201
+msgid "Saint Martin (Dutch part)"
+msgstr "Saint Martin (Nizozemski del)"
+
+#: i18n/countries.php:202
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre in Miquelon"
+
+#: i18n/countries.php:203
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent in Grenadines"
+
+#: i18n/countries.php:204
+msgid "San Marino"
+msgstr "San Marino"
+
+#: i18n/countries.php:205
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "S&atilde;o Tom&eacute; in Pr&iacute;ncipe"
+
+#: i18n/countries.php:206
+msgid "Saudi Arabia"
+msgstr "Savdska Arabija"
+
+#: i18n/countries.php:207
+msgid "Senegal"
+msgstr "Senegal"
+
+#: i18n/countries.php:208
+msgid "Serbia"
+msgstr "Srbija"
+
+#: i18n/countries.php:209
+msgid "Seychelles"
+msgstr "Sejšeli"
+
+#: i18n/countries.php:210
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: i18n/countries.php:211
+msgid "Singapore"
+msgstr "Singapur"
+
+#: i18n/countries.php:212
+msgid "Slovakia"
+msgstr "Slovaška"
+
+#: i18n/countries.php:213
+msgid "Slovenia"
+msgstr "Slovenija"
+
+#: i18n/countries.php:214
+msgid "Solomon Islands"
+msgstr "Salomonovi Otoki"
+
+#: i18n/countries.php:215
+msgid "Somalia"
+msgstr "Somalija"
+
+#: i18n/countries.php:216
+msgid "South Africa"
+msgstr "Južna Afrika"
+
+#: i18n/countries.php:217
+msgid "South Georgia/Sandwich Islands"
+msgstr "South Georgia/Sandwich Islands"
+
+#: i18n/countries.php:218
+msgid "South Korea"
+msgstr "Južna Koreja"
+
+#: i18n/countries.php:219
+msgid "South Sudan"
+msgstr "Južni Sudan"
+
+#: i18n/countries.php:220
+msgid "Spain"
+msgstr "Španija"
+
+#: i18n/countries.php:221
+msgid "Sri Lanka"
+msgstr "Šrilanka"
+
+#: i18n/countries.php:222
+msgid "Sudan"
+msgstr "Sudan"
+
+#: i18n/countries.php:223
+msgid "Suriname"
+msgstr "Surinam"
+
+#: i18n/countries.php:224
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard in Jan Mayen"
+
+#: i18n/countries.php:225
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: i18n/countries.php:226
+msgid "Sweden"
+msgstr "Švedska"
+
+#: i18n/countries.php:227
+msgid "Switzerland"
+msgstr "Švica"
+
+#: i18n/countries.php:228
+msgid "Syria"
+msgstr "Sirija"
+
+#: i18n/countries.php:229
+msgid "Taiwan"
+msgstr "Tajvan"
+
+#: i18n/countries.php:230
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+#: i18n/countries.php:231
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: i18n/countries.php:232
+msgid "Thailand"
+msgstr "Tajska"
+
+#: i18n/countries.php:233
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: i18n/countries.php:234
+msgid "Togo"
+msgstr "Togo"
+
+#: i18n/countries.php:235
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: i18n/countries.php:236
+msgid "Tonga"
+msgstr "Tonga"
+
+#: i18n/countries.php:237
+msgid "Trinidad and Tobago"
+msgstr "Trinidad in Tobago"
+
+#: i18n/countries.php:238
+msgid "Tunisia"
+msgstr "Tunizija"
+
+#: i18n/countries.php:239
+msgid "Turkey"
+msgstr "Turčija"
+
+#: i18n/countries.php:240
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: i18n/countries.php:241
+msgid "Turks and Caicos Islands"
+msgstr "Turks in Caicos Islands"
+
+#: i18n/countries.php:242
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: i18n/countries.php:243
+msgid "Uganda"
+msgstr "Uganda"
+
+#: i18n/countries.php:244
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+#: i18n/countries.php:245
+msgid "United Arab Emirates"
+msgstr "Združeni Arabski Emirati"
+
+#: i18n/countries.php:246
+msgid "United Kingdom (UK)"
+msgstr "Združeno Kraljestvo (UK)"
+
+#: i18n/countries.php:247
+msgid "United States (US)"
+msgstr "Združene Države Amerike (US)"
+
+#: i18n/countries.php:248
+msgid "Uruguay"
+msgstr "Urugvaj"
+
+#: i18n/countries.php:249
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: i18n/countries.php:250
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: i18n/countries.php:251
+msgid "Vatican"
+msgstr "Vatikan"
+
+#: i18n/countries.php:252
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: i18n/countries.php:253
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: i18n/countries.php:254
+msgid "Wallis and Futuna"
+msgstr "Wallis in Futuna"
+
+#: i18n/countries.php:255
+msgid "Western Sahara"
+msgstr "Zahodna Sahara"
+
+#: i18n/countries.php:256
+msgid "Western Samoa"
+msgstr "Zahodna Samoa"
+
+#: i18n/countries.php:257
+msgid "Yemen"
+msgstr "Jemen"
+
+#: i18n/countries.php:258
+msgid "Zambia"
+msgstr "Zambija"
+
+#: i18n/countries.php:259
+msgid "Zimbabwe"
+msgstr "Zimbabve"
 
 #: i18n/states/AU.php:13
 msgid "Australian Capital Territory"
@@ -121,226 +1050,234 @@ msgid "Bogra"
 msgstr "Bogra"
 
 #: i18n/states/BD.php:19
+msgid "Brahmanbaria"
+msgstr ""
+
+#: i18n/states/BD.php:20
 msgid "Chandpur"
 msgstr "Chandpur"
 
-#: i18n/states/BD.php:20
+#: i18n/states/BD.php:21
 msgid "Chittagong"
 msgstr "Chittagong"
 
-#: i18n/states/BD.php:21
+#: i18n/states/BD.php:22
 msgid "Chuadanga"
 msgstr "Chuadanga"
 
-#: i18n/states/BD.php:22
+#: i18n/states/BD.php:23
 msgid "Comilla"
 msgstr "Comilla"
 
-#: i18n/states/BD.php:23
+#: i18n/states/BD.php:24
 msgid "Cox's Bazar"
 msgstr "Cox's Bazar"
 
-#: i18n/states/BD.php:24
+#: i18n/states/BD.php:25
 msgid "Dhaka"
 msgstr "Dhaka"
 
-#: i18n/states/BD.php:25
+#: i18n/states/BD.php:26
 msgid "Dinajpur"
 msgstr "Dinajpur"
 
-#: i18n/states/BD.php:26
+#: i18n/states/BD.php:27
 msgid "Faridpur "
 msgstr "Faridpur "
 
-#: i18n/states/BD.php:27
+#: i18n/states/BD.php:28
 msgid "Feni"
 msgstr "Feni"
 
-#: i18n/states/BD.php:28
+#: i18n/states/BD.php:29
 msgid "Gaibandha"
 msgstr "Gaibandha"
 
-#: i18n/states/BD.php:29
+#: i18n/states/BD.php:30
 msgid "Gazipur"
 msgstr "Gazipur"
 
-#: i18n/states/BD.php:30
+#: i18n/states/BD.php:31
 msgid "Gopalganj"
 msgstr "Gopalganj"
 
-#: i18n/states/BD.php:31
+#: i18n/states/BD.php:32
+msgid "Habiganj"
+msgstr ""
+
+#: i18n/states/BD.php:33
 msgid "Jamalpur"
 msgstr "Jamalpur"
 
-#: i18n/states/BD.php:32
+#: i18n/states/BD.php:34
 msgid "Jessore"
 msgstr "Jessore"
 
-#: i18n/states/BD.php:33
+#: i18n/states/BD.php:35
 msgid "Jhalokati"
 msgstr "Jhalokati"
 
-#: i18n/states/BD.php:34
+#: i18n/states/BD.php:36
 msgid "Jhenaidah"
 msgstr "Jhenaidah"
 
-#: i18n/states/BD.php:35
+#: i18n/states/BD.php:37
 msgid "Joypurhat"
 msgstr "Joypurhat"
 
-#: i18n/states/BD.php:36
+#: i18n/states/BD.php:38
 msgid "Khagrachhari"
 msgstr "Khagrachhari"
 
-#: i18n/states/BD.php:37
+#: i18n/states/BD.php:39
 msgid "Khulna"
 msgstr "Khulna"
 
-#: i18n/states/BD.php:38
+#: i18n/states/BD.php:40
 msgid "Kishoreganj"
 msgstr "Kishoreganj"
 
-#: i18n/states/BD.php:39
+#: i18n/states/BD.php:41
 msgid "Kurigram"
 msgstr "Kurigram"
 
-#: i18n/states/BD.php:40
+#: i18n/states/BD.php:42
 msgid "Kushtia"
 msgstr "Kushtia"
 
-#: i18n/states/BD.php:41
+#: i18n/states/BD.php:43
 msgid "Lakshmipur"
 msgstr "Lakshmipur"
 
-#: i18n/states/BD.php:42
+#: i18n/states/BD.php:44
 msgid "Lalmonirhat"
 msgstr "Lalmonirhat"
 
-#: i18n/states/BD.php:43
+#: i18n/states/BD.php:45
 msgid "Madaripur"
 msgstr "Madaripur"
 
-#: i18n/states/BD.php:44
+#: i18n/states/BD.php:46
 msgid "Magura"
 msgstr "Magura"
 
-#: i18n/states/BD.php:45
+#: i18n/states/BD.php:47
 msgid "Manikganj "
 msgstr "Manikganj "
 
-#: i18n/states/BD.php:46
+#: i18n/states/BD.php:48
 msgid "Meherpur"
 msgstr "Meherpur"
 
-#: i18n/states/BD.php:47
+#: i18n/states/BD.php:49
 msgid "Moulvibazar"
 msgstr "Moulvibazar"
 
-#: i18n/states/BD.php:48
+#: i18n/states/BD.php:50
 msgid "Munshiganj"
 msgstr "Munshiganj"
 
-#: i18n/states/BD.php:49
+#: i18n/states/BD.php:51
 msgid "Mymensingh"
 msgstr "Mymensingh"
 
-#: i18n/states/BD.php:50
+#: i18n/states/BD.php:52
 msgid "Naogaon"
 msgstr "Naogaon"
 
-#: i18n/states/BD.php:51
+#: i18n/states/BD.php:53
 msgid "Narail"
 msgstr "Narail"
 
-#: i18n/states/BD.php:52
+#: i18n/states/BD.php:54
 msgid "Narayanganj"
 msgstr "Narayanganj"
 
-#: i18n/states/BD.php:53
+#: i18n/states/BD.php:55
 msgid "Narsingdi"
 msgstr "Narsingdi"
 
-#: i18n/states/BD.php:54
+#: i18n/states/BD.php:56
 msgid "Natore"
 msgstr "Natore"
 
-#: i18n/states/BD.php:55
+#: i18n/states/BD.php:57
 msgid "Nawabganj"
 msgstr "Nawabganj"
 
-#: i18n/states/BD.php:56
+#: i18n/states/BD.php:58
 msgid "Netrakona"
 msgstr "Netrakona"
 
-#: i18n/states/BD.php:57
+#: i18n/states/BD.php:59
 msgid "Nilphamari"
 msgstr "Nilphamari"
 
-#: i18n/states/BD.php:58
+#: i18n/states/BD.php:60
 msgid "Noakhali"
 msgstr "Noakhali"
 
-#: i18n/states/BD.php:59
+#: i18n/states/BD.php:61
 msgid "Pabna"
 msgstr "Pabna"
 
-#: i18n/states/BD.php:60
+#: i18n/states/BD.php:62
 msgid "Panchagarh"
 msgstr "Panchagarh"
 
-#: i18n/states/BD.php:61
+#: i18n/states/BD.php:63
 msgid "Patuakhali"
 msgstr "Patuakhali"
 
-#: i18n/states/BD.php:62
+#: i18n/states/BD.php:64
 msgid "Pirojpur"
 msgstr "Pirojpur"
 
-#: i18n/states/BD.php:63
+#: i18n/states/BD.php:65
 msgid "Rajbari"
 msgstr "Rajbari"
 
-#: i18n/states/BD.php:64
+#: i18n/states/BD.php:66
 msgid "Rajshahi"
 msgstr "Rajshahi"
 
-#: i18n/states/BD.php:65
+#: i18n/states/BD.php:67
 msgid "Rangamati"
 msgstr "Rangamati"
 
-#: i18n/states/BD.php:66
+#: i18n/states/BD.php:68
 msgid "Rangpur"
 msgstr "Rangpur"
 
-#: i18n/states/BD.php:67
+#: i18n/states/BD.php:69
 msgid "Satkhira"
 msgstr "Satkhira"
 
-#: i18n/states/BD.php:68
+#: i18n/states/BD.php:70
 msgid "Shariatpur"
 msgstr "Shariatpur"
 
-#: i18n/states/BD.php:69
+#: i18n/states/BD.php:71
 msgid "Sherpur"
 msgstr "Sherpur"
 
-#: i18n/states/BD.php:70
+#: i18n/states/BD.php:72
 msgid "Sirajganj"
 msgstr "Sirajganj"
 
-#: i18n/states/BD.php:71
+#: i18n/states/BD.php:73
 msgid "Sunamganj"
 msgstr "Sunamganj"
 
-#: i18n/states/BD.php:72
+#: i18n/states/BD.php:74
 msgid "Sylhet"
 msgstr "Sylhet"
 
-#: i18n/states/BD.php:73
+#: i18n/states/BD.php:75
 msgid "Tangail"
 msgstr "Tangail"
 
-#: i18n/states/BD.php:74
+#: i18n/states/BD.php:76
 msgid "Thakurgaon"
 msgstr "Thakurgaon"
 
@@ -1341,8 +2278,8 @@ msgid "Tripura"
 msgstr "Tripura"
 
 #: i18n/states/IN.php:38
-msgid "Uttaranchal"
-msgstr "Uttaranchal"
+msgid "Uttarakhand"
+msgstr ""
 
 #: i18n/states/IN.php:39
 msgid "Uttar Pradesh"
@@ -2893,10 +3830,6 @@ msgstr "District Of Columbia"
 msgid "Florida"
 msgstr "Florida"
 
-#: i18n/states/US.php:23 includes/class-wc-countries.php:118
-msgid "Georgia"
-msgstr "Gruzija"
-
 #: i18n/states/US.php:24
 msgid "Hawaii"
 msgstr "Hawaii"
@@ -3153,12 +4086,12 @@ msgstr "povrnjeno"
 msgid "cancelled"
 msgstr "preklicano"
 
-#: includes/abstracts/abstract-wc-email.php:570
-#: includes/emails/class-wc-email-customer-completed-order.php:140
-#: includes/emails/class-wc-email-new-order.php:120
+#: includes/abstracts/abstract-wc-email.php:573
+#: includes/emails/class-wc-email-customer-completed-order.php:141
+#: includes/emails/class-wc-email-new-order.php:121
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:66
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:52
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:129
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:122
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:126
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:75
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:64
@@ -3166,309 +4099,333 @@ msgstr "preklicano"
 msgid "Enable/Disable"
 msgstr "Omogočite/Onemogočite"
 
-#: includes/abstracts/abstract-wc-email.php:572
-#: includes/emails/class-wc-email-customer-completed-order.php:142
-#: includes/emails/class-wc-email-new-order.php:122
+#: includes/abstracts/abstract-wc-email.php:575
+#: includes/emails/class-wc-email-customer-completed-order.php:143
+#: includes/emails/class-wc-email-new-order.php:123
 msgid "Enable this email notification"
 msgstr "Omogočite obveščanje preko E-pošte"
 
-#: includes/abstracts/abstract-wc-email.php:576
-#: includes/emails/class-wc-email-customer-invoice.php:146
+#: includes/abstracts/abstract-wc-email.php:579
+#: includes/emails/class-wc-email-customer-invoice.php:147
 msgid "Email subject"
 msgstr "Zadeva E-sporočila"
 
-#: includes/abstracts/abstract-wc-email.php:578
-#: includes/abstracts/abstract-wc-email.php:585
-#: includes/emails/class-wc-email-customer-completed-order.php:148
-#: includes/emails/class-wc-email-customer-completed-order.php:155
-#: includes/emails/class-wc-email-customer-completed-order.php:162
-#: includes/emails/class-wc-email-customer-completed-order.php:169
-#: includes/emails/class-wc-email-customer-invoice.php:148
-#: includes/emails/class-wc-email-customer-invoice.php:155
-#: includes/emails/class-wc-email-customer-invoice.php:162
-#: includes/emails/class-wc-email-customer-invoice.php:169
+#: includes/abstracts/abstract-wc-email.php:581
+#: includes/abstracts/abstract-wc-email.php:588
+#: includes/emails/class-wc-email-customer-completed-order.php:149
+#: includes/emails/class-wc-email-customer-completed-order.php:156
+#: includes/emails/class-wc-email-customer-completed-order.php:163
+#: includes/emails/class-wc-email-customer-completed-order.php:170
+#: includes/emails/class-wc-email-customer-invoice.php:149
+#: includes/emails/class-wc-email-customer-invoice.php:156
+#: includes/emails/class-wc-email-customer-invoice.php:163
+#: includes/emails/class-wc-email-customer-invoice.php:170
 msgid "Defaults to <code>%s</code>"
 msgstr "Privzeto je <code>%s</code>"
 
-#: includes/abstracts/abstract-wc-email.php:583
-#: includes/emails/class-wc-email-customer-invoice.php:153
+#: includes/abstracts/abstract-wc-email.php:586
+#: includes/emails/class-wc-email-customer-invoice.php:154
 msgid "Email heading"
 msgstr "Glava E-sporočila"
 
-#: includes/abstracts/abstract-wc-email.php:590
-#: includes/emails/class-wc-email-customer-completed-order.php:174
-#: includes/emails/class-wc-email-customer-invoice.php:174
-#: includes/emails/class-wc-email-new-order.php:147
+#: includes/abstracts/abstract-wc-email.php:593
+#: includes/emails/class-wc-email-customer-completed-order.php:175
+#: includes/emails/class-wc-email-customer-invoice.php:175
+#: includes/emails/class-wc-email-new-order.php:148
 msgid "Email type"
 msgstr "Tip E-sporočila"
 
-#: includes/abstracts/abstract-wc-email.php:592
-#: includes/emails/class-wc-email-customer-completed-order.php:176
-#: includes/emails/class-wc-email-customer-invoice.php:176
-#: includes/emails/class-wc-email-new-order.php:149
+#: includes/abstracts/abstract-wc-email.php:595
+#: includes/emails/class-wc-email-customer-completed-order.php:177
+#: includes/emails/class-wc-email-customer-invoice.php:177
+#: includes/emails/class-wc-email-new-order.php:150
 msgid "Choose which format of email to send."
 msgstr "Izberite format E-sporčila za pošiljanje."
 
-#: includes/abstracts/abstract-wc-email.php:596
-#: includes/emails/class-wc-email-customer-completed-order.php:180
-#: includes/emails/class-wc-email-customer-invoice.php:180
-#: includes/emails/class-wc-email-new-order.php:153
-msgid "Plain text"
-msgstr "Goli tekst"
-
-#: includes/abstracts/abstract-wc-email.php:597
+#: includes/abstracts/abstract-wc-email.php:599
 #: includes/emails/class-wc-email-customer-completed-order.php:181
 #: includes/emails/class-wc-email-customer-invoice.php:181
 #: includes/emails/class-wc-email-new-order.php:154
-msgid "HTML"
-msgstr "HTML"
+msgid "Plain text"
+msgstr "Goli tekst"
 
-#: includes/abstracts/abstract-wc-email.php:598
+#: includes/abstracts/abstract-wc-email.php:600
 #: includes/emails/class-wc-email-customer-completed-order.php:182
 #: includes/emails/class-wc-email-customer-invoice.php:182
 #: includes/emails/class-wc-email-new-order.php:155
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/abstracts/abstract-wc-email.php:601
+#: includes/emails/class-wc-email-customer-completed-order.php:183
+#: includes/emails/class-wc-email-customer-invoice.php:183
+#: includes/emails/class-wc-email-new-order.php:156
 msgid "Multipart"
 msgstr "Iz več delov"
 
-#: includes/abstracts/abstract-wc-email.php:634
-#: includes/abstracts/abstract-wc-email.php:655
+#: includes/abstracts/abstract-wc-email.php:637
+#: includes/abstracts/abstract-wc-email.php:658
 msgid "Could not write to template file."
 msgstr "Zapisovanje v predlogo ni bilo možno."
 
-#: includes/abstracts/abstract-wc-email.php:686
+#: includes/abstracts/abstract-wc-email.php:689
 msgid "Template file copied to theme."
 msgstr "Predloga kopirana v temo."
 
-#: includes/abstracts/abstract-wc-email.php:695
+#: includes/abstracts/abstract-wc-email.php:698
 msgid "Template file deleted from theme."
 msgstr "Predloga izbrisana iz teme."
 
-#: includes/abstracts/abstract-wc-email.php:703
+#: includes/abstracts/abstract-wc-email.php:706
 #: includes/abstracts/abstract-wc-integration.php:30
 #: includes/abstracts/abstract-wc-settings-api.php:39 woocommerce.php:181
 msgid "Settings"
 msgstr "Nastavitve"
 
-#: includes/abstracts/abstract-wc-email.php:715
+#: includes/abstracts/abstract-wc-email.php:718
 msgid "HTML template"
 msgstr "HTML predloga"
 
-#: includes/abstracts/abstract-wc-email.php:716
+#: includes/abstracts/abstract-wc-email.php:719
 msgid "Plain text template"
 msgstr "Predloga z golim tekstom"
 
-#: includes/abstracts/abstract-wc-email.php:737
+#: includes/abstracts/abstract-wc-email.php:740
 msgid "Delete template file"
 msgstr "Izbriši predlogo"
 
-#: includes/abstracts/abstract-wc-email.php:740
+#: includes/abstracts/abstract-wc-email.php:743
 msgid ""
 "This template has been overridden by your theme and can be found in: "
 "<code>%s</code>."
 msgstr "To predlogo je zamenjala vaša tema in jo lahko najdete v: <code>%s</code>."
 
-#: includes/abstracts/abstract-wc-email.php:755
+#: includes/abstracts/abstract-wc-email.php:758
 msgid "Copy file to theme"
 msgstr "Kopiraj datoteko v temo"
 
-#: includes/abstracts/abstract-wc-email.php:758
+#: includes/abstracts/abstract-wc-email.php:761
 msgid ""
 "To override and edit this email template copy <code>%s</code> to your theme "
 "folder: <code>%s</code>."
 msgstr "Za razveljavitev te predloge E-sporočila, kopirajte <code>%s</code> v mapo vaše teme: <code>%s</code>."
 
-#: includes/abstracts/abstract-wc-email.php:769
+#: includes/abstracts/abstract-wc-email.php:772
 msgid "File was not found."
 msgstr "Ni najdenih datotek."
 
-#: includes/abstracts/abstract-wc-email.php:794
+#: includes/abstracts/abstract-wc-email.php:797
 msgid "View template"
 msgstr "Prikaži predlogo"
 
-#: includes/abstracts/abstract-wc-email.php:795
+#: includes/abstracts/abstract-wc-email.php:798
 msgid "Hide template"
 msgstr "Skrij predlogo"
 
-#: includes/abstracts/abstract-wc-email.php:806
+#: includes/abstracts/abstract-wc-email.php:809
 msgid "Are you sure you want to delete this template file?"
 msgstr "Želite to predlogo zares odstraniti?"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:207
+#: includes/abstracts/abstract-wc-payment-gateway.php:238
 msgid "Card Number"
 msgstr "Številka kartice"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:211
+#: includes/abstracts/abstract-wc-payment-gateway.php:242
 msgid "Expiry (MM/YY)"
 msgstr "Datum izteka (MM/LL)"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:212
+#: includes/abstracts/abstract-wc-payment-gateway.php:243
 msgid "MM / YY"
 msgstr "MM / YY"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:215
+#: includes/abstracts/abstract-wc-payment-gateway.php:246
 msgid "Card Code"
 msgstr "Varnostna številka kartice"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:216
+#: includes/abstracts/abstract-wc-payment-gateway.php:247
 msgid "CVC"
 msgstr "CVC"
 
-#: includes/abstracts/abstract-wc-product.php:455
+#: includes/abstracts/abstract-wc-product.php:475
 #: includes/class-wc-product-simple.php:48
-#: includes/class-wc-product-variation.php:211
+#: includes/class-wc-product-variation.php:215
 msgid "Add to cart"
 msgstr "Dodaj v košarico"
 
-#: includes/abstracts/abstract-wc-product.php:465
+#: includes/abstracts/abstract-wc-product.php:485
 msgid "Read more"
 msgstr "Beri dalje"
 
-#: includes/abstracts/abstract-wc-product.php:573
-#: includes/abstracts/abstract-wc-product.php:578
+#: includes/abstracts/abstract-wc-product.php:593
 #: includes/abstracts/abstract-wc-product.php:598
+#: includes/abstracts/abstract-wc-product.php:618
 msgid "In stock"
 msgstr "Na zalogi"
 
-#: includes/abstracts/abstract-wc-product.php:578
+#: includes/abstracts/abstract-wc-product.php:598
 msgid "Only %s left in stock"
 msgstr "Samo še %s na zalogi"
 
-#: includes/abstracts/abstract-wc-product.php:581
+#: includes/abstracts/abstract-wc-product.php:601
 msgid "%s in stock"
 msgstr "%s na zalogi"
 
-#: includes/abstracts/abstract-wc-product.php:588
+#: includes/abstracts/abstract-wc-product.php:608
 msgid "(backorders allowed)"
 msgstr "(dovoljeni izdelki, ki niso na zalogi)"
 
-#: includes/abstracts/abstract-wc-product.php:595
-#: includes/abstracts/abstract-wc-product.php:608 templates/cart/cart.php:74
+#: includes/abstracts/abstract-wc-product.php:615
+#: includes/abstracts/abstract-wc-product.php:628 templates/cart/cart.php:74
 msgid "Available on backorder"
 msgstr "Dovoljeno tudi, če ni na zalogi"
 
-#: includes/abstracts/abstract-wc-product.php:601
-#: includes/abstracts/abstract-wc-product.php:611
-#: includes/abstracts/abstract-wc-product.php:615
+#: includes/abstracts/abstract-wc-product.php:621
+#: includes/abstracts/abstract-wc-product.php:631
+#: includes/abstracts/abstract-wc-product.php:635
 msgid "Out of stock"
 msgstr "Ni na zalogi"
 
-#: includes/abstracts/abstract-wc-product.php:908
-#: includes/abstracts/abstract-wc-product.php:914
-#: includes/class-wc-cart.php:1419 includes/class-wc-order.php:859
-#: includes/class-wc-product-variation.php:312
+#: includes/abstracts/abstract-wc-product.php:928
+#: includes/abstracts/abstract-wc-product.php:934
+#: includes/class-wc-cart.php:1450 includes/class-wc-order.php:882
+#: includes/class-wc-product-variation.php:316
 msgid "Free!"
 msgstr "Brezplačno!"
 
-#: includes/abstracts/abstract-wc-product.php:930
+#: includes/abstracts/abstract-wc-product.php:950
 msgctxt "min_price"
 msgid "From:"
 msgstr "Od:"
 
-#: includes/abstracts/abstract-wc-product.php:1040
+#: includes/abstracts/abstract-wc-product.php:1060
 #: templates/single-product/rating.php:23
 msgid "Rated %s out of 5"
 msgstr "Ocenjeno %s od 5"
 
-#: includes/abstracts/abstract-wc-product.php:1042
+#: includes/abstracts/abstract-wc-product.php:1062
 #: templates/single-product/rating.php:25
 #: templates/single-product/review.php:27
 msgid "out of 5"
 msgstr "od 5"
 
-#: includes/abstracts/abstract-wc-product.php:1386
+#: includes/abstracts/abstract-wc-product.php:1421
 msgid "%s &ndash; %s"
 msgstr "%s &ndash; %s"
 
-#: includes/api/class-wc-api-authentication.php:69
+#: includes/api/class-wc-api-authentication.php:85
 msgid "Consumer Key is missing"
 msgstr "Manjka skrivni ključ"
 
-#: includes/api/class-wc-api-authentication.php:72
+#: includes/api/class-wc-api-authentication.php:101
 msgid "Consumer Secret is missing"
 msgstr "Manjka skrivna beseda"
 
-#: includes/api/class-wc-api-authentication.php:80
+#: includes/api/class-wc-api-authentication.php:107
 msgid "Consumer Secret is invalid"
 msgstr "Skrivna beseda je neveljavna"
 
-#: includes/api/class-wc-api-authentication.php:112
+#: includes/api/class-wc-api-authentication.php:140
 msgid "%s parameter is missing"
 msgstr "parameter %s manjka"
 
-#: includes/api/class-wc-api-authentication.php:151
+#: includes/api/class-wc-api-authentication.php:174
 msgid "Consumer Key is invalid"
 msgstr "Skrivni ključ je neveljaven"
 
-#: includes/api/class-wc-api-authentication.php:201
+#: includes/api/class-wc-api-authentication.php:224
 msgid "Invalid Signature - failed to sort parameters"
 msgstr "Neveljaven podpis - razvrščanje parametrov ni uspelo"
 
-#: includes/api/class-wc-api-authentication.php:214
+#: includes/api/class-wc-api-authentication.php:238
 msgid "Invalid Signature - signature method is invalid"
 msgstr "Neveljaven podpis - način podpisa je neveljaven"
 
-#: includes/api/class-wc-api-authentication.php:221
+#: includes/api/class-wc-api-authentication.php:246
 msgid "Invalid Signature - provided signature does not match"
 msgstr "Neveljaven podpis - posredovani podpisi se ne ujemajo"
 
-#: includes/api/class-wc-api-authentication.php:256
+#: includes/api/class-wc-api-authentication.php:303
 msgid "Invalid timestamp"
 msgstr "Neveljavna oznaka časa"
 
-#: includes/api/class-wc-api-authentication.php:264
+#: includes/api/class-wc-api-authentication.php:311
 msgid "Invalid nonce - nonce has already been used"
 msgstr "Neveljaven nonce - nonce je bil že uporabljen"
 
-#: includes/api/class-wc-api-authentication.php:293
+#: includes/api/class-wc-api-authentication.php:340
 msgid "The API key provided does not have read permissions"
 msgstr "Posredovan API ključ nima pravic za branje"
 
-#: includes/api/class-wc-api-authentication.php:302
+#: includes/api/class-wc-api-authentication.php:349
 msgid "The API key provided does not have write permissions"
 msgstr "Posredovan API ključ nima pravic za zapisovanje"
 
-#: includes/api/class-wc-api-coupons.php:107
+#: includes/api/class-wc-api-coupons.php:112
 msgid "Invalid coupon ID"
 msgstr "Neveljaven ID kupona"
 
-#: includes/api/class-wc-api-coupons.php:152
+#: includes/api/class-wc-api-coupons.php:158
 msgid "You do not have permission to read the coupons count"
 msgstr "Nimate pravic za ogled uprabe kupona"
 
-#: includes/api/class-wc-api-coupons.php:171
+#: includes/api/class-wc-api-coupons.php:178
 msgid "Invalid coupon code"
 msgstr "Neveljavna koda ugodnosti"
 
-#: includes/api/class-wc-api-customers.php:198
-#: includes/api/class-wc-api-customers.php:201
+#: includes/api/class-wc-api-coupons.php:196
+msgid "You do not have permission to create coupons"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:201
+#: includes/api/class-wc-api-customers.php:337
+#: includes/api/class-wc-api-server.php:423
+msgid "Missing parameter %s"
+msgstr "Manjka parameter $s"
+
+#: includes/api/class-wc-api-coupons.php:216
+#: includes/api/class-wc-api-coupons.php:318
+msgid "The coupon code already exists"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:243
+#: includes/api/class-wc-api-coupons.php:330
+msgid "Invalid coupon type - the coupon type must be any of these: %s"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:323
+msgid "Failed to update coupon"
+msgstr ""
+
+#: includes/api/class-wc-api-customers.php:254
+#: includes/api/class-wc-api-customers.php:257
 msgid "Invalid customer Email"
 msgstr "Neveljaven E-naslov kupca"
 
-#: includes/api/class-wc-api-customers.php:219
+#: includes/api/class-wc-api-customers.php:275
 msgid "You do not have permission to read the customers count"
 msgstr "Nimate pravic za ogled števila kupcev"
 
-#: includes/api/class-wc-api-customers.php:235
+#: includes/api/class-wc-api-customers.php:332
 msgid "You do not have permission to create this customer"
 msgstr "Nimate pravic za ustvarjanje novega kupca"
 
-#: includes/api/class-wc-api-customers.php:482
+#: includes/api/class-wc-api-customers.php:665
 msgid "Invalid customer ID"
 msgstr "Neveljaven ID kupca"
 
-#: includes/api/class-wc-api-customers.php:488
+#: includes/api/class-wc-api-customers.php:672
 msgid "Invalid customer"
 msgstr "Neveljaven kupec"
 
-#: includes/api/class-wc-api-customers.php:495
+#: includes/api/class-wc-api-customers.php:680
 msgid "You do not have permission to read this customer"
 msgstr "Nimate pravic za ogled podatkov o kupcu"
 
-#: includes/api/class-wc-api-customers.php:500
+#: includes/api/class-wc-api-customers.php:686
 msgid "You do not have permission to edit this customer"
 msgstr "Nimate pravic za urejanje podatkov o kupcu"
 
-#: includes/api/class-wc-api-customers.php:505
+#: includes/api/class-wc-api-customers.php:692
 msgid "You do not have permission to delete this customer"
 msgstr "Nimate pravic za izbris kupca"
 
@@ -3480,7 +4437,7 @@ msgstr "JSONP podpora je onemogočena za to stran."
 msgid "The JSONP callback function is invalid"
 msgstr "Povratni klic funkcije JSONP je neveljaven"
 
-#: includes/api/class-wc-api-orders.php:255
+#: includes/api/class-wc-api-orders.php:256
 msgid "You do not have permission to read the orders count"
 msgstr "Nimate pravic za ogled uprabe količine naročil"
 
@@ -3488,8 +4445,8 @@ msgstr "Nimate pravic za ogled uprabe količine naročil"
 msgid "You do not have permission to read the products count"
 msgstr "Nimate pravic za ogled količine izdelkov"
 
+#: includes/api/class-wc-api-products.php:458
 #: includes/api/class-wc-api-products.php:459
-#: includes/api/class-wc-api-products.php:460
 msgid "Placeholder"
 msgstr "Označba"
 
@@ -3517,23 +4474,23 @@ msgstr "Nimate pravic za urejanje %s"
 msgid "You do not have permission to delete this %s"
 msgstr "Nimate pravic za izbris %s"
 
-#: includes/api/class-wc-api-resource.php:302
+#: includes/api/class-wc-api-resource.php:314
 msgid "Permanently deleted customer"
 msgstr "Trajno izbrisan kupec"
 
-#: includes/api/class-wc-api-resource.php:304
+#: includes/api/class-wc-api-resource.php:316
 msgid "The customer cannot be deleted"
 msgstr "Uporabnika ni mogoče izbrisati"
 
-#: includes/api/class-wc-api-resource.php:313
+#: includes/api/class-wc-api-resource.php:325
 msgid "This %s cannot be deleted"
 msgstr "%s ni mogoče izbrisati"
 
-#: includes/api/class-wc-api-resource.php:316
+#: includes/api/class-wc-api-resource.php:328
 msgid "Permanently deleted %s"
 msgstr "Trajno izbrisan %s"
 
-#: includes/api/class-wc-api-resource.php:322
+#: includes/api/class-wc-api-resource.php:334
 msgid "Deleted %s"
 msgstr "Izbrisan %s"
 
@@ -3553,80 +4510,7 @@ msgstr "Vodnik za pot je neveljaven"
 msgid "No route was found matching the URL and request method"
 msgstr "Naslovov, ki bi ustrezali URL-ju in metodi zahtevkov ni bilo mogoče najti"
 
-#: includes/api/class-wc-api-server.php:404
-msgid "Missing parameter %s"
-msgstr "Manjka parameter $s"
-
-#: includes/class-wc-ajax.php:158
-msgid "Sorry, your session has expired."
-msgstr "Vaša seja je potekla."
-
-#: includes/class-wc-ajax.php:158
-msgid "Return to homepage"
-msgstr "Nazaj na prvo stran"
-
-#: includes/class-wc-ajax.php:291 includes/class-wc-ajax.php:320
-#: includes/class-wc-ajax.php:337
-msgid "You do not have sufficient permissions to access this page."
-msgstr "Nimate pravic za dostop do te strani."
-
-#: includes/class-wc-ajax.php:294 includes/class-wc-ajax.php:321
-#: includes/class-wc-ajax.php:338
-msgid "You have taken too long. Please go back and retry."
-msgstr "Vzelo vam je preveč časa. Pojdite nazaj in osvežite stran."
-
-#: includes/class-wc-ajax.php:551
-msgid "Same as parent"
-msgstr "Isto kot matično"
-
-#: includes/class-wc-ajax.php:552
-msgid "Standard"
-msgstr "Standard"
-
-#: includes/class-wc-ajax.php:810
-msgid "File %d"
-msgstr "Datoteka %d"
-
-#: includes/class-wc-ajax.php:1008 includes/class-wc-ajax.php:1009
-#: includes/class-wc-order.php:1571
-msgid "Item #%s stock reduced from %s to %s."
-msgstr "Zaloga izdelka #%s zmanjšana z %s na %s."
-
-#: includes/class-wc-ajax.php:1017
-msgid ""
-"No products had their stock reduced - they may not have stock management "
-"enabled."
-msgstr "Noben izdelek ni imel zmanjšane zaloge - možno je, da izdelki nimajo omogočeno vodenje zaloge."
-
-#: includes/class-wc-ajax.php:1056 includes/class-wc-ajax.php:1057
-msgid "Item #%s stock increased from %s to %s."
-msgstr "Zaloga izdelka #%s povečana z %s na %s."
-
-#: includes/class-wc-ajax.php:1064
-msgid ""
-"No products had their stock increased - they may not have stock management "
-"enabled."
-msgstr "Noben izdelek ni imel povečane zaloge - možno je, da izdelki nimajo omogočeno vodenje zaloge."
-
-#: includes/class-wc-ajax.php:1080
-#: includes/widgets/class-wc-widget-product-categories.php:39
-#: templates/single-product-reviews.php:62
-msgid "Name"
-msgstr "Naziv"
-
-#: includes/class-wc-ajax.php:1080
-msgid "Value"
-msgstr "Vrednost"
-
-#: includes/class-wc-ajax.php:1298
-msgid "Delete note"
-msgstr "Izbrišite obvestilo"
-
-#: includes/class-wc-ajax.php:1443
-msgid "Guest"
-msgstr "Gost"
-
-#: includes/class-wc-cache-helper.php:105
+#: includes/class-wc-cache-helper.php:106
 msgid ""
 "In order for <strong>database caching</strong> to work with WooCommerce you "
 "must add <code>_wc_session_</code> to the \"Ignored Query Strings\" option "
@@ -3639,58 +4523,58 @@ msgid ""
 "Please contact us if you need assistance."
 msgstr "%s izdleek je bil odstranjen iz vaše košarice, ker ga ni mogoče več kupiti. Kontaktirajte nas, če potrebujete pomoč."
 
-#: includes/class-wc-cart.php:363
+#: includes/class-wc-cart.php:370
 msgid "An item which is no longer available was removed from your cart."
 msgstr "Izdelek, ki ni več na voljo, je bil odstranjen iz košarice."
 
-#: includes/class-wc-cart.php:397 includes/class-wc-cart.php:416
-#: includes/class-wc-cart.php:425
+#: includes/class-wc-cart.php:404 includes/class-wc-cart.php:423
+#: includes/class-wc-cart.php:432
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
 "stock). Please edit your cart and try again. We apologise for any "
 "inconvenience caused."
 msgstr "Trenutno nimamo dovolj \"%s\" na zalogi da bi lahko zapolnili naročilo (%s in stock). Uredite vašo košarico in poskusite znova. Se opravičujemo za nevšečnost."
 
-#: includes/class-wc-cart.php:460
+#: includes/class-wc-cart.php:467
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order right "
 "now. Please try again in %d minutes or edit your cart and try again. We "
 "apologise for any inconvenience caused."
 msgstr "Trenutno nimamo dovolj \"%s\" na zalogi da bi lahko v tem trenutku zapolnili naročilo. Poskusite znova čez %d minut ali uredite vašo košarico in poskusite znova. Se opravičujemo za nevšečnost."
 
-#: includes/class-wc-cart.php:470
+#: includes/class-wc-cart.php:477
 msgid ""
 "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
 "apologise for any inconvenience caused."
 msgstr "Nažalost \"%s\" ni na zalogi. Uredite vašo košarico in poskusite znova. Se opravičujemo za nevšečnost."
 
-#: includes/class-wc-cart.php:798
-msgid "Sorry, &quot;%s&quot; cannot be purchased."
-msgstr "Nažalost &quot;%s&quot; ni mogoče kupiti."
+#: includes/class-wc-cart.php:809
+msgid "Sorry, this product cannot be purchased."
+msgstr ""
 
-#: includes/class-wc-cart.php:805
+#: includes/class-wc-cart.php:816
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of "
 "stock."
 msgstr "&quot;%s&quot; ne morete dodati v košarico, ker ni na zalogi."
 
-#: includes/class-wc-cart.php:810
+#: includes/class-wc-cart.php:821
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is "
 "not enough stock (%s remaining)."
 msgstr "Takšne količine &quot;%s&quot; ni mogoče dodati v košarico, ker ni na zalogi (%s še na zalogi)."
 
-#: includes/class-wc-cart.php:824 includes/class-wc-cart.php:843
-#: includes/class-wc-cart.php:856 includes/class-wc-frontend-scripts.php:157
-#: includes/wc-cart-functions.php:98 templates/cart/mini-cart.php:64
+#: includes/class-wc-cart.php:835 includes/class-wc-cart.php:854
+#: includes/class-wc-cart.php:867 includes/class-wc-frontend-scripts.php:188
+#: includes/wc-cart-functions.php:96 templates/cart/mini-cart.php:64
 msgid "View Cart"
 msgstr "Prikaži košarico"
 
-#: includes/class-wc-cart.php:825
+#: includes/class-wc-cart.php:836
 msgid "You cannot add another &quot;%s&quot; to your cart."
 msgstr "Novega &quot;%s&quot; ne morete dodati v košarico."
 
-#: includes/class-wc-cart.php:844 includes/class-wc-cart.php:857
+#: includes/class-wc-cart.php:855 includes/class-wc-cart.php:868
 msgid ""
 "You cannot add that amount to the cart &mdash; we have %s in stock and you "
 "already have %s in your cart."
@@ -3750,1279 +4634,208 @@ msgid ""
 " to homepage</a>"
 msgstr "Vaša seja je potekla. <a href=\"%s\" class=\"wc-backward\">Nazaj na prvo stran</a>"
 
-#: includes/class-wc-checkout.php:498 includes/class-wc-form-handler.php:88
+#: includes/class-wc-checkout.php:500 includes/class-wc-form-handler.php:84
 msgid "is a required field."
 msgstr "je zahtevano vnosno polje."
 
-#: includes/class-wc-checkout.php:510 includes/class-wc-form-handler.php:99
+#: includes/class-wc-checkout.php:512 includes/class-wc-form-handler.php:95
 #: includes/shortcodes/class-wc-shortcode-cart.php:43
 msgid "Please enter a valid postcode/ZIP."
 msgstr "Vnesite veljavno poštno številko."
 
-#: includes/class-wc-checkout.php:519 includes/class-wc-form-handler.php:108
+#: includes/class-wc-checkout.php:521 includes/class-wc-form-handler.php:104
 msgid "is not a valid phone number."
 msgstr "ni veljavna telefonska številka."
 
-#: includes/class-wc-checkout.php:525 includes/class-wc-form-handler.php:115
+#: includes/class-wc-checkout.php:527 includes/class-wc-form-handler.php:111
 msgid "is not a valid email address."
 msgstr "ni veljaven elektronski naslov."
 
-#: includes/class-wc-checkout.php:540
+#: includes/class-wc-checkout.php:542
 msgid "is not valid. Please enter one of the following:"
 msgstr "ni veljavna/o. Vnesite vsaj eno med navedenim:"
 
-#: includes/class-wc-checkout.php:585
+#: includes/class-wc-checkout.php:587
 msgid "You must accept our Terms &amp; Conditions."
 msgstr "Naše pogoje poslovanja morate sprejeti."
 
-#: includes/class-wc-checkout.php:590
+#: includes/class-wc-checkout.php:592
 msgid ""
 "Unfortunately <strong>we do not ship to %s</strong>. Please enter an "
 "alternative shipping address."
 msgstr "Nažalost <strong>ne dostavljamo v %s</strong>. Vpišite alternativni naslov za dostavo in poskusite znova."
 
-#: includes/class-wc-checkout.php:598
+#: includes/class-wc-checkout.php:600
 msgid "Invalid shipping method."
 msgstr "Neveljaven način dostave."
 
-#: includes/class-wc-checkout.php:611
+#: includes/class-wc-checkout.php:613
 msgid "Invalid payment method."
 msgstr "Neveljaven način plačila."
 
-#: includes/class-wc-comments.php:110
-msgid "You have taken too long. Please go back and refresh the page."
-msgstr "Vzelo vam je preveč časa. Pojdite nazaj in osvežite stran."
-
-#: includes/class-wc-comments.php:113
+#: includes/class-wc-comments.php:111
 msgid "Please rate the product."
 msgstr "Ocenite izdelek."
 
-#: includes/class-wc-countries.php:37
-msgid "Afghanistan"
-msgstr "Afganistan"
-
-#: includes/class-wc-countries.php:38
-msgid "&#197;land Islands"
-msgstr "&#197;land Islands"
-
-#: includes/class-wc-countries.php:39
-msgid "Albania"
-msgstr "Albanija"
-
-#: includes/class-wc-countries.php:40
-msgid "Algeria"
-msgstr "Alžir"
-
-#: includes/class-wc-countries.php:41
-msgid "Andorra"
-msgstr "Andorra"
-
-#: includes/class-wc-countries.php:42
-msgid "Angola"
-msgstr "Angola"
-
-#: includes/class-wc-countries.php:43
-msgid "Anguilla"
-msgstr "Anguilla"
-
-#: includes/class-wc-countries.php:44
-msgid "Antarctica"
-msgstr "Antarktika"
-
-#: includes/class-wc-countries.php:45
-msgid "Antigua and Barbuda"
-msgstr "Antigua and Barbuda"
-
-#: includes/class-wc-countries.php:46
-msgid "Argentina"
-msgstr "Argentina"
-
-#: includes/class-wc-countries.php:47
-msgid "Armenia"
-msgstr "Armenija"
-
-#: includes/class-wc-countries.php:48
-msgid "Aruba"
-msgstr "Aruba"
-
-#: includes/class-wc-countries.php:49
-msgid "Australia"
-msgstr "Australija"
-
-#: includes/class-wc-countries.php:50
-msgid "Austria"
-msgstr "Austria"
-
-#: includes/class-wc-countries.php:51
-msgid "Azerbaijan"
-msgstr "Azerbaijan"
-
-#: includes/class-wc-countries.php:52
-msgid "Bahamas"
-msgstr "Bahami"
-
-#: includes/class-wc-countries.php:53
-msgid "Bahrain"
-msgstr "Bahrain"
-
-#: includes/class-wc-countries.php:54
-msgid "Bangladesh"
-msgstr "Bangladeš"
-
-#: includes/class-wc-countries.php:55
-msgid "Barbados"
-msgstr "Barbados"
-
-#: includes/class-wc-countries.php:56
-msgid "Belarus"
-msgstr "Belorusija"
-
-#: includes/class-wc-countries.php:57
-msgid "Belgium"
-msgstr "Belgija"
-
-#: includes/class-wc-countries.php:58
-msgid "Belau"
-msgstr "Belau"
-
-#: includes/class-wc-countries.php:59
-msgid "Belize"
-msgstr "Belize"
-
-#: includes/class-wc-countries.php:60
-msgid "Benin"
-msgstr "Benin"
-
-#: includes/class-wc-countries.php:61
-msgid "Bermuda"
-msgstr "Bermuda"
-
-#: includes/class-wc-countries.php:62
-msgid "Bhutan"
-msgstr "Bhutan"
-
-#: includes/class-wc-countries.php:63
-msgid "Bolivia"
-msgstr "Bolivija"
-
-#: includes/class-wc-countries.php:64
-msgid "Bonaire, Saint Eustatius and Saba"
-msgstr "Bonaire, Saint Eustatius in Saba"
-
-#: includes/class-wc-countries.php:65
-msgid "Bosnia and Herzegovina"
-msgstr "Bosna in Hercegovina"
-
-#: includes/class-wc-countries.php:66
-msgid "Botswana"
-msgstr "Botswana"
-
-#: includes/class-wc-countries.php:67
-msgid "Bouvet Island"
-msgstr "Bouvet Island"
-
-#: includes/class-wc-countries.php:68
-msgid "Brazil"
-msgstr "Brazilija"
-
-#: includes/class-wc-countries.php:69
-msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
-
-#: includes/class-wc-countries.php:70
-msgid "British Virgin Islands"
-msgstr "Britanski Deviški Otoki"
-
-#: includes/class-wc-countries.php:71
-msgid "Brunei"
-msgstr "Brunei"
-
-#: includes/class-wc-countries.php:72
-msgid "Bulgaria"
-msgstr "Bolgarija"
-
-#: includes/class-wc-countries.php:73
-msgid "Burkina Faso"
-msgstr "Burkina Faso"
-
-#: includes/class-wc-countries.php:74
-msgid "Burundi"
-msgstr "Burundi"
-
-#: includes/class-wc-countries.php:75
-msgid "Cambodia"
-msgstr "Kambodža"
-
-#: includes/class-wc-countries.php:76
-msgid "Cameroon"
-msgstr "Kamerun"
-
-#: includes/class-wc-countries.php:77
-msgid "Canada"
-msgstr "Kanada"
-
-#: includes/class-wc-countries.php:78
-msgid "Cape Verde"
-msgstr "Cape Verde"
-
-#: includes/class-wc-countries.php:79
-msgid "Cayman Islands"
-msgstr "Kajmanski Otoki"
-
-#: includes/class-wc-countries.php:80
-msgid "Central African Republic"
-msgstr "Centralna Afriška Republika"
-
-#: includes/class-wc-countries.php:81
-msgid "Chad"
-msgstr "Čad"
-
-#: includes/class-wc-countries.php:82
-msgid "Chile"
-msgstr "Čile"
-
-#: includes/class-wc-countries.php:83
-msgid "China"
-msgstr "Kitajska"
-
-#: includes/class-wc-countries.php:84
-msgid "Christmas Island"
-msgstr "Božični otok"
-
-#: includes/class-wc-countries.php:85
-msgid "Cocos (Keeling) Islands"
-msgstr "Cocos (Keeling) Islands"
-
-#: includes/class-wc-countries.php:86
-msgid "Colombia"
-msgstr "Kolumbija"
-
-#: includes/class-wc-countries.php:87
-msgid "Comoros"
-msgstr "Comoros"
-
-#: includes/class-wc-countries.php:88
-msgid "Congo (Brazzaville)"
-msgstr "Kongo (Brazzaville)"
-
-#: includes/class-wc-countries.php:89
-msgid "Congo (Kinshasa)"
-msgstr "Kongo (Kinšasa)"
-
-#: includes/class-wc-countries.php:90
-msgid "Cook Islands"
-msgstr "Cookovi otoki"
-
-#: includes/class-wc-countries.php:91
-msgid "Costa Rica"
-msgstr "Costa Rica"
-
-#: includes/class-wc-countries.php:92
-msgid "Croatia"
-msgstr "Hrvaška"
-
-#: includes/class-wc-countries.php:93
-msgid "Cuba"
-msgstr "Kuba"
-
-#: includes/class-wc-countries.php:94
-msgid "Cura&Ccedil;ao"
-msgstr "Cura&Ccedil;ao"
-
-#: includes/class-wc-countries.php:95
-msgid "Cyprus"
-msgstr "Ciper"
-
-#: includes/class-wc-countries.php:96
-msgid "Czech Republic"
-msgstr "Češka Republika"
-
-#: includes/class-wc-countries.php:97
-msgid "Denmark"
-msgstr "Danska"
-
-#: includes/class-wc-countries.php:98
-msgid "Djibouti"
-msgstr "Djibouti"
-
-#: includes/class-wc-countries.php:99
-msgid "Dominica"
-msgstr "Dominica"
-
-#: includes/class-wc-countries.php:100
-msgid "Dominican Republic"
-msgstr "Dominikanska Republika"
-
-#: includes/class-wc-countries.php:101
-msgid "Ecuador"
-msgstr "Ekvador"
-
-#: includes/class-wc-countries.php:102
-msgid "Egypt"
-msgstr "Egipt"
-
-#: includes/class-wc-countries.php:103
-msgid "El Salvador"
-msgstr "El Salvador"
-
-#: includes/class-wc-countries.php:104
-msgid "Equatorial Guinea"
-msgstr "Ekvatorijalna Gvineja"
-
-#: includes/class-wc-countries.php:105
-msgid "Eritrea"
-msgstr "Eritreja"
-
-#: includes/class-wc-countries.php:106
-msgid "Estonia"
-msgstr "Estonija"
-
-#: includes/class-wc-countries.php:107
-msgid "Ethiopia"
-msgstr "Etiopija"
-
-#: includes/class-wc-countries.php:108
-msgid "Falkland Islands"
-msgstr "Falklandski Otoki"
-
-#: includes/class-wc-countries.php:109
-msgid "Faroe Islands"
-msgstr "Ferski Otoki"
-
-#: includes/class-wc-countries.php:110
-msgid "Fiji"
-msgstr "Fidži"
-
-#: includes/class-wc-countries.php:111
-msgid "Finland"
-msgstr "Finska"
-
-#: includes/class-wc-countries.php:112
-msgid "France"
-msgstr "Francija"
-
-#: includes/class-wc-countries.php:113
-msgid "French Guiana"
-msgstr "Francoska Gvajana"
-
-#: includes/class-wc-countries.php:114
-msgid "French Polynesia"
-msgstr "Francoska Polinezija"
-
-#: includes/class-wc-countries.php:115
-msgid "French Southern Territories"
-msgstr "Francoski Južni Teritoriji"
-
-#: includes/class-wc-countries.php:116
-msgid "Gabon"
-msgstr "Gabon"
-
-#: includes/class-wc-countries.php:117
-msgid "Gambia"
-msgstr "Gambija"
-
-#: includes/class-wc-countries.php:119
-msgid "Germany"
-msgstr "Nemčija"
-
-#: includes/class-wc-countries.php:120
-msgid "Ghana"
-msgstr "Gana"
-
-#: includes/class-wc-countries.php:121
-msgid "Gibraltar"
-msgstr "Gibraltar"
-
-#: includes/class-wc-countries.php:122
-msgid "Greece"
-msgstr "Grčija"
-
-#: includes/class-wc-countries.php:123
-msgid "Greenland"
-msgstr "Grenlandija"
-
-#: includes/class-wc-countries.php:124
-msgid "Grenada"
-msgstr "Grenada"
-
-#: includes/class-wc-countries.php:125
-msgid "Guadeloupe"
-msgstr "Guadeloupe"
-
-#: includes/class-wc-countries.php:126
-msgid "Guatemala"
-msgstr "Gvatemala"
-
-#: includes/class-wc-countries.php:127
-msgid "Guernsey"
-msgstr "Guernsey"
-
-#: includes/class-wc-countries.php:128
-msgid "Guinea"
-msgstr "Gvineja"
-
-#: includes/class-wc-countries.php:129
-msgid "Guinea-Bissau"
-msgstr "Gvineja-Bissau"
-
-#: includes/class-wc-countries.php:130
-msgid "Guyana"
-msgstr "Gvajana"
-
-#: includes/class-wc-countries.php:131
-msgid "Haiti"
-msgstr "Haiti"
-
-#: includes/class-wc-countries.php:132
-msgid "Heard Island and McDonald Islands"
-msgstr "Heard Island and McDonald Islands"
-
-#: includes/class-wc-countries.php:133
-msgid "Honduras"
-msgstr "Honduras"
-
-#: includes/class-wc-countries.php:134
-msgid "Hong Kong"
-msgstr "Hong Kong"
-
-#: includes/class-wc-countries.php:135
-msgid "Hungary"
-msgstr "Madžarska"
-
-#: includes/class-wc-countries.php:136
-msgid "Iceland"
-msgstr "Islandija"
-
-#: includes/class-wc-countries.php:137
-msgid "India"
-msgstr "Indija"
-
-#: includes/class-wc-countries.php:138
-msgid "Indonesia"
-msgstr "Indonezija"
-
-#: includes/class-wc-countries.php:139
-msgid "Iran"
-msgstr "Iran"
-
-#: includes/class-wc-countries.php:140
-msgid "Iraq"
-msgstr "Irak"
-
-#: includes/class-wc-countries.php:141
-msgid "Republic of Ireland"
-msgstr "Irska Republika"
-
-#: includes/class-wc-countries.php:142
-msgid "Isle of Man"
-msgstr "Isle of Man"
-
-#: includes/class-wc-countries.php:143
-msgid "Israel"
-msgstr "Izrael"
-
-#: includes/class-wc-countries.php:144
-msgid "Italy"
-msgstr "Italija"
-
-#: includes/class-wc-countries.php:145
-msgid "Ivory Coast"
-msgstr "Slonokoščena Obala"
-
-#: includes/class-wc-countries.php:146
-msgid "Jamaica"
-msgstr "Jamajka"
-
-#: includes/class-wc-countries.php:147
-msgid "Japan"
-msgstr "Japonska"
-
-#: includes/class-wc-countries.php:148
-msgid "Jersey"
-msgstr "Jersey"
-
-#: includes/class-wc-countries.php:149
-msgid "Jordan"
-msgstr "Jordanija"
-
-#: includes/class-wc-countries.php:150
-msgid "Kazakhstan"
-msgstr "Kazahstan"
-
-#: includes/class-wc-countries.php:151
-msgid "Kenya"
-msgstr "Kenija"
-
-#: includes/class-wc-countries.php:152
-msgid "Kiribati"
-msgstr "Kiribati"
-
-#: includes/class-wc-countries.php:153
-msgid "Kuwait"
-msgstr "Kuvajt"
-
-#: includes/class-wc-countries.php:154
-msgid "Kyrgyzstan"
-msgstr "Kirgistan"
-
-#: includes/class-wc-countries.php:155
-msgid "Laos"
-msgstr "Laos"
-
-#: includes/class-wc-countries.php:156
-msgid "Latvia"
-msgstr "Latvija"
-
-#: includes/class-wc-countries.php:157
-msgid "Lebanon"
-msgstr "Libanon"
-
-#: includes/class-wc-countries.php:158
-msgid "Lesotho"
-msgstr "Lesoto"
-
-#: includes/class-wc-countries.php:159
-msgid "Liberia"
-msgstr "Libarija"
-
-#: includes/class-wc-countries.php:160
-msgid "Libya"
-msgstr "Libija"
-
-#: includes/class-wc-countries.php:161
-msgid "Liechtenstein"
-msgstr "Liechtenstein"
-
-#: includes/class-wc-countries.php:162
-msgid "Lithuania"
-msgstr "Litva"
-
-#: includes/class-wc-countries.php:163
-msgid "Luxembourg"
-msgstr "Luksemburg"
-
-#: includes/class-wc-countries.php:164
-msgid "Macao S.A.R., China"
-msgstr "Macao S.A.R., Kitajska"
-
-#: includes/class-wc-countries.php:165
-msgid "Macedonia"
-msgstr "Makedonija"
-
-#: includes/class-wc-countries.php:166
-msgid "Madagascar"
-msgstr "Madagaskar"
-
-#: includes/class-wc-countries.php:167
-msgid "Malawi"
-msgstr "Malavi"
-
-#: includes/class-wc-countries.php:168
-msgid "Malaysia"
-msgstr "Malezija"
-
-#: includes/class-wc-countries.php:169
-msgid "Maldives"
-msgstr "Maldivi"
-
-#: includes/class-wc-countries.php:170
-msgid "Mali"
-msgstr "Mali"
-
-#: includes/class-wc-countries.php:171
-msgid "Malta"
-msgstr "Malta"
-
-#: includes/class-wc-countries.php:172
-msgid "Marshall Islands"
-msgstr "Maršalovo Otočje"
-
-#: includes/class-wc-countries.php:173
-msgid "Martinique"
-msgstr "Martinique"
-
-#: includes/class-wc-countries.php:174
-msgid "Mauritania"
-msgstr "Mavretanija"
-
-#: includes/class-wc-countries.php:175
-msgid "Mauritius"
-msgstr "Mavricius"
-
-#: includes/class-wc-countries.php:176
-msgid "Mayotte"
-msgstr "Mayotte"
-
-#: includes/class-wc-countries.php:177
-msgid "Mexico"
-msgstr "Mehika"
-
-#: includes/class-wc-countries.php:178
-msgid "Micronesia"
-msgstr "Mikronezija"
-
-#: includes/class-wc-countries.php:179
-msgid "Moldova"
-msgstr "Moldavija"
-
-#: includes/class-wc-countries.php:180
-msgid "Monaco"
-msgstr "Monako"
-
-#: includes/class-wc-countries.php:181
-msgid "Mongolia"
-msgstr "Mongolija"
-
-#: includes/class-wc-countries.php:182
-msgid "Montenegro"
-msgstr "Črna Gora"
-
-#: includes/class-wc-countries.php:183
-msgid "Montserrat"
-msgstr "Montserrat"
-
-#: includes/class-wc-countries.php:184
-msgid "Morocco"
-msgstr "Maroko"
-
-#: includes/class-wc-countries.php:185
-msgid "Mozambique"
-msgstr "Mozambik"
-
-#: includes/class-wc-countries.php:186
-msgid "Myanmar"
-msgstr "Mjanmar"
-
-#: includes/class-wc-countries.php:187
-msgid "Namibia"
-msgstr "Namibija"
-
-#: includes/class-wc-countries.php:188
-msgid "Nauru"
-msgstr "Nauru"
-
-#: includes/class-wc-countries.php:189
-msgid "Nepal"
-msgstr "Nepal"
-
-#: includes/class-wc-countries.php:190
-msgid "Netherlands"
-msgstr "Nizozemska"
-
-#: includes/class-wc-countries.php:191
-msgid "Netherlands Antilles"
-msgstr "Nizozemski Antili"
-
-#: includes/class-wc-countries.php:192
-msgid "New Caledonia"
-msgstr "Nova Kaledonija"
-
-#: includes/class-wc-countries.php:193
-msgid "New Zealand"
-msgstr "Nova Zelandija"
-
-#: includes/class-wc-countries.php:194
-msgid "Nicaragua"
-msgstr "Nikaragva"
-
-#: includes/class-wc-countries.php:195
-msgid "Niger"
-msgstr "Niger"
-
-#: includes/class-wc-countries.php:196
-msgid "Nigeria"
-msgstr "Nigerija"
-
-#: includes/class-wc-countries.php:197
-msgid "Niue"
-msgstr "Niue"
-
-#: includes/class-wc-countries.php:198
-msgid "Norfolk Island"
-msgstr "Norfolk Island"
-
-#: includes/class-wc-countries.php:199
-msgid "North Korea"
-msgstr "Severna Koreja"
-
-#: includes/class-wc-countries.php:200
-msgid "Norway"
-msgstr "Norveška"
-
-#: includes/class-wc-countries.php:201
-msgid "Oman"
-msgstr "Oman"
-
-#: includes/class-wc-countries.php:202
-msgid "Pakistan"
-msgstr "Pakistan"
-
-#: includes/class-wc-countries.php:203
-msgid "Palestinian Territory"
-msgstr "Palestina"
-
-#: includes/class-wc-countries.php:204
-msgid "Panama"
-msgstr "Panama"
-
-#: includes/class-wc-countries.php:205
-msgid "Papua New Guinea"
-msgstr "Papua Nova Gvineja"
-
-#: includes/class-wc-countries.php:206
-msgid "Paraguay"
-msgstr "Paragvaj"
-
-#: includes/class-wc-countries.php:207
-msgid "Peru"
-msgstr "Peru"
-
-#: includes/class-wc-countries.php:208
-msgid "Philippines"
-msgstr "Filipini"
-
-#: includes/class-wc-countries.php:209
-msgid "Pitcairn"
-msgstr "Pitcairn"
-
-#: includes/class-wc-countries.php:210
-msgid "Poland"
-msgstr "Poljska"
-
-#: includes/class-wc-countries.php:211
-msgid "Portugal"
-msgstr "Portugal"
-
-#: includes/class-wc-countries.php:212
-msgid "Qatar"
-msgstr "Katar"
-
-#: includes/class-wc-countries.php:213
-msgid "Reunion"
-msgstr "Reunion"
-
-#: includes/class-wc-countries.php:214
-msgid "Romania"
-msgstr "Romunija"
-
-#: includes/class-wc-countries.php:215
-msgid "Russia"
-msgstr "Rusija"
-
-#: includes/class-wc-countries.php:216
-msgid "Rwanda"
-msgstr "Ruanda"
-
-#: includes/class-wc-countries.php:217
-msgid "Saint Barth&eacute;lemy"
-msgstr "Saint Barth&eacute;lemy"
-
-#: includes/class-wc-countries.php:218
-msgid "Saint Helena"
-msgstr "Saint Helena"
-
-#: includes/class-wc-countries.php:219
-msgid "Saint Kitts and Nevis"
-msgstr "Saint Kitts and Nevis"
-
-#: includes/class-wc-countries.php:220
-msgid "Saint Lucia"
-msgstr "Saint Lucia"
-
-#: includes/class-wc-countries.php:221
-msgid "Saint Martin (French part)"
-msgstr "Saint Martin (Francoski del)"
-
-#: includes/class-wc-countries.php:222
-msgid "Saint Martin (Dutch part)"
-msgstr "Saint Martin (Nizozemski del)"
-
-#: includes/class-wc-countries.php:223
-msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre in Miquelon"
-
-#: includes/class-wc-countries.php:224
-msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Vincent in Grenadines"
-
-#: includes/class-wc-countries.php:225
-msgid "San Marino"
-msgstr "San Marino"
-
-#: includes/class-wc-countries.php:226
-msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
-msgstr "S&atilde;o Tom&eacute; in Pr&iacute;ncipe"
-
-#: includes/class-wc-countries.php:227
-msgid "Saudi Arabia"
-msgstr "Savdska Arabija"
-
-#: includes/class-wc-countries.php:228
-msgid "Senegal"
-msgstr "Senegal"
-
-#: includes/class-wc-countries.php:229
-msgid "Serbia"
-msgstr "Srbija"
-
-#: includes/class-wc-countries.php:230
-msgid "Seychelles"
-msgstr "Sejšeli"
-
-#: includes/class-wc-countries.php:231
-msgid "Sierra Leone"
-msgstr "Sierra Leone"
-
-#: includes/class-wc-countries.php:232
-msgid "Singapore"
-msgstr "Singapur"
-
-#: includes/class-wc-countries.php:233
-msgid "Slovakia"
-msgstr "Slovaška"
-
-#: includes/class-wc-countries.php:234
-msgid "Slovenia"
-msgstr "Slovenija"
-
-#: includes/class-wc-countries.php:235
-msgid "Solomon Islands"
-msgstr "Salomonovi Otoki"
-
-#: includes/class-wc-countries.php:236
-msgid "Somalia"
-msgstr "Somalija"
-
-#: includes/class-wc-countries.php:237
-msgid "South Africa"
-msgstr "Južna Afrika"
-
-#: includes/class-wc-countries.php:238
-msgid "South Georgia/Sandwich Islands"
-msgstr "South Georgia/Sandwich Islands"
-
-#: includes/class-wc-countries.php:239
-msgid "South Korea"
-msgstr "Južna Koreja"
-
-#: includes/class-wc-countries.php:240
-msgid "South Sudan"
-msgstr "Južni Sudan"
-
-#: includes/class-wc-countries.php:241
-msgid "Spain"
-msgstr "Španija"
-
-#: includes/class-wc-countries.php:242
-msgid "Sri Lanka"
-msgstr "Šrilanka"
-
-#: includes/class-wc-countries.php:243
-msgid "Sudan"
-msgstr "Sudan"
-
-#: includes/class-wc-countries.php:244
-msgid "Suriname"
-msgstr "Surinam"
-
-#: includes/class-wc-countries.php:245
-msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard in Jan Mayen"
-
-#: includes/class-wc-countries.php:246
-msgid "Swaziland"
-msgstr "Swaziland"
-
-#: includes/class-wc-countries.php:247
-msgid "Sweden"
-msgstr "Švedska"
-
-#: includes/class-wc-countries.php:248
-msgid "Switzerland"
-msgstr "Švica"
-
-#: includes/class-wc-countries.php:249
-msgid "Syria"
-msgstr "Sirija"
-
-#: includes/class-wc-countries.php:250
-msgid "Taiwan"
-msgstr "Tajvan"
-
-#: includes/class-wc-countries.php:251
-msgid "Tajikistan"
-msgstr "Tadžikistan"
-
-#: includes/class-wc-countries.php:252
-msgid "Tanzania"
-msgstr "Tanzania"
-
-#: includes/class-wc-countries.php:253
-msgid "Thailand"
-msgstr "Tajska"
-
-#: includes/class-wc-countries.php:254
-msgid "Timor-Leste"
-msgstr "Timor-Leste"
-
-#: includes/class-wc-countries.php:255
-msgid "Togo"
-msgstr "Togo"
-
-#: includes/class-wc-countries.php:256
-msgid "Tokelau"
-msgstr "Tokelau"
-
-#: includes/class-wc-countries.php:257
-msgid "Tonga"
-msgstr "Tonga"
-
-#: includes/class-wc-countries.php:258
-msgid "Trinidad and Tobago"
-msgstr "Trinidad in Tobago"
-
-#: includes/class-wc-countries.php:259
-msgid "Tunisia"
-msgstr "Tunizija"
-
-#: includes/class-wc-countries.php:260
-msgid "Turkey"
-msgstr "Turčija"
-
-#: includes/class-wc-countries.php:261
-msgid "Turkmenistan"
-msgstr "Turkmenistan"
-
-#: includes/class-wc-countries.php:262
-msgid "Turks and Caicos Islands"
-msgstr "Turks in Caicos Islands"
-
-#: includes/class-wc-countries.php:263
-msgid "Tuvalu"
-msgstr "Tuvalu"
-
-#: includes/class-wc-countries.php:264
-msgid "Uganda"
-msgstr "Uganda"
-
-#: includes/class-wc-countries.php:265
-msgid "Ukraine"
-msgstr "Ukrajina"
-
-#: includes/class-wc-countries.php:266
-msgid "United Arab Emirates"
-msgstr "Združeni Arabski Emirati"
-
-#: includes/class-wc-countries.php:267
-msgid "United Kingdom (UK)"
-msgstr "Združeno Kraljestvo (UK)"
-
-#: includes/class-wc-countries.php:268
-msgid "United States (US)"
-msgstr "Združene Države Amerike (US)"
-
 #: includes/class-wc-countries.php:269
-msgid "Uruguay"
-msgstr "Urugvaj"
-
-#: includes/class-wc-countries.php:270
-msgid "Uzbekistan"
-msgstr "Uzbekistan"
-
-#: includes/class-wc-countries.php:271
-msgid "Vanuatu"
-msgstr "Vanuatu"
-
-#: includes/class-wc-countries.php:272
-msgid "Vatican"
-msgstr "Vatikan"
-
-#: includes/class-wc-countries.php:273
-msgid "Venezuela"
-msgstr "Venezuela"
-
-#: includes/class-wc-countries.php:274
-msgid "Vietnam"
-msgstr "Vietnam"
-
-#: includes/class-wc-countries.php:275
-msgid "Wallis and Futuna"
-msgstr "Wallis in Futuna"
-
-#: includes/class-wc-countries.php:276
-msgid "Western Sahara"
-msgstr "Zahodna Sahara"
-
-#: includes/class-wc-countries.php:277
-msgid "Western Samoa"
-msgstr "Zahodna Samoa"
-
-#: includes/class-wc-countries.php:278
-msgid "Yemen"
-msgstr "Jemen"
-
-#: includes/class-wc-countries.php:279
-msgid "Zambia"
-msgstr "Zambija"
-
-#: includes/class-wc-countries.php:280
-msgid "Zimbabwe"
-msgstr "Zimbabve"
-
-#: includes/class-wc-countries.php:484
 msgid "to the"
 msgstr "za"
 
-#: includes/class-wc-countries.php:485
+#: includes/class-wc-countries.php:270
 msgid "to"
 msgstr "Za"
 
-#: includes/class-wc-countries.php:498
+#: includes/class-wc-countries.php:282
 msgid "the"
 msgstr "in"
 
-#: includes/class-wc-countries.php:510
+#: includes/class-wc-countries.php:294
 msgid "VAT"
 msgstr "DDV"
 
-#: includes/class-wc-countries.php:510
+#: includes/class-wc-countries.php:294
 msgid "Tax"
 msgstr "Davek"
 
-#: includes/class-wc-countries.php:523
+#: includes/class-wc-countries.php:306
 msgid "(incl. VAT)"
 msgstr "(vklj. z DDV)"
 
-#: includes/class-wc-countries.php:523
+#: includes/class-wc-countries.php:306
 msgid "(incl. tax)"
 msgstr "(vklj. z davkom)"
 
-#: includes/class-wc-countries.php:536
+#: includes/class-wc-countries.php:318
 msgid "(ex. VAT)"
 msgstr "(brez DDV)"
 
-#: includes/class-wc-countries.php:536
+#: includes/class-wc-countries.php:318
 msgid "(ex. tax)"
 msgstr "(brez davkov)"
 
-#: includes/class-wc-countries.php:719
-msgid "Country"
-msgstr "Država"
-
-#: includes/class-wc-countries.php:724
-msgid "First Name"
-msgstr "Ime"
-
-#: includes/class-wc-countries.php:729
-msgid "Last Name"
-msgstr "Priimek"
-
-#: includes/class-wc-countries.php:735
-msgid "Company Name"
-msgstr "Naziv podjetja"
-
-#: includes/class-wc-countries.php:739
-msgid "Address"
-msgstr "Naslov"
-
-#: includes/class-wc-countries.php:740
-msgctxt "placeholder"
-msgid "Street address"
-msgstr "Ulica"
-
-#: includes/class-wc-countries.php:745
-msgctxt "placeholder"
-msgid "Apartment, suite, unit etc. (optional)"
-msgstr "Stanovanje, nadstropje ipd. (opcijsko)"
-
-#: includes/class-wc-countries.php:750 includes/class-wc-countries.php:751
-msgid "Town / City"
-msgstr "Kraj / Mesto"
-
-#: includes/class-wc-countries.php:757 includes/class-wc-countries.php:758
-msgid "State / County"
-msgstr "Država"
-
-#: includes/class-wc-countries.php:764 includes/class-wc-countries.php:765
-#: templates/cart/shipping-calculator.php:80
-msgid "Postcode / Zip"
-msgstr "Poštna številka"
-
-#: includes/class-wc-countries.php:827
-msgid "District"
-msgstr "Okrožje"
-
-#: includes/class-wc-countries.php:834 includes/class-wc-countries.php:850
-#: includes/class-wc-countries.php:870 includes/class-wc-countries.php:931
-#: includes/class-wc-countries.php:950 includes/class-wc-countries.php:955
-#: includes/class-wc-countries.php:967 includes/class-wc-countries.php:1017
-#: includes/class-wc-countries.php:1041 includes/class-wc-countries.php:1082
-msgid "Province"
-msgstr "Pokrajina"
-
-#: includes/class-wc-countries.php:856
-msgid "Canton"
-msgstr "Kanton"
-
-#: includes/class-wc-countries.php:865 includes/class-wc-countries.php:1023
-msgid "Municipality"
-msgstr "Občina"
-
-#: includes/class-wc-countries.php:918
-msgid "Town / District"
-msgstr "Kraj / Okrožje"
-
-#: includes/class-wc-countries.php:921
-msgid "Region"
-msgstr "Regija"
-
-#: includes/class-wc-countries.php:926 includes/class-wc-countries.php:1057
-msgid "County"
-msgstr "Država"
-
-#: includes/class-wc-countries.php:1046
-msgid "Zip"
-msgstr "Poštna št."
-
-#: includes/class-wc-countries.php:1049
-msgid "State"
-msgstr "Zv. država"
-
-#: includes/class-wc-countries.php:1054
-msgid "Postcode"
-msgstr "Poštna številka"
-
-#: includes/class-wc-countries.php:1162
-msgid "Email Address"
-msgstr "E-naslov"
-
-#: includes/class-wc-countries.php:1168
-msgid "Phone"
-msgstr "Telefon"
-
-#: includes/class-wc-coupon.php:575
+#: includes/class-wc-coupon.php:578
 msgid "Coupon code applied successfully."
 msgstr "Koda ugodnosti je bila uspešno dodana."
 
-#: includes/class-wc-coupon.php:578
+#: includes/class-wc-coupon.php:581
 msgid "Coupon code removed successfully."
 msgstr "Koda ugodnosti je bila uspešno odstranjena"
 
-#: includes/class-wc-coupon.php:599
+#: includes/class-wc-coupon.php:602
 msgid "Coupon is not valid."
 msgstr "Kupon je neveljaven."
 
-#: includes/class-wc-coupon.php:602 includes/class-wc-coupon.php:652
+#: includes/class-wc-coupon.php:605 includes/class-wc-coupon.php:655
 msgid "Coupon does not exist!"
 msgstr "Kupon ne obstaja!"
 
-#: includes/class-wc-coupon.php:605
+#: includes/class-wc-coupon.php:608
 msgid ""
 "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
 "your order."
 msgstr "Kupon \"%s\" je neveljaven - odstranili smo ga z vašega naročila."
 
-#: includes/class-wc-coupon.php:608
+#: includes/class-wc-coupon.php:611
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
 "from your order."
 msgstr "Kupon \"%s\" ni vaš - odstranili smo ga z vašega naročila."
 
-#: includes/class-wc-coupon.php:611
+#: includes/class-wc-coupon.php:614
 msgid "Coupon code already applied!"
 msgstr "Koda ugodnosti že dodana."
 
-#: includes/class-wc-coupon.php:614
+#: includes/class-wc-coupon.php:617
 msgid ""
 "Sorry, coupon \"%s\" has already been applied and cannot be used in "
 "conjunction with other coupons."
 msgstr "Kupon \"%s\" je bila že dodan in ga ni mogoče uporabiti z ostalimi kuponi."
 
-#: includes/class-wc-coupon.php:617
+#: includes/class-wc-coupon.php:620
 msgid "Coupon usage limit has been reached."
 msgstr "Dovoljena meja uporabe kupona je bila dosežena."
 
-#: includes/class-wc-coupon.php:620
+#: includes/class-wc-coupon.php:623
 msgid "This coupon has expired."
 msgstr "Kupon je potekel."
 
-#: includes/class-wc-coupon.php:623
+#: includes/class-wc-coupon.php:626
 msgid "The minimum spend for this coupon is %s."
 msgstr "Minimalni znesek za uporabo tega kupona je %s."
 
-#: includes/class-wc-coupon.php:626
+#: includes/class-wc-coupon.php:629
 msgid "Sorry, this coupon is not applicable to your cart contents."
 msgstr "Ta kupon ni na voljo za izdelke v vaši košarici."
 
-#: includes/class-wc-coupon.php:629
+#: includes/class-wc-coupon.php:632
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "Ta kupon ni veljaven za izdelke v akciji."
 
-#: includes/class-wc-coupon.php:655
+#: includes/class-wc-coupon.php:658
 msgid "Please enter a coupon code."
 msgstr "Vnesite kodo ugodnosti."
 
-#: includes/class-wc-download-handler.php:37
+#: includes/class-wc-download-handler.php:42
 msgid "Invalid email address."
 msgstr "Neveljaven elektronski naslov."
 
-#: includes/class-wc-download-handler.php:37
-#: includes/class-wc-download-handler.php:62
-#: includes/class-wc-download-handler.php:83
-#: includes/class-wc-download-handler.php:90
+#: includes/class-wc-download-handler.php:42
+#: includes/class-wc-download-handler.php:67
+#: includes/class-wc-download-handler.php:88
 #: includes/class-wc-download-handler.php:95
-#: includes/class-wc-download-handler.php:99
-#: includes/class-wc-download-handler.php:143
-#: includes/class-wc-download-handler.php:296
+#: includes/class-wc-download-handler.php:100
+#: includes/class-wc-download-handler.php:104
+#: includes/class-wc-download-handler.php:148
+#: includes/class-wc-download-handler.php:309
 msgid "Go to homepage"
 msgstr "Nazaj na prvo stran"
 
-#: includes/class-wc-download-handler.php:62
+#: includes/class-wc-download-handler.php:67
 msgid "Invalid download."
 msgstr "Neveljaven prenos."
 
-#: includes/class-wc-download-handler.php:75
+#: includes/class-wc-download-handler.php:80
 msgid "You must be logged in to download files."
 msgstr "Morate bit prijavljeni za prenos datotek."
 
-#: includes/class-wc-download-handler.php:75
-#: templates/global/form-login.php:35 templates/myaccount/form-login.php:25
-#: templates/myaccount/form-login.php:44
+#: includes/class-wc-download-handler.php:80
+#: templates/global/form-login.php:35 templates/myaccount/form-login.php:27
+#: templates/myaccount/form-login.php:46
 msgid "Login"
 msgstr "Prijava"
 
-#: includes/class-wc-download-handler.php:75
+#: includes/class-wc-download-handler.php:80
 msgid "Log in to Download Files"
 msgstr "Prijavite se za prenos datotek."
 
-#: includes/class-wc-download-handler.php:77
+#: includes/class-wc-download-handler.php:82
 msgid "This is not your download link."
 msgstr "To ni vaša povezava za prenos."
 
-#: includes/class-wc-download-handler.php:83
+#: includes/class-wc-download-handler.php:88
 msgid "Product no longer exists."
 msgstr "Izdelek ne obstaja več."
 
-#: includes/class-wc-download-handler.php:90
-#: includes/class-wc-form-handler.php:525
+#: includes/class-wc-download-handler.php:95
+#: includes/class-wc-form-handler.php:541
 #: includes/shortcodes/class-wc-shortcode-checkout.php:172
 #: includes/shortcodes/class-wc-shortcode-my-account.php:111
 msgid "Invalid order."
 msgstr "Neveljavno naročilo."
 
-#: includes/class-wc-download-handler.php:95
+#: includes/class-wc-download-handler.php:100
 msgid "Sorry, you have reached your download limit for this file"
 msgstr "Dosegli ste limit prenosov za to datoteko"
 
-#: includes/class-wc-download-handler.php:99
+#: includes/class-wc-download-handler.php:104
 msgid "Sorry, this download has expired"
 msgstr "Ta prenos je potekel."
 
-#: includes/class-wc-download-handler.php:143
+#: includes/class-wc-download-handler.php:148
 msgid "No file defined"
 msgstr "Datoteka ni definirana."
 
-#: includes/class-wc-download-handler.php:296
+#: includes/class-wc-download-handler.php:309
 msgid "File not found"
 msgstr "Ni najdenih datotek"
 
@@ -5030,173 +4843,183 @@ msgstr "Ni najdenih datotek"
 msgid "Note"
 msgstr "Obvestilo"
 
-#: includes/class-wc-emails.php:325
+#: includes/class-wc-emails.php:331
 msgid "Product low in stock"
 msgstr "Zadnji kosi na zalogi"
 
-#: includes/class-wc-emails.php:330 includes/class-wc-emails.php:362
-#: includes/class-wc-emails.php:406
+#: includes/class-wc-emails.php:336 includes/class-wc-emails.php:368
+#: includes/class-wc-emails.php:412
 msgid "Variation #%s of %s"
 msgstr "Izbira #%s od %s"
 
-#: includes/class-wc-emails.php:332 includes/class-wc-emails.php:364
-#: includes/class-wc-emails.php:408
+#: includes/class-wc-emails.php:338 includes/class-wc-emails.php:370
+#: includes/class-wc-emails.php:414
 msgid "Product #%s - %s"
 msgstr "Izdelek #%s - %s"
 
-#: includes/class-wc-emails.php:334
+#: includes/class-wc-emails.php:340
 msgid "is low in stock."
 msgstr "ima nizko zalogo."
 
-#: includes/class-wc-emails.php:357
+#: includes/class-wc-emails.php:363
 msgid "Product out of stock"
 msgstr "Izdelek ni na zalogi"
 
-#: includes/class-wc-emails.php:366
+#: includes/class-wc-emails.php:372
 msgid "is out of stock."
 msgstr "ni na zalogi."
 
-#: includes/class-wc-emails.php:401
+#: includes/class-wc-emails.php:407
 msgid "Product Backorder"
 msgstr "Izdelek po naročilu \"ni na zalogi\""
 
-#: includes/class-wc-emails.php:411
+#: includes/class-wc-emails.php:417
 msgid "%s units of %s have been backordered in order %s."
 msgstr "%s enot %s v naročilu %s je bilo označenih kot po naročilu \"niso na zalogi\"."
 
-#: includes/class-wc-form-handler.php:129
+#: includes/class-wc-form-handler.php:125
 msgid "Address changed successfully."
 msgstr "Naslov uspešno spremenjen."
 
-#: includes/class-wc-form-handler.php:180
+#: includes/class-wc-form-handler.php:174
 msgid "Please enter your name."
 msgstr "Vpišite vaše ime."
 
-#: includes/class-wc-form-handler.php:184
-#: includes/wc-customer-functions.php:48
+#: includes/class-wc-form-handler.php:178 includes/wc-user-functions.php:48
 msgid "Please provide a valid email address."
 msgstr "Vnesite veljaven elektronski naslov."
 
-#: includes/class-wc-form-handler.php:186
+#: includes/class-wc-form-handler.php:180
 msgid "This email address is already registered."
 msgstr "Ta elektronski naslov je že registriran."
 
-#: includes/class-wc-form-handler.php:190
+#: includes/class-wc-form-handler.php:184
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:189
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:193
+msgid "Please enter your current password."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:197
 msgid "Please re-enter your password."
 msgstr "Vpišite geslo še enkrat."
 
-#: includes/class-wc-form-handler.php:192
-#: includes/class-wc-form-handler.php:815
+#: includes/class-wc-form-handler.php:201
+#: includes/class-wc-form-handler.php:831
 msgid "Passwords do not match."
 msgstr "Gesli se ne ujemata."
 
-#: includes/class-wc-form-handler.php:208
+#: includes/class-wc-form-handler.php:223
 msgid "Account details changed successfully."
 msgstr "Podatki o računu usprešno spremenjeni."
 
-#: includes/class-wc-form-handler.php:334
+#: includes/class-wc-form-handler.php:350
 msgid "Payment method added."
 msgstr "Način plačila je bil dodan."
 
-#: includes/class-wc-form-handler.php:367
-#: includes/class-wc-form-handler.php:426
+#: includes/class-wc-form-handler.php:383
+#: includes/class-wc-form-handler.php:442
 msgid "Cart updated."
 msgstr "Košarica je posodbljena."
 
-#: includes/class-wc-form-handler.php:402
+#: includes/class-wc-form-handler.php:418
 msgid "You can only have 1 %s in your cart."
 msgstr "Imate lahko le 1 %s v košarici."
 
-#: includes/class-wc-form-handler.php:492
+#: includes/class-wc-form-handler.php:508
 msgid "The cart has been filled with the items from your previous order."
 msgstr "Košarica je bila zapolnjena z izdelki prejšnjega naročila."
 
-#: includes/class-wc-form-handler.php:515
+#: includes/class-wc-form-handler.php:531
 msgid "Order cancelled by customer."
 msgstr "Naročilo preklicano s strani kupca."
 
-#: includes/class-wc-form-handler.php:518
+#: includes/class-wc-form-handler.php:534
 msgid "Your order was cancelled."
 msgstr "Vaše naročilo je bilo preklicano."
 
-#: includes/class-wc-form-handler.php:523
+#: includes/class-wc-form-handler.php:539
 msgid ""
 "Your order can no longer be cancelled. Please contact us if you need "
 "assistance."
 msgstr "Vaše naročilo ne more biti preklicano. Kontaktirajte nas, če potrebujete pomoč."
 
-#: includes/class-wc-form-handler.php:563
-#: includes/class-wc-form-handler.php:623
+#: includes/class-wc-form-handler.php:579
+#: includes/class-wc-form-handler.php:639
 msgid "Please choose product options&hellip;"
 msgstr "Izberite možnosti izdelka&hellip;"
 
-#: includes/class-wc-form-handler.php:657
+#: includes/class-wc-form-handler.php:673
 msgid ""
 "Please choose the quantity of items you wish to add to your cart&hellip;"
 msgstr "Izberite količino izdelkov, ki jih želite dodati v košarico&hellip;"
 
-#: includes/class-wc-form-handler.php:664
+#: includes/class-wc-form-handler.php:680
 msgid "Please choose a product to add to your cart&hellip;"
 msgstr "Izbrite izdelek, ki ga želite dodati v košarico&hellip;"
 
-#: includes/class-wc-form-handler.php:724
-#: includes/class-wc-form-handler.php:728
-#: includes/class-wc-form-handler.php:732
-#: includes/class-wc-form-handler.php:741
-#: includes/class-wc-form-handler.php:861
+#: includes/class-wc-form-handler.php:740
+#: includes/class-wc-form-handler.php:744
+#: includes/class-wc-form-handler.php:748
+#: includes/class-wc-form-handler.php:757
+#: includes/class-wc-form-handler.php:883
 msgid "Error"
 msgstr "Napaka"
 
-#: includes/class-wc-form-handler.php:728
+#: includes/class-wc-form-handler.php:744
 msgid "Username is required."
 msgstr "Zahtevano je uporabniško ime."
 
-#: includes/class-wc-form-handler.php:732
+#: includes/class-wc-form-handler.php:748
 msgid "Password is required."
 msgstr "Zahtevano je geslo."
 
-#: includes/class-wc-form-handler.php:741
+#: includes/class-wc-form-handler.php:757
 msgid "A user could not be found with this email address."
 msgstr "Uporabnika s tem elektronskim naslovom ni bilo mogoče najti."
 
-#: includes/class-wc-form-handler.php:766
+#: includes/class-wc-form-handler.php:782
 msgid "You are now logged in as <strong>%s</strong>"
 msgstr "Prijavljeni ste kot <strong>%s</strong>"
 
-#: includes/class-wc-form-handler.php:810
+#: includes/class-wc-form-handler.php:826
 msgid "Please enter your password."
 msgstr "Vnesite geslo."
 
-#: includes/class-wc-form-handler.php:877
-#: includes/wc-customer-functions.php:110
+#: includes/class-wc-form-handler.php:899 includes/wc-user-functions.php:112
 msgid "ERROR"
 msgstr "NAPAKA"
 
-#: includes/class-wc-form-handler.php:877
+#: includes/class-wc-form-handler.php:899
 msgid "Anti-spam field was filled in."
 msgstr "Anti-spam je bilo zapolnjeno."
 
-#: includes/class-wc-frontend-scripts.php:123
+#: includes/class-wc-frontend-scripts.php:149
 msgid "Please select a rating"
 msgstr "Ocenite izdelek"
 
-#: includes/class-wc-frontend-scripts.php:140
-#: includes/wc-template-functions.php:1602
+#: includes/class-wc-frontend-scripts.php:168
+#: includes/wc-template-functions.php:1594
 msgid "required"
 msgstr "zahtevano"
 
-#: includes/class-wc-frontend-scripts.php:164
+#: includes/class-wc-frontend-scripts.php:196
 msgid ""
 "Sorry, no products matched your selection. Please choose a different "
 "combination."
 msgstr "Noben izdelek ne ustreza vaši izbiri. Izberite drugačno kombinacijo."
 
-#: includes/class-wc-frontend-scripts.php:165
+#: includes/class-wc-frontend-scripts.php:197
 msgid ""
 "Sorry, this product is unavailable. Please choose a different combination."
 msgstr "Ta izdelek ni na voljo. Izberite drugačno kombinacijo."
 
-#: includes/class-wc-frontend-scripts.php:170
+#: includes/class-wc-frontend-scripts.php:204
 msgid "Select an option&hellip;"
 msgstr "Izberite&hellip;"
 
@@ -5221,7 +5044,7 @@ msgid "Cart"
 msgstr "Košarica"
 
 #: includes/class-wc-install.php:227
-msgctxt "Paeg slug"
+msgctxt "Page slug"
 msgid "checkout"
 msgstr "placilo"
 
@@ -5248,253 +5071,253 @@ msgstr "Kupec"
 msgid "Shop Manager"
 msgstr "Vodja trgovine"
 
-#: includes/class-wc-install.php:703
-msgid "What's new:"
-msgstr "Novosti:"
-
-#: includes/class-wc-order.php:137
+#: includes/class-wc-order.php:160
 msgctxt "hash before order number"
 msgid "#"
 msgstr "#"
 
-#: includes/class-wc-order.php:854
+#: includes/class-wc-order.php:877
 msgid "&nbsp;<small>%svia %s</small>"
 msgstr "&nbsp;<small>%spreko %s</small>"
 
-#: includes/class-wc-order.php:917
+#: includes/class-wc-order.php:940
 msgid "Cart Subtotal:"
 msgstr "Skupaj v košarici:"
 
-#: includes/class-wc-order.php:924
+#: includes/class-wc-order.php:947
 msgid "Cart Discount:"
 msgstr "Popust na košarico:"
 
-#: includes/class-wc-order.php:931
+#: includes/class-wc-order.php:954
 msgid "Shipping:"
 msgstr "Dostava:"
 
-#: includes/class-wc-order.php:978
+#: includes/class-wc-order.php:1001
 msgid "Order Discount:"
 msgstr "Popust na naročilo:"
 
-#: includes/class-wc-order.php:985
+#: includes/class-wc-order.php:1008
 msgid "Payment Method:"
 msgstr "Način plačila:"
 
-#: includes/class-wc-order.php:991
+#: includes/class-wc-order.php:1014
 msgid "Order Total:"
 msgstr "Skupaj za plačilo:"
 
-#: includes/class-wc-order.php:1009 includes/wc-cart-functions.php:251
+#: includes/class-wc-order.php:1032 includes/wc-cart-functions.php:249
 msgid "(Includes %s)"
 msgstr "(vsebuje %s)"
 
-#: includes/class-wc-order.php:1258 includes/class-wc-order.php:1259
+#: includes/class-wc-order.php:1281 includes/class-wc-order.php:1282
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
-#: includes/class-wc-order.php:1314
+#: includes/class-wc-order.php:1337
 msgid "Order status changed from %s to %s."
 msgstr "Status naročila spremenjen iz %s v %s."
 
-#: includes/class-wc-order.php:1583
+#: includes/class-wc-order.php:1592
+msgid "Item #%s stock reduced from %s to %s."
+msgstr "Zaloga izdelka #%s zmanjšana z %s na %s."
+
+#: includes/class-wc-order.php:1602
 msgid "Order item stock reduced successfully."
 msgstr "Zaloga naročenega izdelka uspešno zmanjšana."
 
-#: includes/class-wc-post-types.php:55 includes/class-wc-post-types.php:57
+#: includes/class-wc-post-types.php:56 includes/class-wc-post-types.php:58
 #: includes/widgets/class-wc-widget-product-categories.php:30
 msgid "Product Categories"
 msgstr "Kategorije izdelkov"
 
-#: includes/class-wc-post-types.php:58
+#: includes/class-wc-post-types.php:59
 msgid "Product Category"
 msgstr "Kategorije izdelka"
 
-#: includes/class-wc-post-types.php:59
+#: includes/class-wc-post-types.php:60
 msgctxt "Admin menu name"
 msgid "Categories"
 msgstr "Kategorije"
 
-#: includes/class-wc-post-types.php:60
+#: includes/class-wc-post-types.php:61
 msgid "Search Product Categories"
 msgstr "Išči med kategorijami izdelkov"
 
-#: includes/class-wc-post-types.php:61
+#: includes/class-wc-post-types.php:62
 msgid "All Product Categories"
 msgstr "Vse kategorije"
 
-#: includes/class-wc-post-types.php:62
+#: includes/class-wc-post-types.php:63
 msgid "Parent Product Category"
 msgstr "Matična kategorija izdelkov"
 
-#: includes/class-wc-post-types.php:63
+#: includes/class-wc-post-types.php:64
 msgid "Parent Product Category:"
 msgstr "Matična kategorija izdelkov:"
 
-#: includes/class-wc-post-types.php:64
+#: includes/class-wc-post-types.php:65
 msgid "Edit Product Category"
 msgstr "Uredi kategorijo izdelkov"
 
-#: includes/class-wc-post-types.php:65
+#: includes/class-wc-post-types.php:66
 msgid "Update Product Category"
 msgstr "Posodobi kategorijo izdelkov"
 
-#: includes/class-wc-post-types.php:66
+#: includes/class-wc-post-types.php:67
 msgid "Add New Product Category"
 msgstr "Dodaj novo kategorijo izdelkov"
 
-#: includes/class-wc-post-types.php:67
+#: includes/class-wc-post-types.php:68
 msgid "New Product Category Name"
 msgstr "Naziv nove kategorije izdelkov"
 
-#: includes/class-wc-post-types.php:78
+#: includes/class-wc-post-types.php:79
 #: includes/updates/woocommerce-update-2.0.php:44
 msgctxt "slug"
 msgid "product-category"
 msgstr "izdelek-kategorija"
 
-#: includes/class-wc-post-types.php:90 includes/class-wc-post-types.php:92
+#: includes/class-wc-post-types.php:91 includes/class-wc-post-types.php:93
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:27
 msgid "Product Tags"
 msgstr "Oznake izdelkov"
 
-#: includes/class-wc-post-types.php:93
+#: includes/class-wc-post-types.php:94
 msgid "Product Tag"
 msgstr "Oznake izdleka"
 
-#: includes/class-wc-post-types.php:94
+#: includes/class-wc-post-types.php:95
 msgctxt "Admin menu name"
 msgid "Tags"
 msgstr "Oznake"
 
-#: includes/class-wc-post-types.php:95
+#: includes/class-wc-post-types.php:96
 msgid "Search Product Tags"
 msgstr "Išči med oznakami izdelkov"
 
-#: includes/class-wc-post-types.php:96
+#: includes/class-wc-post-types.php:97
 msgid "All Product Tags"
 msgstr "Vse oznake izdelkov"
 
-#: includes/class-wc-post-types.php:97
+#: includes/class-wc-post-types.php:98
 msgid "Parent Product Tag"
 msgstr "Matična oznaka izdelkov"
 
-#: includes/class-wc-post-types.php:98
+#: includes/class-wc-post-types.php:99
 msgid "Parent Product Tag:"
 msgstr "Matična oznaka izdelkov:"
 
-#: includes/class-wc-post-types.php:99
+#: includes/class-wc-post-types.php:100
 msgid "Edit Product Tag"
 msgstr "Uredi oznako izdlekov"
 
-#: includes/class-wc-post-types.php:100
+#: includes/class-wc-post-types.php:101
 msgid "Update Product Tag"
 msgstr "Posodobi oznako izdelkov"
 
-#: includes/class-wc-post-types.php:101
+#: includes/class-wc-post-types.php:102
 msgid "Add New Product Tag"
 msgstr "Dodaj novo oznako izdelkov"
 
-#: includes/class-wc-post-types.php:102
+#: includes/class-wc-post-types.php:103
 msgid "New Product Tag Name"
 msgstr "Naziv nove oznake izdelkov"
 
-#: includes/class-wc-post-types.php:113
+#: includes/class-wc-post-types.php:114
 #: includes/updates/woocommerce-update-2.0.php:45
 msgctxt "slug"
 msgid "product-tag"
 msgstr "izdelek-oznaka"
 
-#: includes/class-wc-post-types.php:124 includes/class-wc-post-types.php:126
+#: includes/class-wc-post-types.php:125 includes/class-wc-post-types.php:127
 msgid "Shipping Classes"
 msgstr "Razredi dostave"
 
-#: includes/class-wc-post-types.php:127
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:546
+#: includes/class-wc-post-types.php:128
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
 msgid "Shipping Class"
 msgstr "Razred dostave"
 
-#: includes/class-wc-post-types.php:128
+#: includes/class-wc-post-types.php:129
 msgctxt "Admin menu name"
 msgid "Shipping Classes"
 msgstr "Razredi dostave"
 
-#: includes/class-wc-post-types.php:129
+#: includes/class-wc-post-types.php:130
 msgid "Search Shipping Classes"
 msgstr "Išči med razredi dostave"
 
-#: includes/class-wc-post-types.php:130
+#: includes/class-wc-post-types.php:131
 msgid "All Shipping Classes"
 msgstr "Vsi razredi dostave"
 
-#: includes/class-wc-post-types.php:131
+#: includes/class-wc-post-types.php:132
 msgid "Parent Shipping Class"
 msgstr "Matični razred dostave"
 
-#: includes/class-wc-post-types.php:132
+#: includes/class-wc-post-types.php:133
 msgid "Parent Shipping Class:"
 msgstr "Matični razred dostave:"
 
-#: includes/class-wc-post-types.php:133
+#: includes/class-wc-post-types.php:134
 msgid "Edit Shipping Class"
 msgstr "Uredi razred dostave"
 
-#: includes/class-wc-post-types.php:134
+#: includes/class-wc-post-types.php:135
 msgid "Update Shipping Class"
 msgstr "Posodobi razred dostave"
 
-#: includes/class-wc-post-types.php:135
+#: includes/class-wc-post-types.php:136
 msgid "Add New Shipping Class"
 msgstr "Dodaj nov razred dostave"
 
-#: includes/class-wc-post-types.php:136
+#: includes/class-wc-post-types.php:137
 msgid "New Shipping Class Name"
 msgstr "Ime novega razreda dostave"
 
-#: includes/class-wc-post-types.php:184
+#: includes/class-wc-post-types.php:185
 msgid "Search %s"
 msgstr "Preišči %s"
 
-#: includes/class-wc-post-types.php:185
+#: includes/class-wc-post-types.php:186
 msgid "All %s"
 msgstr "Vse %s"
 
-#: includes/class-wc-post-types.php:186
+#: includes/class-wc-post-types.php:187
 msgid "Parent %s"
 msgstr "Matični %s"
 
-#: includes/class-wc-post-types.php:187
+#: includes/class-wc-post-types.php:188
 msgid "Parent %s:"
 msgstr "Matični %s:"
 
-#: includes/class-wc-post-types.php:188
+#: includes/class-wc-post-types.php:189
 msgid "Edit %s"
 msgstr "Uredi %s"
 
-#: includes/class-wc-post-types.php:189
+#: includes/class-wc-post-types.php:190
 msgid "Update %s"
 msgstr "Posodobi %s"
 
-#: includes/class-wc-post-types.php:190
+#: includes/class-wc-post-types.php:191
 msgid "Add New %s"
 msgstr "Dodaj nov %s"
 
-#: includes/class-wc-post-types.php:191
+#: includes/class-wc-post-types.php:192
 msgid "New %s"
 msgstr "Nov %s"
 
-#: includes/class-wc-post-types.php:226
+#: includes/class-wc-post-types.php:227
 #: includes/updates/woocommerce-update-2.0.php:53
 msgctxt "slug"
 msgid "product"
 msgstr "izdelek"
 
-#: includes/class-wc-post-types.php:232
+#: includes/class-wc-post-types.php:233
 #: includes/widgets/class-wc-widget-products.php:27
 msgid "Products"
 msgstr "Izdelki"
 
-#: includes/class-wc-post-types.php:233 templates/cart/cart.php:27
+#: includes/class-wc-post-types.php:234 templates/cart/cart.php:27
 #: templates/checkout/form-pay.php:19 templates/checkout/review-order.php:18
 #: templates/emails/admin-new-order.php:22
 #: templates/emails/customer-completed-order.php:23
@@ -5505,168 +5328,168 @@ msgstr "Izdelki"
 msgid "Product"
 msgstr "Izdelek"
 
-#: includes/class-wc-post-types.php:234
+#: includes/class-wc-post-types.php:235
 msgctxt "Admin menu name"
 msgid "Products"
 msgstr "Izdelki"
 
-#: includes/class-wc-post-types.php:235
+#: includes/class-wc-post-types.php:236
 msgid "Add Product"
 msgstr "Dodaj izdelek"
 
-#: includes/class-wc-post-types.php:236
+#: includes/class-wc-post-types.php:237
 msgid "Add New Product"
 msgstr "Dodaj nov izdelek"
 
-#: includes/class-wc-post-types.php:237 includes/class-wc-post-types.php:289
-#: includes/class-wc-post-types.php:328 templates/myaccount/my-address.php:45
+#: includes/class-wc-post-types.php:238 includes/class-wc-post-types.php:290
+#: includes/class-wc-post-types.php:329 templates/myaccount/my-address.php:45
 msgid "Edit"
 msgstr "Urejanje"
 
-#: includes/class-wc-post-types.php:238
+#: includes/class-wc-post-types.php:239
 msgid "Edit Product"
 msgstr "Uredi izdelek"
 
-#: includes/class-wc-post-types.php:239
+#: includes/class-wc-post-types.php:240
 msgid "New Product"
 msgstr "Nov izdelek"
 
-#: includes/class-wc-post-types.php:240 includes/class-wc-post-types.php:241
+#: includes/class-wc-post-types.php:241 includes/class-wc-post-types.php:242
 msgid "View Product"
 msgstr "Prikaži izdelek"
 
-#: includes/class-wc-post-types.php:242
+#: includes/class-wc-post-types.php:243
 #: includes/widgets/class-wc-widget-product-search.php:27
 msgid "Search Products"
 msgstr "Preišči izdelke"
 
-#: includes/class-wc-post-types.php:243
+#: includes/class-wc-post-types.php:244
 msgid "No Products found"
 msgstr "Ni najdenih izdelkov"
 
-#: includes/class-wc-post-types.php:244
+#: includes/class-wc-post-types.php:245
 msgid "No Products found in trash"
 msgstr "V smetnjaku ni najdenih izdelkov"
 
-#: includes/class-wc-post-types.php:245
+#: includes/class-wc-post-types.php:246
 msgid "Parent Product"
 msgstr "Matični produkt"
 
-#: includes/class-wc-post-types.php:247
+#: includes/class-wc-post-types.php:248
 msgid "This is where you can add new products to your store."
 msgstr "Tukaj lahko dodate nove izdelke, ki bodo na voljo uporabnikom vaše spletne trgovine."
 
-#: includes/class-wc-post-types.php:267
+#: includes/class-wc-post-types.php:268
 msgid "Variations"
 msgstr "Izbire"
 
-#: includes/class-wc-post-types.php:275
+#: includes/class-wc-post-types.php:276
 msgctxt "Admin menu name"
 msgid "Orders"
 msgstr "Naročila"
 
-#: includes/class-wc-post-types.php:285
+#: includes/class-wc-post-types.php:286
 msgid "Orders"
 msgstr "Naročila"
 
-#: includes/class-wc-post-types.php:286 templates/myaccount/my-orders.php:32
+#: includes/class-wc-post-types.php:287 templates/myaccount/my-orders.php:32
 msgid "Order"
 msgstr "Naročilo"
 
-#: includes/class-wc-post-types.php:287
+#: includes/class-wc-post-types.php:288
 msgid "Add Order"
 msgstr "Dodaj naročilo"
 
-#: includes/class-wc-post-types.php:288
+#: includes/class-wc-post-types.php:289
 msgid "Add New Order"
 msgstr "Dodaj novo naročilo"
 
-#: includes/class-wc-post-types.php:290
+#: includes/class-wc-post-types.php:291
 msgid "Edit Order"
 msgstr "Uredi naročilo"
 
-#: includes/class-wc-post-types.php:291
+#: includes/class-wc-post-types.php:292
 msgid "New Order"
 msgstr "Novo naročilo"
 
-#: includes/class-wc-post-types.php:292 includes/class-wc-post-types.php:293
+#: includes/class-wc-post-types.php:293 includes/class-wc-post-types.php:294
 msgid "View Order"
 msgstr "Prikaži naročilo"
 
-#: includes/class-wc-post-types.php:294
+#: includes/class-wc-post-types.php:295
 msgid "Search Orders"
 msgstr "Išči med naročili"
 
-#: includes/class-wc-post-types.php:295
+#: includes/class-wc-post-types.php:296
 msgid "No Orders found"
 msgstr "Ni najdenih naročil"
 
-#: includes/class-wc-post-types.php:296
+#: includes/class-wc-post-types.php:297
 msgid "No Orders found in trash"
 msgstr "V smetnjaku ni najdenih naročil"
 
-#: includes/class-wc-post-types.php:297
+#: includes/class-wc-post-types.php:298
 msgid "Parent Orders"
 msgstr "Matično naročilo"
 
-#: includes/class-wc-post-types.php:300
+#: includes/class-wc-post-types.php:301
 msgid "This is where store orders are stored."
 msgstr "Tukaj so shranjena vsa naročila."
 
-#: includes/class-wc-post-types.php:323
+#: includes/class-wc-post-types.php:324
 msgid "Coupons"
 msgstr "Kuponi"
 
-#: includes/class-wc-post-types.php:324 templates/cart/cart.php:118
+#: includes/class-wc-post-types.php:325 templates/cart/cart.php:119
 msgid "Coupon"
 msgstr "Kupon"
 
-#: includes/class-wc-post-types.php:325
+#: includes/class-wc-post-types.php:326
 msgctxt "Admin menu name"
 msgid "Coupons"
 msgstr "Kuponi"
 
-#: includes/class-wc-post-types.php:326
+#: includes/class-wc-post-types.php:327
 msgid "Add Coupon"
 msgstr "Dodaj kupon"
 
-#: includes/class-wc-post-types.php:327
+#: includes/class-wc-post-types.php:328
 msgid "Add New Coupon"
 msgstr "Dodaj nov kupon"
 
-#: includes/class-wc-post-types.php:329
+#: includes/class-wc-post-types.php:330
 msgid "Edit Coupon"
 msgstr "Uredi kupon"
 
-#: includes/class-wc-post-types.php:330
+#: includes/class-wc-post-types.php:331
 msgid "New Coupon"
 msgstr "Nova kupon"
 
-#: includes/class-wc-post-types.php:331
+#: includes/class-wc-post-types.php:332
 msgid "View Coupons"
 msgstr "Prikaži kupone"
 
-#: includes/class-wc-post-types.php:332
+#: includes/class-wc-post-types.php:333
 msgid "View Coupon"
 msgstr "Prikaži kupon"
 
-#: includes/class-wc-post-types.php:333
+#: includes/class-wc-post-types.php:334
 msgid "Search Coupons"
 msgstr "Išči med kuponi"
 
-#: includes/class-wc-post-types.php:334
+#: includes/class-wc-post-types.php:335
 msgid "No Coupons found"
 msgstr "Ni najdenih kuponov"
 
-#: includes/class-wc-post-types.php:335
+#: includes/class-wc-post-types.php:336
 msgid "No Coupons found in trash"
 msgstr "V smetnjaku ni najdenih kuponov"
 
-#: includes/class-wc-post-types.php:336
+#: includes/class-wc-post-types.php:337
 msgid "Parent Coupon"
 msgstr "Matični kupon"
 
-#: includes/class-wc-post-types.php:338
+#: includes/class-wc-post-types.php:339
 msgid ""
 "This is where you can add new coupons that customers can use in your store."
 msgstr "Tukaj lahko dodate kupone, ki bodo na voljo uporabnikom vaše spletne trgovine."
@@ -5680,14 +5503,14 @@ msgid "View products"
 msgstr "Prikaži izdelke"
 
 #: includes/class-wc-product-grouped.php:194
-#: includes/class-wc-product-variable.php:273
-#: includes/class-wc-product-variable.php:278
+#: includes/class-wc-product-variable.php:274
+#: includes/class-wc-product-variable.php:279
 msgctxt "Price range: from-to"
 msgid "%1$s&ndash;%2$s"
 msgstr "%1$s&ndash;%2$s"
 
 #: includes/class-wc-product-simple.php:48
-#: includes/class-wc-product-variation.php:211
+#: includes/class-wc-product-variation.php:215
 msgid "Read More"
 msgstr "Prikaži več"
 
@@ -5695,17 +5518,17 @@ msgstr "Prikaži več"
 msgid "Select options"
 msgstr "Izberite možnosti"
 
-#: includes/class-wc-product-variable.php:485
+#: includes/class-wc-product-variable.php:486
 msgid ""
 "This variable product has no active variations so cannot be published. "
 "Changing status to draft."
 msgstr "Ta spemenljiv izdelek nima aktivnih izbir, zato ga ni mogoče objaviti. Status izdelka spremenjen v osnutek."
 
-#: includes/class-wc-product-variation.php:516
+#: includes/class-wc-product-variation.php:555
 msgid "%s &ndash; %s%s"
 msgstr "%s &ndash; %s%s"
 
-#: includes/class-wc-shortcodes.php:973
+#: includes/class-wc-shortcodes.php:975
 msgid ""
 "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
 "in WC 2.2."
@@ -5738,21 +5561,21 @@ msgid ""
 "Your {site_title} order from {order_date} is complete - download your files"
 msgstr "vaše {site_title} naročilo z dne {order_date} je zaključeno - prenesite svoje datoteke"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:146
-#: includes/emails/class-wc-email-new-order.php:133
+#: includes/emails/class-wc-email-customer-completed-order.php:147
+#: includes/emails/class-wc-email-new-order.php:134
 msgid "Subject"
 msgstr "Zadeva"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:153
-#: includes/emails/class-wc-email-new-order.php:140
+#: includes/emails/class-wc-email-customer-completed-order.php:154
+#: includes/emails/class-wc-email-new-order.php:141
 msgid "Email Heading"
 msgstr "Glava E-sporočila"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:160
+#: includes/emails/class-wc-email-customer-completed-order.php:161
 msgid "Subject (downloadable)"
 msgstr "Zadeva (prenosljiv)"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:167
+#: includes/emails/class-wc-email-customer-completed-order.php:168
 msgid "Email Heading (downloadable)"
 msgstr "Glava E-sporočila (prenosljiv)"
 
@@ -5782,11 +5605,11 @@ msgstr "Vaše {site_title} naročilo z dne {order_date}"
 msgid "Order {order_number} details"
 msgstr "Podrobnosti o naročilu {order_number}"
 
-#: includes/emails/class-wc-email-customer-invoice.php:160
+#: includes/emails/class-wc-email-customer-invoice.php:161
 msgid "Email subject (paid)"
 msgstr "Zadeva E-sporočila (plačano)"
 
-#: includes/emails/class-wc-email-customer-invoice.php:167
+#: includes/emails/class-wc-email-customer-invoice.php:168
 msgid "Email heading (paid)"
 msgstr "Glava E-sporočila (plačano)"
 
@@ -5876,23 +5699,23 @@ msgstr "Novo naročilo kupca"
 msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
 msgstr "[{site_title}] Novo naročilo kupca ({order_number}) - {order_date}"
 
-#: includes/emails/class-wc-email-new-order.php:126
+#: includes/emails/class-wc-email-new-order.php:127
 msgid "Recipient(s)"
 msgstr "Prejemnik(i)"
 
-#: includes/emails/class-wc-email-new-order.php:128
+#: includes/emails/class-wc-email-new-order.php:129
 msgid ""
 "Enter recipients (comma separated) for this email. Defaults to "
 "<code>%s</code>."
 msgstr "Vnesite prejmnike (ločite z vejico) za to E-sporočilo. Privzeto je <code>%s</code>."
 
-#: includes/emails/class-wc-email-new-order.php:135
+#: includes/emails/class-wc-email-new-order.php:136
 msgid ""
 "This controls the email subject line. Leave blank to use the default "
 "subject: <code>%s</code>."
 msgstr "To ureja zadevo E-spročila. Pustite prazno za privzeto zadevo: <code>%s</code>."
 
-#: includes/emails/class-wc-email-new-order.php:142
+#: includes/emails/class-wc-email-new-order.php:143
 msgid ""
 "This controls the main heading contained within the email notification. "
 "Leave blank to use the default heading: <code>%s</code>."
@@ -5913,10 +5736,10 @@ msgstr "Omogočite bančno nakazilo"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:72
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:58
-#: includes/gateways/cod/class-wc-gateway-cod.php:64
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:142
+#: includes/gateways/cod/class-wc-gateway-cod.php:68
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:135
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:132
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:102
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:103
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:81
 #: includes/widgets/class-wc-widget-cart.php:30
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:28
@@ -5934,12 +5757,12 @@ msgstr "Naslov"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:74
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:60
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:144
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:137
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:134
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:83
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:72
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:57
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:104
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:105
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
 msgid "This controls the title which the user sees during checkout."
 msgstr "To ureja naslov, ki je viden uporabniku med postopkom plačila."
@@ -5950,8 +5773,8 @@ msgstr "Neposredna bančna transakcija"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:79
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:65
-#: includes/gateways/cod/class-wc-gateway-cod.php:71
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:149
+#: includes/gateways/cod/class-wc-gateway-cod.php:75
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:142
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:139
 #: includes/wc-template-functions.php:980
 msgid "Description"
@@ -5959,7 +5782,7 @@ msgstr "Opis"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:81
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:67
-#: includes/gateways/cod/class-wc-gateway-cod.php:66
+#: includes/gateways/cod/class-wc-gateway-cod.php:70
 msgid ""
 "Payment method description that the customer will see on your checkout."
 msgstr "Opis načina plačila, ki ga stranka vidi na vaši spletni strani."
@@ -5973,7 +5796,7 @@ msgstr "Plačilo poravnajte na naš bančni račun. Vnesite ID naročila kot ref
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:86
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:72
-#: includes/gateways/cod/class-wc-gateway-cod.php:78
+#: includes/gateways/cod/class-wc-gateway-cod.php:82
 msgid "Instructions"
 msgstr "Navodila"
 
@@ -5991,7 +5814,7 @@ msgid "Account Name"
 msgstr "Naziv računa"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:112
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:258
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:254
 msgid "Account Number"
 msgstr "Številka računa"
 
@@ -6000,12 +5823,12 @@ msgid "Bank Name"
 msgstr "Naziv banke"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:114
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:262
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:258
 msgid "Sort Code"
 msgstr "Koda za razvrščanje"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:115
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:266
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:262
 msgid "IBAN"
 msgstr "IBAN"
 
@@ -6021,15 +5844,15 @@ msgstr "+ Dodaj račun"
 msgid "Remove selected account(s)"
 msgstr "Odstrani izbrane račune"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:245
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:241
 msgid "Our Bank Details"
 msgstr "Podrobnosti o našem bančnem računu"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:270
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:266
 msgid "BIC"
 msgstr "BIC"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:301
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:297
 msgid "Awaiting BACS payment"
 msgstr "Vplačila preko spletnega bančništva na čakanju"
 
@@ -6058,12 +5881,12 @@ msgid ""
 " / County, Store Postcode."
 msgstr "Izdajte svoj ček na Ime podjetja, Ulico podjetja, Mesto podjetja, Državo podjetja, Poštno številko podjetja."
 
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:116
+#: includes/gateways/cheque/class-wc-gateway-cheque.php:114
 msgid "Awaiting cheque payment"
 msgstr "Pričakovano plačilo s čekom"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:24
-#: includes/gateways/cod/class-wc-gateway-cod.php:67
+#: includes/gateways/cod/class-wc-gateway-cod.php:71
 msgid "Cash on Delivery"
 msgstr "Plačilo ob povzetju"
 
@@ -6071,85 +5894,93 @@ msgstr "Plačilo ob povzetju"
 msgid "Have your customers pay with cash (or by other means) upon delivery."
 msgstr "Naj stranka plača z gotovino (ali drugimi sredstvi) po povzetju."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:57
+#: includes/gateways/cod/class-wc-gateway-cod.php:61
 msgid "Enable COD"
 msgstr "Omogočite plačilo ob povzetju"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:58
+#: includes/gateways/cod/class-wc-gateway-cod.php:62
 msgid "Enable Cash on Delivery"
 msgstr "Omogočite plačilo po povzetju"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:73
+#: includes/gateways/cod/class-wc-gateway-cod.php:77
 msgid "Payment method description that the customer will see on your website."
 msgstr "Opis načina plačila, viden stranki na vaši spletni strani."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:74
-#: includes/gateways/cod/class-wc-gateway-cod.php:81
+#: includes/gateways/cod/class-wc-gateway-cod.php:78
+#: includes/gateways/cod/class-wc-gateway-cod.php:85
 msgid "Pay with cash upon delivery."
 msgstr "Plačilo po povzetju."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:80
+#: includes/gateways/cod/class-wc-gateway-cod.php:84
 msgid "Instructions that will be added to the thank you page."
 msgstr "Navodila, ki bodo dodana na zaključno stran nakupa."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:85
+#: includes/gateways/cod/class-wc-gateway-cod.php:89
 msgid "Enable for shipping methods"
 msgstr "Omogočite za načine dostave"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:90
+#: includes/gateways/cod/class-wc-gateway-cod.php:94
 msgid ""
 "If COD is only available for certain methods, set it up here. Leave blank to"
 " enable for all methods."
 msgstr "Če naj bo plačilo po povzetju na voljo le določenim načinom plačila, to nastavite tukaj. Pustite prazna za vse načine."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:94
+#: includes/gateways/cod/class-wc-gateway-cod.php:98
 msgid "Select shipping methods"
 msgstr "Izberi načine dostave"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:164
+#: includes/gateways/cod/class-wc-gateway-cod.php:102
+msgid "Enable for virtual orders"
+msgstr ""
+
+#: includes/gateways/cod/class-wc-gateway-cod.php:103
+msgid "Enable COD if the order is virtual"
+msgstr ""
+
+#: includes/gateways/cod/class-wc-gateway-cod.php:206
 msgid "Payment to be made upon delivery."
 msgstr "Plačilo bo izvršeno ob dostavi."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:30
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:167
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:29
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:159
 msgid "Mijireh Checkout"
 msgstr "Mijireh plačila"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:107
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:291
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:103
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:294
 msgid "Mijireh error:"
 msgstr "Mijireh napaka:"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:131
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:124
 msgid "Enable Mijireh Checkout"
 msgstr "Omogočite Mijireh plačila"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:135
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:128
 msgid "Access Key"
 msgstr "Ključ za dostop"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:137
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:130
 msgid "The Mijireh access key for your store."
 msgstr "Mijireh ključ za dostop do vaše spletne trgovine."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:145
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:138
 msgid "Credit Card"
 msgstr "Kreditna kartica"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:151
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:144
 msgid "Pay securely with your credit card."
 msgstr "Varno plačilo s kreditno kartico."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:152
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:145
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:141
 msgid "This controls the description which the user sees during checkout."
 msgstr "To ureja opis, ki je viden uporabniku med postopkom plačila."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:171
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:163
 msgid "Get started with Mijireh Checkout"
 msgstr "Začnite z Mijireh plačili"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:172
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:164
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
 "card data to your payment gateway while keeping you in control of the design"
@@ -6157,20 +5988,25 @@ msgid ""
 "Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap, and more."
 msgstr "zagotavlja zansljiv, PCI skladen, varen način za zbiranje in posredovanje podatkov o kreditni kartici do vašega sistema za plačevanje, kjer vi nadzorujete izgled vaše spletne strani. Mijireh podpira več sistemov za plačevanje: Stripe, Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap in še več."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:174
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Join for free"
 msgstr "Pristopite brezplačno"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:174
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Learn more about WooCommerce and Mijireh"
 msgstr "Več o WooCommerce in Mijireh"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:178
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:170
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
 "card data to your payment gateway while keeping you in control of the design"
 " of your site."
 msgstr "zagotavlja zansljiv, PCI skladen, varen način za zbiranje in posredovanje podatkov o kreditni kartici do vašega sistema za plačevanje, kjer vi nadzorujete izgled vaše spletne strani."
+
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:207
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:361
+msgid "Order %s"
+msgstr "Naročilo %s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:31
 msgid "Proceed to PayPal"
@@ -6359,14 +6195,8 @@ msgid "Enable logging"
 msgstr "Omogočite logging"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:237
-msgid ""
-"Log PayPal events, such as IPN requests, inside "
-"<code>woocommerce/logs/paypal-%s.txt</code>"
-msgstr "Logirajte PayPal dogodke, kot so IPN zahtevki, v <code>woocommerce/logs/paypal-%s.txt</code>"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:361
-msgid "Order %s"
-msgstr "Naročilo %s"
+msgid "Log PayPal events, such as IPN requests, inside <code>%s</code>"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:370
 msgid "Shipping via"
@@ -6419,54 +6249,42 @@ msgstr "Plačilo na čakanju: %s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:762
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:770
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:787
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:782
 msgid "Payment %s via IPN."
 msgstr "Plačilo %s preko IPN."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:775
-msgid "Order refunded/reversed"
-msgstr "Naročilo povrnjeno/stornirano"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:776
-msgid "Order %s has been marked as refunded - PayPal reason code: %s"
-msgstr "Naročilo %s je bilo označeno kot povrnjeno - PayPal koda razloga: %s"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:779
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:773
 msgid "Payment for order %s refunded/reversed"
 msgstr "Plačilo za naročilo %s povrnjeno/stornirano"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:792
-msgid "Order reversed"
-msgstr "Naročilo je bilo stornirano"
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:774
+msgid "Order %s has been marked as refunded - PayPal reason code: %s"
+msgstr "Naročilo %s je bilo označeno kot povrnjeno - PayPal koda razloga: %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:793
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:785
+msgid "Payment for order %s reversed"
+msgstr "Plačilo za naročilo %s je bilo stornirano"
+
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:786
 msgid ""
 "Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
 msgstr "Naročilo %s je bilo označeno kot zaustavljeno zaradi storna - Paypal koda razloga: %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:796
-msgid "Payment for order %s reversed"
-msgstr "Plačilo za naročilo %s je bilo stornirano"
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:792
+msgid "Reversal cancelled for order %s"
+msgstr "Storno preklican za naročilo %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:804
-msgid "Reversal Cancelled"
-msgstr "Storno preklican"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:805
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:793
 msgid ""
 "Order %s has had a reversal cancelled. Please check the status of payment "
 "and update the order status accordingly."
 msgstr "Storno za naročilo %s je bil preklican. Preverite status plačila in glede na to posodobite status naročila."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:808
-msgid "Reversal cancelled for order %s"
-msgstr "Storno preklican za naročilo %s"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:880
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:877
 msgid "Validation error: PayPal amounts do not match (amt %s)."
 msgstr "Napaka validacije: PayPal zneska se ne ujemata (amt %s)"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:888
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:885
 msgid "PDT payment completed"
 msgstr "PDT plačilo zaključeno"
 
@@ -6497,7 +6315,7 @@ msgstr "Dostopnost"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:93
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:82
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:142
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:143
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:101
 msgid "All allowed countries"
 msgstr "Vse dovoljene države"
@@ -6506,8 +6324,8 @@ msgstr "Vse dovoljene države"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:98
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:83
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:87
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:143
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:147
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:144
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:148
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:102
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:106
 msgid "Specific Countries"
@@ -6516,7 +6334,7 @@ msgstr "Izbrane države"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:105
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:94
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:79
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:154
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:155
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:113
 msgid "Select some countries"
 msgstr "Izberite nekaj držav"
@@ -6603,54 +6421,57 @@ msgid ""
 "blank to disable."
 msgstr "Vnesite minimalni stroške. Stroški manjši od navedenega bodo povišani. Pustite prazno, če želite minimalni strošek onemogočiti."
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:540
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:541
 msgid "Costs"
 msgstr "Stroški"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:102
 msgid "Cost"
 msgstr "Strošek"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
 msgid "Cost, excluding tax."
 msgstr "Strošek, brez davka."
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:549
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:110
 msgid "Handling Fee"
 msgstr "Strošek priprave paketa"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:549
 msgid ""
 "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%."
 msgstr "Strošek brez davka. Vnesite znesek, npr. 2,50 ali v odstotku, npr. 5%."
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:553
-msgid "+ Add Cost"
-msgstr "+ Dodaj strošek"
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:554
+msgid "Add Cost"
+msgstr ""
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:553
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:554
 msgid "Delete selected costs"
 msgstr "Izbriši izbrane stroške"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:559
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:560
 msgid "Any class"
 msgstr "Katerikoli razred"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:560
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:561
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:562
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:102
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:115
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:123
 #: templates/order/order-details.php:122 templates/order/order-details.php:137
+#: templates/single-product/meta.php:23
 msgid "N/A"
 msgstr "Ni na voljo"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:579
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:609
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:580
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:610
 msgid "Select a class&hellip;"
 msgstr "Izberi razred&hellip;"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:623
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:624
 msgid "Delete the selected rates?"
 msgstr "Izbriši izbrane stopnje?"
 
@@ -6665,7 +6486,7 @@ msgid "Enable Free Shipping"
 msgstr "Omogočite brezplačno dostavo"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:77
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:137
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:138
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:96
 msgid "Method availability"
 msgstr "Dostopnost načina"
@@ -6736,61 +6557,61 @@ msgid ""
 msgstr "Strošek brez davka. Vnesite znesek, npr. 2,50 ali v odstotku, npr. 5%. Pustite prazno, če želite to onemogočiti."
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:25
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:105
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:106
 msgid "Local Delivery"
 msgstr "Lokalna dostava"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:96
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:97
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:75
 msgid "Enable"
 msgstr "Omogočite"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:98
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:99
 msgid "Enable local delivery"
 msgstr "Omogočite lokalno dostavo"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:109
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:110
 msgid "Fee Type"
 msgstr "Tip stroška"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:111
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:112
 msgid "How to calculate delivery charges"
 msgstr "Kako preračunati stroške dostave"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:114
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:115
 msgid "Fixed amount"
 msgstr "Fiksni znesek"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:115
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:116
 msgid "Percentage of cart total"
 msgstr "Odstotek od celotnega zneska košarice za plačilo"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:116
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:117
 msgid "Fixed amount per product"
 msgstr "Fiksni znesek po izdelku"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:121
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:122
 msgid "Delivery Fee"
 msgstr "Strošek dostave"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:123
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:124
 msgid ""
 "What fee do you want to charge for local delivery, disregarded if you choose"
 " free. Leave blank to disable."
 msgstr "Kakšen strošek želite zaračunati za lokalno dostavo, le v primeru, da strošek dostave ni brezplačen. Postite prazno, če želite to onemogočiti."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:129
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:88
 msgid "Zip/Post Codes"
 msgstr "Poštne številke"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:131
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:132
 msgid ""
 "What zip/post codes would you like to offer delivery to? Separate codes with"
 " a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
 msgstr "Katere poštne številke so na voljo za celotno dostavo? Številke med seboj ločite z vejico. Sprejema wildcard-e, npr 3* velja za poštno številko 3000."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:169
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:170
 msgid ""
 "Local delivery is a simple shipping method for delivering orders locally."
 msgstr "Lokalna dostava je preprost način dostave lokalnim strankam."
@@ -6823,6 +6644,12 @@ msgstr "Posodobljeni stroški dostave."
 #: includes/shortcodes/class-wc-shortcode-checkout.php:91
 msgid "Invalid order. If you have an account please log in and try again."
 msgstr "Neveljavno naročilo. Če imate ustvarjen račun, se vanj prijavite in poskusite znova."
+
+#: includes/shortcodes/class-wc-shortcode-checkout.php:91
+#: includes/shortcodes/class-wc-shortcode-my-account.php:111
+#: templates/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Moj račun"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:113
 #: includes/shortcodes/class-wc-shortcode-checkout.php:164
@@ -6920,35 +6747,35 @@ msgstr "ID naročila ni bilo mogoče najti v podatkovni bazi."
 msgid "This product is protected and cannot be purchased."
 msgstr "Ta izdelek je zaščiten in ga ni mogoče kupiti."
 
-#: includes/wc-cart-functions.php:83
+#: includes/wc-cart-functions.php:81
 msgid "Added &quot;%s&quot; to your cart."
 msgstr "Dodali ste &quot;%s&quot; v košarico."
 
-#: includes/wc-cart-functions.php:83
+#: includes/wc-cart-functions.php:81
 msgid "&quot; and &quot;"
 msgstr "&quot; in &quot;"
 
-#: includes/wc-cart-functions.php:86
+#: includes/wc-cart-functions.php:84
 msgid "&quot;%s&quot; was successfully added to your cart."
 msgstr "&quot;%s&quot; izdelek uspešno dodan v košarico.."
 
-#: includes/wc-cart-functions.php:94
+#: includes/wc-cart-functions.php:92
 msgid "Continue Shopping"
 msgstr "Nadaljuj za nakupovanjem"
 
-#: includes/wc-cart-functions.php:193
+#: includes/wc-cart-functions.php:191
 msgid "Coupon:"
 msgstr "Kupon:"
 
-#: includes/wc-cart-functions.php:219
+#: includes/wc-cart-functions.php:217
 msgid "Free shipping coupon"
 msgstr "Kupon za brezplačno dostavo"
 
-#: includes/wc-cart-functions.php:225
+#: includes/wc-cart-functions.php:223
 msgid "[Remove]"
 msgstr "[Odstrani]"
 
-#: includes/wc-cart-functions.php:288
+#: includes/wc-cart-functions.php:286
 msgid "Free"
 msgstr "Brezplačno"
 
@@ -7057,60 +6884,68 @@ msgid "New Zealand Dollar"
 msgstr "Novozelandski Dolar"
 
 #: includes/wc-core-functions.php:193
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: includes/wc-core-functions.php:194
 msgid "Philippine Pesos"
 msgstr "Filipinski Pesos"
 
-#: includes/wc-core-functions.php:194
+#: includes/wc-core-functions.php:195
 msgid "Polish Zloty"
 msgstr "Poljska Zlota"
 
-#: includes/wc-core-functions.php:195
+#: includes/wc-core-functions.php:196
 msgid "Pounds Sterling"
 msgstr "Funt"
 
-#: includes/wc-core-functions.php:196
+#: includes/wc-core-functions.php:197
 msgid "Romanian Leu"
 msgstr "Romunski Leu"
 
-#: includes/wc-core-functions.php:197
+#: includes/wc-core-functions.php:198
 msgid "Russian Ruble"
 msgstr "Ruski Rubelj"
 
-#: includes/wc-core-functions.php:198
+#: includes/wc-core-functions.php:199
 msgid "Singapore Dollar"
 msgstr "Singapurski Dolar"
 
-#: includes/wc-core-functions.php:199
+#: includes/wc-core-functions.php:200
 msgid "South African rand"
 msgstr "Južnoafriški rand"
 
-#: includes/wc-core-functions.php:200
+#: includes/wc-core-functions.php:201
 msgid "Swedish Krona"
 msgstr "Švedska Krona"
 
-#: includes/wc-core-functions.php:201
+#: includes/wc-core-functions.php:202
 msgid "Swiss Franc"
 msgstr "Švicarski Frank"
 
-#: includes/wc-core-functions.php:202
+#: includes/wc-core-functions.php:203
 msgid "Taiwan New Dollars"
 msgstr "Taivanski Novi Dolarji"
 
-#: includes/wc-core-functions.php:203
+#: includes/wc-core-functions.php:204
 msgid "Thai Baht"
 msgstr "Tajski Baht"
 
-#: includes/wc-core-functions.php:204
+#: includes/wc-core-functions.php:205
 msgid "Turkish Lira"
 msgstr "Turška Lira"
 
-#: includes/wc-core-functions.php:205
+#: includes/wc-core-functions.php:206
 msgid "US Dollars"
 msgstr "Ameriški Dolar"
 
-#: includes/wc-core-functions.php:206
+#: includes/wc-core-functions.php:207
 msgid "Vietnamese Dong"
 msgstr "Vietnamski Dong"
+
+#: includes/wc-core-functions.php:208
+msgid "Egyptian Pound"
+msgstr ""
 
 #: includes/wc-coupon-functions.php:22
 msgid "Cart Discount"
@@ -7128,35 +6963,21 @@ msgstr "Popust na izdelek"
 msgid "Product % Discount"
 msgstr "Popust na izdelek %"
 
-#: includes/wc-customer-functions.php:52
-msgid ""
-"An account is already registered with your email address. Please login."
-msgstr "Račun s tem elektronskim naslovom že obstaja. Prijavite se."
-
-#: includes/wc-customer-functions.php:61
-msgid "Please enter a valid account username."
-msgstr "Vnesite veljavno uporabniško ime računa."
-
-#: includes/wc-customer-functions.php:65
-msgid ""
-"An account is already registered with that username. Please choose another."
-msgstr "Račun s tem uporabniškim imenom že obstaja. Izberite drugega."
-
-#: includes/wc-customer-functions.php:85
-msgid "Please enter an account password."
-msgstr "Vnesite geslo za vaš račun."
-
-#: includes/wc-customer-functions.php:110
-msgid ""
-"Couldn&#8217;t register you&hellip; please contact us if you continue to "
-"have problems."
-msgstr "Ni vas bilo mogoče registrirati&hellip; V primeru ponovnih napak nas prosimo kontaktirajte."
-
 #: includes/wc-order-functions.php:295
 msgid "Unpaid order cancelled - time limit reached."
 msgstr "Neplačano naročilo je bilo preklicano - dosežena časovna omejitev."
 
-#: includes/wc-product-functions.php:233
+#: includes/wc-page-functions.php:78
+msgctxt "edit-address-slug"
+msgid "billing"
+msgstr ""
+
+#: includes/wc-page-functions.php:79
+msgctxt "edit-address-slug"
+msgid "shipping"
+msgstr ""
+
+#: includes/wc-product-functions.php:235
 msgctxt "slug"
 msgid "uncategorized"
 msgstr "nekategorizirano"
@@ -7189,7 +7010,7 @@ msgstr "&nbsp;&ndash; Stran %s"
 
 #: includes/wc-template-functions.php:989
 #: templates/checkout/form-shipping.php:55
-#: templates/single-product/tabs/additional-information.php:14
+#: templates/single-product/tabs/additional-information.php:17
 msgid "Additional Information"
 msgstr "Dodatne informacije"
 
@@ -7208,43 +7029,67 @@ msgctxt "breadcrumb"
 msgid "Home"
 msgstr "Domov"
 
-#: includes/wc-template-functions.php:1558
+#: includes/wc-template-functions.php:1549
 msgid "Order Again"
 msgstr "Naroči ponovno"
 
-#: includes/wc-template-functions.php:1649
+#: includes/wc-template-functions.php:1644
 #: templates/cart/shipping-calculator.php:28
 msgid "Select a country&hellip;"
 msgstr "Izberite državo@hellip;"
 
-#: includes/wc-template-functions.php:1656
+#: includes/wc-template-functions.php:1651
 msgid "Update country"
 msgstr "Posodobi državo"
 
-#: includes/wc-template-functions.php:1699
+#: includes/wc-template-functions.php:1701
 #: templates/cart/shipping-calculator.php:52
 msgid "Select a state&hellip;"
 msgstr "Izberi zv. državo&hellip;"
 
-#: includes/wc-template-functions.php:1812
+#: includes/wc-template-functions.php:1842
 msgid "Search for:"
 msgstr "Išči:"
 
-#: includes/wc-template-functions.php:1813
+#: includes/wc-template-functions.php:1843
 msgid "Search for products"
 msgstr "Išči med izdelki"
 
-#: includes/wc-template-functions.php:1814
+#: includes/wc-template-functions.php:1844
 msgid "Search"
 msgstr "Iskanje"
 
-#: includes/wc-term-functions.php:123
+#: includes/wc-term-functions.php:146
 msgid "Select a category"
 msgstr "Izberi kategorijo"
 
-#: includes/wc-term-functions.php:127
+#: includes/wc-term-functions.php:149
 msgid "Uncategorized"
 msgstr "Nekategorizirano"
+
+#: includes/wc-user-functions.php:52
+msgid ""
+"An account is already registered with your email address. Please login."
+msgstr "Račun s tem elektronskim naslovom že obstaja. Prijavite se."
+
+#: includes/wc-user-functions.php:61
+msgid "Please enter a valid account username."
+msgstr "Vnesite veljavno uporabniško ime računa."
+
+#: includes/wc-user-functions.php:65
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr "Račun s tem uporabniškim imenom že obstaja. Izberite drugega."
+
+#: includes/wc-user-functions.php:86
+msgid "Please enter an account password."
+msgstr "Vnesite geslo za vaš račun."
+
+#: includes/wc-user-functions.php:112
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr "Ni vas bilo mogoče registrirati&hellip; V primeru ponovnih napak nas prosimo kontaktirajte."
 
 #: includes/widgets/class-wc-widget-cart.php:23
 msgid "Display the user's Cart in the sidebar."
@@ -7275,17 +7120,17 @@ msgstr "WooCommerce večplastni filter z menijem"
 msgid "Active Filters"
 msgstr "Aktivni filtri"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:84
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:91
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:96
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:85
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:92
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:97
 msgid "Remove filter"
 msgstr "Odstrani filter"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:91
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:92
 msgid "Min"
 msgstr "Min"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:96
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:97
 msgid "Max"
 msgstr "Max"
 
@@ -7382,6 +7227,11 @@ msgstr "Razvrsti po"
 msgid "Category Order"
 msgstr "Vrstni red kategorij"
 
+#: includes/widgets/class-wc-widget-product-categories.php:39
+#: templates/single-product-reviews.php:62
+msgid "Name"
+msgstr "Naziv"
+
 #: includes/widgets/class-wc-widget-product-categories.php:45
 msgid "Show as dropdown"
 msgstr "Prikaži kot spustni meni"
@@ -7395,10 +7245,10 @@ msgid "Show hierarchy"
 msgstr "Prikaži hierarhijo"
 
 #: includes/widgets/class-wc-widget-product-categories.php:60
-msgid "Only show children for the current category"
-msgstr "Prikaži samo kategorije podrejene trenutni"
+msgid "Only show children of the current category"
+msgstr ""
 
-#: includes/widgets/class-wc-widget-product-categories.php:214
+#: includes/widgets/class-wc-widget-product-categories.php:223
 msgid "No product categories exist."
 msgstr "Kategorije produktov ne obstajajo."
 
@@ -7566,17 +7416,13 @@ msgstr "Nadaljujte na plačilno stran in vpišite vaš celoten naslov, v primeru
 msgid "Please fill in your details to see available shipping methods."
 msgstr "Vnesite svoje podatke, če želite videti načline dostave, ki so na voljo."
 
-#: templates/cart/cart-shipping.php:73 templates/cart/cart-shipping.php:81
-msgid "Sorry, shipping is unavailable %s."
-msgstr "Na žalost dostava ni na voljo %s."
-
-#: templates/cart/cart-shipping.php:73 templates/cart/cart-shipping.php:81
+#: templates/cart/cart-shipping.php:72 templates/cart/cart-shipping.php:78
 msgid ""
-"If you require assistance or wish to make alternate arrangements please "
-"contact us."
-msgstr "Če potrebujete pomoč ali želite podati svoj predlog, nas prosimo kontaktiraje."
+"There doesn&lsquo;t seem to be any available shipping methods. Please double"
+" check your address, or contact us if you need any help."
+msgstr ""
 
-#: templates/cart/cart-shipping.php:97
+#: templates/cart/cart-shipping.php:93
 msgid "Shipping"
 msgstr "Dostava"
 
@@ -7619,19 +7465,19 @@ msgstr "Cena"
 msgid "Remove this item"
 msgstr "Odstrani ta izdelek"
 
-#: templates/cart/cart.php:118 templates/checkout/form-coupon.php:25
+#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:26
 msgid "Coupon code"
 msgstr "Koda ugodnosti"
 
-#: templates/cart/cart.php:118 templates/checkout/form-coupon.php:29
+#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:30
 msgid "Apply Coupon"
 msgstr "Uporabi kupon"
 
-#: templates/cart/cart.php:125
+#: templates/cart/cart.php:126
 msgid "Update Cart"
 msgstr "Posodobi košarico"
 
-#: templates/cart/cart.php:125
+#: templates/cart/cart.php:126
 msgid "Proceed to Checkout"
 msgstr "Naprej na plačilo"
 
@@ -7664,6 +7510,10 @@ msgstr "Zv. država"
 #: templates/cart/shipping-calculator.php:72
 msgid "City"
 msgstr "Mesto"
+
+#: templates/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Poštna številka"
 
 #: templates/cart/shipping-calculator.php:85
 msgid "Update Totals"
@@ -7705,11 +7555,11 @@ msgstr "Morate se prijaviti za zaključek plačila."
 msgid "Your order"
 msgstr "Vaše naročilo"
 
-#: templates/checkout/form-coupon.php:17
+#: templates/checkout/form-coupon.php:18
 msgid "Have a coupon?"
 msgstr "Imate kupon?"
 
-#: templates/checkout/form-coupon.php:18
+#: templates/checkout/form-coupon.php:19
 msgid "Click here to enter your code"
 msgstr "Kliknite tukaj za vnos kode"
 
@@ -7928,13 +7778,13 @@ msgstr "Za ponastavitev gesla, obiščite to stran:"
 msgid "Click here to reset your password"
 msgstr "Kliknite tukaj za ponastavitev gesla"
 
-#: templates/emails/email-addresses.php:18
-#: templates/emails/plain/email-addresses.php:12
+#: templates/emails/email-addresses.php:20
+#: templates/emails/plain/email-addresses.php:14
 msgid "Billing address"
 msgstr "Naslov plačnika"
 
-#: templates/emails/email-addresses.php:28
-#: templates/emails/plain/email-addresses.php:17
+#: templates/emails/email-addresses.php:30
+#: templates/emails/plain/email-addresses.php:19
 msgid "Shipping address"
 msgstr "Naslov dostave"
 
@@ -8019,20 +7869,20 @@ msgid "Page"
 msgstr "Stran"
 
 #: templates/global/form-login.php:22
-#: templates/myaccount/form-lost-password.php:24
+#: templates/myaccount/form-lost-password.php:23
 msgid "Username or email"
 msgstr "Uporabniško ime ali E-naslov"
 
-#: templates/global/form-login.php:26 templates/myaccount/form-login.php:36
-#: templates/myaccount/form-login.php:84
+#: templates/global/form-login.php:26 templates/myaccount/form-login.php:38
+#: templates/myaccount/form-login.php:88
 msgid "Password"
 msgstr "Geslo"
 
-#: templates/global/form-login.php:38 templates/myaccount/form-login.php:46
+#: templates/global/form-login.php:38 templates/myaccount/form-login.php:48
 msgid "Remember me"
 msgstr "Zapomni si me"
 
-#: templates/global/form-login.php:42 templates/myaccount/form-login.php:50
+#: templates/global/form-login.php:42 templates/myaccount/form-login.php:52
 msgid "Lost your password?"
 msgstr "Ste izgubili svoje geslo?"
 
@@ -8106,76 +7956,93 @@ msgid "Last name"
 msgstr "Priimek"
 
 #: templates/myaccount/form-edit-account.php:28
-#: templates/myaccount/form-login.php:79
+#: templates/myaccount/form-login.php:81
 msgid "Email address"
 msgstr "Elektronski naslov"
 
-#: templates/myaccount/form-edit-account.php:32
+#: templates/myaccount/form-edit-account.php:34
 msgid "Password (leave blank to leave unchanged)"
 msgstr "Geslo (pustite prazno, če ne želite spremeniti)"
 
-#: templates/myaccount/form-edit-account.php:36
+#: templates/myaccount/form-edit-account.php:38
 msgid "Confirm new password"
 msgstr "Potrdite novo geslo"
 
-#: templates/myaccount/form-edit-account.php:41
+#: templates/myaccount/form-edit-account.php:44
+msgid "Password Change"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:47
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:51
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:55
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:61
 msgid "Save changes"
 msgstr "Shrani spremembe"
 
-#: templates/myaccount/form-edit-address.php:14
+#: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:19 templates/myaccount/my-address.php:25
 #: templates/order/order-details.php:118
 msgid "Billing Address"
 msgstr "Naslov plačnika"
 
-#: templates/myaccount/form-edit-address.php:14
+#: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:20 templates/order/order-details.php:133
 msgid "Shipping Address"
 msgstr "Naslov dostave"
 
-#: templates/myaccount/form-edit-address.php:38
+#: templates/myaccount/form-edit-address.php:40
 msgid "Save Address"
 msgstr "Shrani naslov"
 
-#: templates/myaccount/form-login.php:32
+#: templates/myaccount/form-login.php:34
 msgid "Username or email address"
 msgstr "Uporabniško ime ali elektronski naslov"
 
-#: templates/myaccount/form-login.php:63 templates/myaccount/form-login.php:96
+#: templates/myaccount/form-login.php:65
+#: templates/myaccount/form-login.php:102
 msgid "Register"
 msgstr "Registracija"
 
-#: templates/myaccount/form-login.php:72
+#: templates/myaccount/form-login.php:74
 msgid "Username"
 msgstr "Uporabniško ime"
 
-#: templates/myaccount/form-login.php:89
+#: templates/myaccount/form-login.php:95
 msgid "Anti-spam"
 msgstr "Anti-spam"
 
-#: templates/myaccount/form-lost-password.php:22
+#: templates/myaccount/form-lost-password.php:21
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr "Ste izgubili svoje geslo? Vnesite uporabniško ime ali elektronski naslov. Preko E-sporočila boste prejeli povezavo za ponastavitev gesla."
 
-#: templates/myaccount/form-lost-password.php:28
+#: templates/myaccount/form-lost-password.php:27
 msgid "Enter a new password below."
 msgstr "Vnesite novo geslo spodaj."
 
-#: templates/myaccount/form-lost-password.php:31
+#: templates/myaccount/form-lost-password.php:30
 msgid "New password"
 msgstr "Novo geslo"
 
-#: templates/myaccount/form-lost-password.php:35
+#: templates/myaccount/form-lost-password.php:34
 msgid "Re-enter new password"
 msgstr "Ponovno vnesite novo geslo"
 
-#: templates/myaccount/form-lost-password.php:46
+#: templates/myaccount/form-lost-password.php:45
 msgid "Reset Password"
 msgstr "Ponastavi geslo"
 
-#: templates/myaccount/form-lost-password.php:46
+#: templates/myaccount/form-lost-password.php:45
 msgid "Save"
 msgstr "Shrani"
 
@@ -8242,18 +8109,18 @@ msgstr "Prekliči"
 msgid "View"
 msgstr "Prikaži"
 
-#: templates/myaccount/view-order.php:12
+#: templates/myaccount/view-order.php:19
 msgid ""
 "Order <mark class=\"order-number\">%s</mark> was placed on <mark class"
 "=\"order-date\">%s</mark> and is currently <mark class=\"order-"
 "status\">%s</mark>."
 msgstr "Naročilo <mark class=\"order-number\">%s</mark> je bilo oddano <mark class=\"order-date\">%s</mark> in je trenutno <mark class=\"order-status\">%s</mark>."
 
-#: templates/myaccount/view-order.php:16 templates/order/tracking.php:31
+#: templates/myaccount/view-order.php:23 templates/order/tracking.php:31
 msgid "Order Updates"
 msgstr "Posodobitve naročila"
 
-#: templates/myaccount/view-order.php:22 templates/order/tracking.php:37
+#: templates/myaccount/view-order.php:29 templates/order/tracking.php:37
 msgid "l jS \\o\\f F Y, h:ia"
 msgstr "l jS \\o\\f F Y, h:ia"
 
@@ -8327,10 +8194,6 @@ msgstr "Ta izdelek trenutno ni na zalogi in ni na voljo."
 #: templates/single-product/meta.php:23
 msgid "SKU:"
 msgstr "Šifra:"
-
-#: templates/single-product/meta.php:23
-msgid "n/a"
-msgstr "n/a"
 
 #: templates/single-product/meta.php:27
 msgid "Category:"

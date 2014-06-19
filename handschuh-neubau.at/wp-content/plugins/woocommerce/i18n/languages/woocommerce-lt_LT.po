@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2014-03-24 12:16:53+00:00\n"
-"PO-Revision-Date: 2014-04-16 18:45+0000\n"
-"Last-Translator: greencore <r.alekna@gmail.com>\n"
+"POT-Creation-Date: 2014-06-03 15:13:58+00:00\n"
+"PO-Revision-Date: 2014-06-04 08:41+0000\n"
+"Last-Translator: Mike Jolley <mike.jolley@me.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/woocommerce/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,52 +16,981 @@ msgstr ""
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: assets/js/admin/editor_plugin_lang.php:5
-msgid "Insert Shortcode"
-msgstr "Įterpti „Shortcode“"
+#: i18n/countries.php:16
+msgid "Afghanistan"
+msgstr "Afganistanas"
 
-#: assets/js/admin/editor_plugin_lang.php:6
-msgid "Product price/cart button"
-msgstr "Produkto kainos/krepšelio mygtukas"
+#: i18n/countries.php:17
+msgid "&#197;land Islands"
+msgstr "Alandai"
 
-#: assets/js/admin/editor_plugin_lang.php:7
-msgid "Product by SKU/ID"
-msgstr "Produktas pagal kodą/ID"
+#: i18n/countries.php:18
+msgid "Albania"
+msgstr "Albanija"
 
-#: assets/js/admin/editor_plugin_lang.php:8
-msgid "Products by SKU/ID"
-msgstr "Produktai pagal kodą/ID"
+#: i18n/countries.php:19
+msgid "Algeria"
+msgstr "Alžyras"
 
-#: assets/js/admin/editor_plugin_lang.php:9
-msgid "Product categories"
-msgstr "Produkto kategorijos"
+#: i18n/countries.php:20
+msgid "Andorra"
+msgstr "Andora"
 
-#: assets/js/admin/editor_plugin_lang.php:10
-msgid "Products by category slug"
-msgstr "Produktai pagal kategorijos nuorodos dalį"
+#: i18n/countries.php:21
+msgid "Angola"
+msgstr "Angola"
 
-#: assets/js/admin/editor_plugin_lang.php:11
-msgid "Recent products"
-msgstr "Pastarieji produktai"
+#: i18n/countries.php:22
+msgid "Anguilla"
+msgstr "Angilija"
 
-#: assets/js/admin/editor_plugin_lang.php:12
-msgid "Featured products"
-msgstr "Rekomenduojami produktai"
+#: i18n/countries.php:23
+msgid "Antarctica"
+msgstr "Antarktida"
 
-#: assets/js/admin/editor_plugin_lang.php:13
-msgid "Shop Messages"
-msgstr "Parduotuvės žinutės"
+#: i18n/countries.php:24
+msgid "Antigua and Barbuda"
+msgstr "Antigva ir Barbuda"
 
-#: assets/js/admin/editor_plugin_lang.php:14
-msgid "Order tracking"
-msgstr "Užsakymo sekimas"
+#: i18n/countries.php:25
+msgid "Argentina"
+msgstr "Argentina"
 
-#: assets/js/admin/editor_plugin_lang.php:15
-#: includes/shortcodes/class-wc-shortcode-checkout.php:91
-#: includes/shortcodes/class-wc-shortcode-my-account.php:111
-#: templates/checkout/thankyou.php:30
-msgid "My Account"
-msgstr "Mano paskyra"
+#: i18n/countries.php:26
+msgid "Armenia"
+msgstr "Armėnija"
+
+#: i18n/countries.php:27
+msgid "Aruba"
+msgstr "Aruba"
+
+#: i18n/countries.php:28
+msgid "Australia"
+msgstr "Australija"
+
+#: i18n/countries.php:29
+msgid "Austria"
+msgstr "Austrija"
+
+#: i18n/countries.php:30
+msgid "Azerbaijan"
+msgstr "Azerbaidžanas"
+
+#: i18n/countries.php:31
+msgid "Bahamas"
+msgstr "Bahamai"
+
+#: i18n/countries.php:32
+msgid "Bahrain"
+msgstr "Bahreinas"
+
+#: i18n/countries.php:33
+msgid "Bangladesh"
+msgstr "Bangladešas"
+
+#: i18n/countries.php:34
+msgid "Barbados"
+msgstr "Barbadosas"
+
+#: i18n/countries.php:35
+msgid "Belarus"
+msgstr "Baltarusija"
+
+#: i18n/countries.php:36
+msgid "Belgium"
+msgstr "Belgija"
+
+#: i18n/countries.php:37
+msgid "Belau"
+msgstr "Belau"
+
+#: i18n/countries.php:38
+msgid "Belize"
+msgstr "Belizas"
+
+#: i18n/countries.php:39
+msgid "Benin"
+msgstr "Beninas"
+
+#: i18n/countries.php:40
+msgid "Bermuda"
+msgstr "Bermudai"
+
+#: i18n/countries.php:41
+msgid "Bhutan"
+msgstr "Butanas"
+
+#: i18n/countries.php:42
+msgid "Bolivia"
+msgstr "Bolivija"
+
+#: i18n/countries.php:43
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "BES salos (Karibų Nyderlandai)"
+
+#: i18n/countries.php:44
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnija ir Hercegovina"
+
+#: i18n/countries.php:45
+msgid "Botswana"
+msgstr "Botsvana"
+
+#: i18n/countries.php:46
+msgid "Bouvet Island"
+msgstr "Buvė sala"
+
+#: i18n/countries.php:47
+msgid "Brazil"
+msgstr "Brazilija"
+
+#: i18n/countries.php:48
+msgid "British Indian Ocean Territory"
+msgstr "Indijos Vandenyno Britų Sritis"
+
+#: i18n/countries.php:49
+msgid "British Virgin Islands"
+msgstr "Mergelių salos"
+
+#: i18n/countries.php:50
+msgid "Brunei"
+msgstr "Brunėjus"
+
+#: i18n/countries.php:51
+msgid "Bulgaria"
+msgstr "Bulgarija"
+
+#: i18n/countries.php:52
+msgid "Burkina Faso"
+msgstr "Burkina Fasas"
+
+#: i18n/countries.php:53
+msgid "Burundi"
+msgstr "Burundis"
+
+#: i18n/countries.php:54
+msgid "Cambodia"
+msgstr "Kambodža"
+
+#: i18n/countries.php:55
+msgid "Cameroon"
+msgstr "Kamerūnas"
+
+#: i18n/countries.php:56
+msgid "Canada"
+msgstr "Kanada"
+
+#: i18n/countries.php:57
+msgid "Cape Verde"
+msgstr "Žaliasis Kyšulys"
+
+#: i18n/countries.php:58
+msgid "Cayman Islands"
+msgstr "Kaimanų salos"
+
+#: i18n/countries.php:59
+msgid "Central African Republic"
+msgstr "Centrinė Afrikos Respublika"
+
+#: i18n/countries.php:60
+msgid "Chad"
+msgstr "Čadas"
+
+#: i18n/countries.php:61
+msgid "Chile"
+msgstr "Čilė"
+
+#: i18n/countries.php:62
+msgid "China"
+msgstr "Kinija"
+
+#: i18n/countries.php:63
+msgid "Christmas Island"
+msgstr "Kalėdų sala"
+
+#: i18n/countries.php:64
+msgid "Cocos (Keeling) Islands"
+msgstr "Kokosų sala"
+
+#: i18n/countries.php:65
+msgid "Colombia"
+msgstr "Kolumbija"
+
+#: i18n/countries.php:66
+msgid "Comoros"
+msgstr "Komorai"
+
+#: i18n/countries.php:67
+msgid "Congo (Brazzaville)"
+msgstr "Kongas (Brazivilis)"
+
+#: i18n/countries.php:68
+msgid "Congo (Kinshasa)"
+msgstr "Kongas (Kinšasa)"
+
+#: i18n/countries.php:69
+msgid "Cook Islands"
+msgstr "Kuko salos"
+
+#: i18n/countries.php:70
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: i18n/countries.php:71
+msgid "Croatia"
+msgstr "Kroatija"
+
+#: i18n/countries.php:72
+msgid "Cuba"
+msgstr "Kuba"
+
+#: i18n/countries.php:73
+msgid "Cura&Ccedil;ao"
+msgstr "Kiurasao"
+
+#: i18n/countries.php:74
+msgid "Cyprus"
+msgstr "Kipras"
+
+#: i18n/countries.php:75
+msgid "Czech Republic"
+msgstr "Čekija"
+
+#: i18n/countries.php:76
+msgid "Denmark"
+msgstr "Danija"
+
+#: i18n/countries.php:77
+msgid "Djibouti"
+msgstr "Džibutis"
+
+#: i18n/countries.php:78
+msgid "Dominica"
+msgstr "Dominika"
+
+#: i18n/countries.php:79
+msgid "Dominican Republic"
+msgstr "Dominikos Respublika"
+
+#: i18n/countries.php:80
+msgid "Ecuador"
+msgstr "Ekvadoras"
+
+#: i18n/countries.php:81
+msgid "Egypt"
+msgstr "Egiptas"
+
+#: i18n/countries.php:82
+msgid "El Salvador"
+msgstr "Salvadoras"
+
+#: i18n/countries.php:83
+msgid "Equatorial Guinea"
+msgstr "Pusiaujo Gvinėja"
+
+#: i18n/countries.php:84
+msgid "Eritrea"
+msgstr "Eritrėja"
+
+#: i18n/countries.php:85
+msgid "Estonia"
+msgstr "Estija"
+
+#: i18n/countries.php:86
+msgid "Ethiopia"
+msgstr "Etiopija"
+
+#: i18n/countries.php:87
+msgid "Falkland Islands"
+msgstr "Folklando salos"
+
+#: i18n/countries.php:88
+msgid "Faroe Islands"
+msgstr "Farerų salos"
+
+#: i18n/countries.php:89
+msgid "Fiji"
+msgstr "Fidžis"
+
+#: i18n/countries.php:90
+msgid "Finland"
+msgstr "Suomija"
+
+#: i18n/countries.php:91
+msgid "France"
+msgstr "Prancūzija"
+
+#: i18n/countries.php:92
+msgid "French Guiana"
+msgstr "Prancūzijos Gviana"
+
+#: i18n/countries.php:93
+msgid "French Polynesia"
+msgstr "Prancūzijos Polinezija"
+
+#: i18n/countries.php:94
+msgid "French Southern Territories"
+msgstr "Prancūzijos Pietų Sritys"
+
+#: i18n/countries.php:95
+msgid "Gabon"
+msgstr "Gabonas"
+
+#: i18n/countries.php:96
+msgid "Gambia"
+msgstr "Gambija"
+
+#: i18n/countries.php:97 i18n/states/US.php:23
+msgid "Georgia"
+msgstr "Gruzija"
+
+#: i18n/countries.php:98
+msgid "Germany"
+msgstr "Vokietija"
+
+#: i18n/countries.php:99
+msgid "Ghana"
+msgstr "Gana"
+
+#: i18n/countries.php:100
+msgid "Gibraltar"
+msgstr "Gibraltaras"
+
+#: i18n/countries.php:101
+msgid "Greece"
+msgstr "Graikija"
+
+#: i18n/countries.php:102
+msgid "Greenland"
+msgstr "Grenlandija"
+
+#: i18n/countries.php:103
+msgid "Grenada"
+msgstr "Grenada"
+
+#: i18n/countries.php:104
+msgid "Guadeloupe"
+msgstr "Gvadelupa"
+
+#: i18n/countries.php:105
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+#: i18n/countries.php:106
+msgid "Guernsey"
+msgstr "Gernsis"
+
+#: i18n/countries.php:107
+msgid "Guinea"
+msgstr "Gvinėja"
+
+#: i18n/countries.php:108
+msgid "Guinea-Bissau"
+msgstr "Bisau Gvinėja"
+
+#: i18n/countries.php:109
+msgid "Guyana"
+msgstr "Gajana"
+
+#: i18n/countries.php:110
+msgid "Haiti"
+msgstr "Haitis"
+
+#: i18n/countries.php:111
+msgid "Heard Island and McDonald Islands"
+msgstr "Herdas ir Makdonaldas"
+
+#: i18n/countries.php:112
+msgid "Honduras"
+msgstr "Hondūras"
+
+#: i18n/countries.php:113
+msgid "Hong Kong"
+msgstr "Honkongas"
+
+#: i18n/countries.php:114
+msgid "Hungary"
+msgstr "Verngrija"
+
+#: i18n/countries.php:115
+msgid "Iceland"
+msgstr "Islandija"
+
+#: i18n/countries.php:116
+msgid "India"
+msgstr "Indija"
+
+#: i18n/countries.php:117
+msgid "Indonesia"
+msgstr "Indonezija"
+
+#: i18n/countries.php:118
+msgid "Iran"
+msgstr "Iranas"
+
+#: i18n/countries.php:119
+msgid "Iraq"
+msgstr "Irakas"
+
+#: i18n/countries.php:120
+msgid "Republic of Ireland"
+msgstr "Airija"
+
+#: i18n/countries.php:121
+msgid "Isle of Man"
+msgstr "Meno sala"
+
+#: i18n/countries.php:122
+msgid "Israel"
+msgstr "Izraelis"
+
+#: i18n/countries.php:123
+msgid "Italy"
+msgstr "Italija"
+
+#: i18n/countries.php:124
+msgid "Ivory Coast"
+msgstr "Dramblio Kaulo Krantas"
+
+#: i18n/countries.php:125
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: i18n/countries.php:126
+msgid "Japan"
+msgstr "Japonija"
+
+#: i18n/countries.php:127
+msgid "Jersey"
+msgstr "Džersis"
+
+#: i18n/countries.php:128
+msgid "Jordan"
+msgstr "Jordanija"
+
+#: i18n/countries.php:129
+msgid "Kazakhstan"
+msgstr "Kazachstanas"
+
+#: i18n/countries.php:130
+msgid "Kenya"
+msgstr "Kenija"
+
+#: i18n/countries.php:131
+msgid "Kiribati"
+msgstr "Kiribatis"
+
+#: i18n/countries.php:132
+msgid "Kuwait"
+msgstr "Kuveitas"
+
+#: i18n/countries.php:133
+msgid "Kyrgyzstan"
+msgstr "Kirgizija"
+
+#: i18n/countries.php:134
+msgid "Laos"
+msgstr "Laosas"
+
+#: i18n/countries.php:135
+msgid "Latvia"
+msgstr "Latvija"
+
+#: i18n/countries.php:136
+msgid "Lebanon"
+msgstr "Libanas"
+
+#: i18n/countries.php:137
+msgid "Lesotho"
+msgstr "Lesotas"
+
+#: i18n/countries.php:138
+msgid "Liberia"
+msgstr "Liberija"
+
+#: i18n/countries.php:139
+msgid "Libya"
+msgstr "Libija"
+
+#: i18n/countries.php:140
+msgid "Liechtenstein"
+msgstr "Lichtenšteinas"
+
+#: i18n/countries.php:141
+msgid "Lithuania"
+msgstr "Lietuva"
+
+#: i18n/countries.php:142
+msgid "Luxembourg"
+msgstr "Liuksemburgas"
+
+#: i18n/countries.php:143
+msgid "Macao S.A.R., China"
+msgstr "Makao"
+
+#: i18n/countries.php:144
+msgid "Macedonia"
+msgstr "Makedonija"
+
+#: i18n/countries.php:145
+msgid "Madagascar"
+msgstr "Madagaskaras"
+
+#: i18n/countries.php:146
+msgid "Malawi"
+msgstr "Malavis"
+
+#: i18n/countries.php:147
+msgid "Malaysia"
+msgstr "Malaizija"
+
+#: i18n/countries.php:148
+msgid "Maldives"
+msgstr "Maldivų salos"
+
+#: i18n/countries.php:149
+msgid "Mali"
+msgstr "Malis"
+
+#: i18n/countries.php:150
+msgid "Malta"
+msgstr "Malta"
+
+#: i18n/countries.php:151
+msgid "Marshall Islands"
+msgstr "Maršalo salos"
+
+#: i18n/countries.php:152
+msgid "Martinique"
+msgstr "Martinika"
+
+#: i18n/countries.php:153
+msgid "Mauritania"
+msgstr "Mauritanija"
+
+#: i18n/countries.php:154
+msgid "Mauritius"
+msgstr "Mauricijus"
+
+#: i18n/countries.php:155
+msgid "Mayotte"
+msgstr "Majotas"
+
+#: i18n/countries.php:156
+msgid "Mexico"
+msgstr "Meksika"
+
+#: i18n/countries.php:157
+msgid "Micronesia"
+msgstr "Mikronezija"
+
+#: i18n/countries.php:158
+msgid "Moldova"
+msgstr "Moldova"
+
+#: i18n/countries.php:159
+msgid "Monaco"
+msgstr "Monakas"
+
+#: i18n/countries.php:160
+msgid "Mongolia"
+msgstr "Mongolija"
+
+#: i18n/countries.php:161
+msgid "Montenegro"
+msgstr "Juodkalnija"
+
+#: i18n/countries.php:162
+msgid "Montserrat"
+msgstr "Montseratas"
+
+#: i18n/countries.php:163
+msgid "Morocco"
+msgstr "Marokas"
+
+#: i18n/countries.php:164
+msgid "Mozambique"
+msgstr "Mozambikas"
+
+#: i18n/countries.php:165
+msgid "Myanmar"
+msgstr "Mianmaras"
+
+#: i18n/countries.php:166
+msgid "Namibia"
+msgstr "Namibija"
+
+#: i18n/countries.php:167
+msgid "Nauru"
+msgstr "Nauru"
+
+#: i18n/countries.php:168
+msgid "Nepal"
+msgstr "Nepalas"
+
+#: i18n/countries.php:169
+msgid "Netherlands"
+msgstr "Nyderlandai"
+
+#: i18n/countries.php:170
+msgid "Netherlands Antilles"
+msgstr "Nyderlandų Antilai"
+
+#: i18n/countries.php:171
+msgid "New Caledonia"
+msgstr "Naujoji Kaledonija"
+
+#: i18n/countries.php:172
+msgid "New Zealand"
+msgstr "Naujoji Zelandija"
+
+#: i18n/countries.php:173
+msgid "Nicaragua"
+msgstr "Nikaragva"
+
+#: i18n/countries.php:174
+msgid "Niger"
+msgstr "Nigeris"
+
+#: i18n/countries.php:175
+msgid "Nigeria"
+msgstr "Nigerija"
+
+#: i18n/countries.php:176
+msgid "Niue"
+msgstr "Niujė"
+
+#: i18n/countries.php:177
+msgid "Norfolk Island"
+msgstr "Norfolkas"
+
+#: i18n/countries.php:178
+msgid "North Korea"
+msgstr "Šiaurės Korėja"
+
+#: i18n/countries.php:179
+msgid "Norway"
+msgstr "Norvegija"
+
+#: i18n/countries.php:180
+msgid "Oman"
+msgstr "Omanas"
+
+#: i18n/countries.php:181
+msgid "Pakistan"
+msgstr "Pakistanas"
+
+#: i18n/countries.php:182
+msgid "Palestinian Territory"
+msgstr "Palestina"
+
+#: i18n/countries.php:183
+msgid "Panama"
+msgstr "Panama"
+
+#: i18n/countries.php:184
+msgid "Papua New Guinea"
+msgstr "Papua Naujoji Gvinėja"
+
+#: i18n/countries.php:185
+msgid "Paraguay"
+msgstr "Paragvajus"
+
+#: i18n/countries.php:186
+msgid "Peru"
+msgstr "Peru"
+
+#: i18n/countries.php:187
+msgid "Philippines"
+msgstr "Filipinai"
+
+#: i18n/countries.php:188
+msgid "Pitcairn"
+msgstr "Pikterno salos"
+
+#: i18n/countries.php:189
+msgid "Poland"
+msgstr "Lenkija"
+
+#: i18n/countries.php:190
+msgid "Portugal"
+msgstr "Portugalija"
+
+#: i18n/countries.php:191
+msgid "Qatar"
+msgstr "Kataras"
+
+#: i18n/countries.php:192
+msgid "Reunion"
+msgstr "Reunjonas"
+
+#: i18n/countries.php:193
+msgid "Romania"
+msgstr "Rumunija"
+
+#: i18n/countries.php:194
+msgid "Russia"
+msgstr "Rusija"
+
+#: i18n/countries.php:195
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: i18n/countries.php:196
+msgid "Saint Barth&eacute;lemy"
+msgstr "Šv. Bartolomėjus"
+
+#: i18n/countries.php:197
+msgid "Saint Helena"
+msgstr "Šv. Elenos sala"
+
+#: i18n/countries.php:198
+msgid "Saint Kitts and Nevis"
+msgstr "Sent Kitsas ir Nevis"
+
+#: i18n/countries.php:199
+msgid "Saint Lucia"
+msgstr "Sent Lusija"
+
+#: i18n/countries.php:200
+msgid "Saint Martin (French part)"
+msgstr "San Martenas (prancūzų dalis)"
+
+#: i18n/countries.php:201
+msgid "Saint Martin (Dutch part)"
+msgstr "San Martenas (olandų dalis)"
+
+#: i18n/countries.php:202
+msgid "Saint Pierre and Miquelon"
+msgstr "Sen Pjeras ir Mikelonas"
+
+#: i18n/countries.php:203
+msgid "Saint Vincent and the Grenadines"
+msgstr "Sent Vinsentas ir Grenadinai"
+
+#: i18n/countries.php:204
+msgid "San Marino"
+msgstr "San Marinas"
+
+#: i18n/countries.php:205
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "San Tomė ir Prinsipė"
+
+#: i18n/countries.php:206
+msgid "Saudi Arabia"
+msgstr "Saudo Arabija"
+
+#: i18n/countries.php:207
+msgid "Senegal"
+msgstr "Senegalas"
+
+#: i18n/countries.php:208
+msgid "Serbia"
+msgstr "Serbija"
+
+#: i18n/countries.php:209
+msgid "Seychelles"
+msgstr "Seišeliai"
+
+#: i18n/countries.php:210
+msgid "Sierra Leone"
+msgstr "Siera Leonė"
+
+#: i18n/countries.php:211
+msgid "Singapore"
+msgstr "Singapūras"
+
+#: i18n/countries.php:212
+msgid "Slovakia"
+msgstr "Slovakija"
+
+#: i18n/countries.php:213
+msgid "Slovenia"
+msgstr "Slovėnija"
+
+#: i18n/countries.php:214
+msgid "Solomon Islands"
+msgstr "Saliamono salos"
+
+#: i18n/countries.php:215
+msgid "Somalia"
+msgstr "Somalis"
+
+#: i18n/countries.php:216
+msgid "South Africa"
+msgstr "Pietų Afrika"
+
+#: i18n/countries.php:217
+msgid "South Georgia/Sandwich Islands"
+msgstr "Pietų Džordžija ir Sandvičas"
+
+#: i18n/countries.php:218
+msgid "South Korea"
+msgstr "Pietų Korėja"
+
+#: i18n/countries.php:219
+msgid "South Sudan"
+msgstr "Pietų Sudanas"
+
+#: i18n/countries.php:220
+msgid "Spain"
+msgstr "Ispanija"
+
+#: i18n/countries.php:221
+msgid "Sri Lanka"
+msgstr "Šri Lanka"
+
+#: i18n/countries.php:222
+msgid "Sudan"
+msgstr "Sudanas"
+
+#: i18n/countries.php:223
+msgid "Suriname"
+msgstr "Surinamas"
+
+#: i18n/countries.php:224
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbardas ir Jan Majenas"
+
+#: i18n/countries.php:225
+msgid "Swaziland"
+msgstr "Svazilandas"
+
+#: i18n/countries.php:226
+msgid "Sweden"
+msgstr "Švedija"
+
+#: i18n/countries.php:227
+msgid "Switzerland"
+msgstr "Šveicarija"
+
+#: i18n/countries.php:228
+msgid "Syria"
+msgstr "Sirija"
+
+#: i18n/countries.php:229
+msgid "Taiwan"
+msgstr "Taivanas"
+
+#: i18n/countries.php:230
+msgid "Tajikistan"
+msgstr "Tadžikistanas"
+
+#: i18n/countries.php:231
+msgid "Tanzania"
+msgstr "Tanzanija"
+
+#: i18n/countries.php:232
+msgid "Thailand"
+msgstr "Tailandas"
+
+#: i18n/countries.php:233
+msgid "Timor-Leste"
+msgstr "Rytų Timoras"
+
+#: i18n/countries.php:234
+msgid "Togo"
+msgstr "Togas"
+
+#: i18n/countries.php:235
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: i18n/countries.php:236
+msgid "Tonga"
+msgstr "Tonga"
+
+#: i18n/countries.php:237
+msgid "Trinidad and Tobago"
+msgstr "Trinidadas ir Tobagas"
+
+#: i18n/countries.php:238
+msgid "Tunisia"
+msgstr "Tunisas"
+
+#: i18n/countries.php:239
+msgid "Turkey"
+msgstr "Turkija"
+
+#: i18n/countries.php:240
+msgid "Turkmenistan"
+msgstr "Turkmenistanas"
+
+#: i18n/countries.php:241
+msgid "Turks and Caicos Islands"
+msgstr "Terksas ir Kaikosas"
+
+#: i18n/countries.php:242
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: i18n/countries.php:243
+msgid "Uganda"
+msgstr "Uganda"
+
+#: i18n/countries.php:244
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: i18n/countries.php:245
+msgid "United Arab Emirates"
+msgstr "Jungtiniai Arabų Emyratai"
+
+#: i18n/countries.php:246
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: i18n/countries.php:247
+msgid "United States (US)"
+msgstr ""
+
+#: i18n/countries.php:248
+msgid "Uruguay"
+msgstr "Urugvajus"
+
+#: i18n/countries.php:249
+msgid "Uzbekistan"
+msgstr "Uzbekistanas"
+
+#: i18n/countries.php:250
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: i18n/countries.php:251
+msgid "Vatican"
+msgstr "Vatikanas"
+
+#: i18n/countries.php:252
+msgid "Venezuela"
+msgstr "Venesuela"
+
+#: i18n/countries.php:253
+msgid "Vietnam"
+msgstr "Vietnamas"
+
+#: i18n/countries.php:254
+msgid "Wallis and Futuna"
+msgstr "Volisas ir Futūna"
+
+#: i18n/countries.php:255
+msgid "Western Sahara"
+msgstr "Vakarų Sachara"
+
+#: i18n/countries.php:256
+msgid "Western Samoa"
+msgstr "Vakarų Samoa"
+
+#: i18n/countries.php:257
+msgid "Yemen"
+msgstr "Jemenas"
+
+#: i18n/countries.php:258
+msgid "Zambia"
+msgstr "Zambija"
+
+#: i18n/countries.php:259
+msgid "Zimbabwe"
+msgstr "Zimbabvė"
 
 #: i18n/states/AU.php:13
 msgid "Australian Capital Territory"
@@ -120,226 +1049,234 @@ msgid "Bogra"
 msgstr ""
 
 #: i18n/states/BD.php:19
-msgid "Chandpur"
+msgid "Brahmanbaria"
 msgstr ""
 
 #: i18n/states/BD.php:20
-msgid "Chittagong"
+msgid "Chandpur"
 msgstr ""
 
 #: i18n/states/BD.php:21
-msgid "Chuadanga"
+msgid "Chittagong"
 msgstr ""
 
 #: i18n/states/BD.php:22
-msgid "Comilla"
+msgid "Chuadanga"
 msgstr ""
 
 #: i18n/states/BD.php:23
-msgid "Cox's Bazar"
+msgid "Comilla"
 msgstr ""
 
 #: i18n/states/BD.php:24
-msgid "Dhaka"
+msgid "Cox's Bazar"
 msgstr ""
 
 #: i18n/states/BD.php:25
-msgid "Dinajpur"
+msgid "Dhaka"
 msgstr ""
 
 #: i18n/states/BD.php:26
-msgid "Faridpur "
+msgid "Dinajpur"
 msgstr ""
 
 #: i18n/states/BD.php:27
-msgid "Feni"
+msgid "Faridpur "
 msgstr ""
 
 #: i18n/states/BD.php:28
-msgid "Gaibandha"
+msgid "Feni"
 msgstr ""
 
 #: i18n/states/BD.php:29
-msgid "Gazipur"
+msgid "Gaibandha"
 msgstr ""
 
 #: i18n/states/BD.php:30
-msgid "Gopalganj"
+msgid "Gazipur"
 msgstr ""
 
 #: i18n/states/BD.php:31
-msgid "Jamalpur"
+msgid "Gopalganj"
 msgstr ""
 
 #: i18n/states/BD.php:32
-msgid "Jessore"
+msgid "Habiganj"
 msgstr ""
 
 #: i18n/states/BD.php:33
-msgid "Jhalokati"
+msgid "Jamalpur"
 msgstr ""
 
 #: i18n/states/BD.php:34
-msgid "Jhenaidah"
+msgid "Jessore"
 msgstr ""
 
 #: i18n/states/BD.php:35
-msgid "Joypurhat"
+msgid "Jhalokati"
 msgstr ""
 
 #: i18n/states/BD.php:36
-msgid "Khagrachhari"
+msgid "Jhenaidah"
 msgstr ""
 
 #: i18n/states/BD.php:37
-msgid "Khulna"
+msgid "Joypurhat"
 msgstr ""
 
 #: i18n/states/BD.php:38
-msgid "Kishoreganj"
+msgid "Khagrachhari"
 msgstr ""
 
 #: i18n/states/BD.php:39
-msgid "Kurigram"
+msgid "Khulna"
 msgstr ""
 
 #: i18n/states/BD.php:40
-msgid "Kushtia"
+msgid "Kishoreganj"
 msgstr ""
 
 #: i18n/states/BD.php:41
-msgid "Lakshmipur"
+msgid "Kurigram"
 msgstr ""
 
 #: i18n/states/BD.php:42
-msgid "Lalmonirhat"
+msgid "Kushtia"
 msgstr ""
 
 #: i18n/states/BD.php:43
-msgid "Madaripur"
+msgid "Lakshmipur"
 msgstr ""
 
 #: i18n/states/BD.php:44
-msgid "Magura"
+msgid "Lalmonirhat"
 msgstr ""
 
 #: i18n/states/BD.php:45
-msgid "Manikganj "
+msgid "Madaripur"
 msgstr ""
 
 #: i18n/states/BD.php:46
-msgid "Meherpur"
+msgid "Magura"
 msgstr ""
 
 #: i18n/states/BD.php:47
-msgid "Moulvibazar"
+msgid "Manikganj "
 msgstr ""
 
 #: i18n/states/BD.php:48
-msgid "Munshiganj"
+msgid "Meherpur"
 msgstr ""
 
 #: i18n/states/BD.php:49
-msgid "Mymensingh"
+msgid "Moulvibazar"
 msgstr ""
 
 #: i18n/states/BD.php:50
-msgid "Naogaon"
+msgid "Munshiganj"
 msgstr ""
 
 #: i18n/states/BD.php:51
-msgid "Narail"
+msgid "Mymensingh"
 msgstr ""
 
 #: i18n/states/BD.php:52
-msgid "Narayanganj"
+msgid "Naogaon"
 msgstr ""
 
 #: i18n/states/BD.php:53
-msgid "Narsingdi"
+msgid "Narail"
 msgstr ""
 
 #: i18n/states/BD.php:54
-msgid "Natore"
+msgid "Narayanganj"
 msgstr ""
 
 #: i18n/states/BD.php:55
-msgid "Nawabganj"
+msgid "Narsingdi"
 msgstr ""
 
 #: i18n/states/BD.php:56
-msgid "Netrakona"
+msgid "Natore"
 msgstr ""
 
 #: i18n/states/BD.php:57
-msgid "Nilphamari"
+msgid "Nawabganj"
 msgstr ""
 
 #: i18n/states/BD.php:58
-msgid "Noakhali"
+msgid "Netrakona"
 msgstr ""
 
 #: i18n/states/BD.php:59
-msgid "Pabna"
+msgid "Nilphamari"
 msgstr ""
 
 #: i18n/states/BD.php:60
-msgid "Panchagarh"
+msgid "Noakhali"
 msgstr ""
 
 #: i18n/states/BD.php:61
-msgid "Patuakhali"
+msgid "Pabna"
 msgstr ""
 
 #: i18n/states/BD.php:62
-msgid "Pirojpur"
+msgid "Panchagarh"
 msgstr ""
 
 #: i18n/states/BD.php:63
-msgid "Rajbari"
+msgid "Patuakhali"
 msgstr ""
 
 #: i18n/states/BD.php:64
-msgid "Rajshahi"
+msgid "Pirojpur"
 msgstr ""
 
 #: i18n/states/BD.php:65
-msgid "Rangamati"
+msgid "Rajbari"
 msgstr ""
 
 #: i18n/states/BD.php:66
-msgid "Rangpur"
+msgid "Rajshahi"
 msgstr ""
 
 #: i18n/states/BD.php:67
-msgid "Satkhira"
+msgid "Rangamati"
 msgstr ""
 
 #: i18n/states/BD.php:68
-msgid "Shariatpur"
+msgid "Rangpur"
 msgstr ""
 
 #: i18n/states/BD.php:69
-msgid "Sherpur"
+msgid "Satkhira"
 msgstr ""
 
 #: i18n/states/BD.php:70
-msgid "Sirajganj"
+msgid "Shariatpur"
 msgstr ""
 
 #: i18n/states/BD.php:71
-msgid "Sunamganj"
+msgid "Sherpur"
 msgstr ""
 
 #: i18n/states/BD.php:72
-msgid "Sylhet"
+msgid "Sirajganj"
 msgstr ""
 
 #: i18n/states/BD.php:73
-msgid "Tangail"
+msgid "Sunamganj"
 msgstr ""
 
 #: i18n/states/BD.php:74
+msgid "Sylhet"
+msgstr ""
+
+#: i18n/states/BD.php:75
+msgid "Tangail"
+msgstr ""
+
+#: i18n/states/BD.php:76
 msgid "Thakurgaon"
 msgstr ""
 
@@ -1340,7 +2277,7 @@ msgid "Tripura"
 msgstr ""
 
 #: i18n/states/IN.php:38
-msgid "Uttaranchal"
+msgid "Uttarakhand"
 msgstr ""
 
 #: i18n/states/IN.php:39
@@ -2892,10 +3829,6 @@ msgstr ""
 msgid "Florida"
 msgstr ""
 
-#: i18n/states/US.php:23 includes/class-wc-countries.php:118
-msgid "Georgia"
-msgstr "Gruzija"
-
 #: i18n/states/US.php:24
 msgid "Hawaii"
 msgstr ""
@@ -3152,12 +4085,12 @@ msgstr "grąžintas"
 msgid "cancelled"
 msgstr "atšauktas"
 
-#: includes/abstracts/abstract-wc-email.php:570
-#: includes/emails/class-wc-email-customer-completed-order.php:140
-#: includes/emails/class-wc-email-new-order.php:120
+#: includes/abstracts/abstract-wc-email.php:573
+#: includes/emails/class-wc-email-customer-completed-order.php:141
+#: includes/emails/class-wc-email-new-order.php:121
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:66
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:52
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:129
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:122
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:126
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:75
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:64
@@ -3165,309 +4098,333 @@ msgstr "atšauktas"
 msgid "Enable/Disable"
 msgstr "Įgalinti/Išjungti"
 
-#: includes/abstracts/abstract-wc-email.php:572
-#: includes/emails/class-wc-email-customer-completed-order.php:142
-#: includes/emails/class-wc-email-new-order.php:122
+#: includes/abstracts/abstract-wc-email.php:575
+#: includes/emails/class-wc-email-customer-completed-order.php:143
+#: includes/emails/class-wc-email-new-order.php:123
 msgid "Enable this email notification"
 msgstr "Įgalinti šį pranešimą el. paštu"
 
-#: includes/abstracts/abstract-wc-email.php:576
-#: includes/emails/class-wc-email-customer-invoice.php:146
+#: includes/abstracts/abstract-wc-email.php:579
+#: includes/emails/class-wc-email-customer-invoice.php:147
 msgid "Email subject"
 msgstr "El. laiško tema"
 
-#: includes/abstracts/abstract-wc-email.php:578
-#: includes/abstracts/abstract-wc-email.php:585
-#: includes/emails/class-wc-email-customer-completed-order.php:148
-#: includes/emails/class-wc-email-customer-completed-order.php:155
-#: includes/emails/class-wc-email-customer-completed-order.php:162
-#: includes/emails/class-wc-email-customer-completed-order.php:169
-#: includes/emails/class-wc-email-customer-invoice.php:148
-#: includes/emails/class-wc-email-customer-invoice.php:155
-#: includes/emails/class-wc-email-customer-invoice.php:162
-#: includes/emails/class-wc-email-customer-invoice.php:169
+#: includes/abstracts/abstract-wc-email.php:581
+#: includes/abstracts/abstract-wc-email.php:588
+#: includes/emails/class-wc-email-customer-completed-order.php:149
+#: includes/emails/class-wc-email-customer-completed-order.php:156
+#: includes/emails/class-wc-email-customer-completed-order.php:163
+#: includes/emails/class-wc-email-customer-completed-order.php:170
+#: includes/emails/class-wc-email-customer-invoice.php:149
+#: includes/emails/class-wc-email-customer-invoice.php:156
+#: includes/emails/class-wc-email-customer-invoice.php:163
+#: includes/emails/class-wc-email-customer-invoice.php:170
 msgid "Defaults to <code>%s</code>"
 msgstr "Atkuria į <code>%s</code>"
 
-#: includes/abstracts/abstract-wc-email.php:583
-#: includes/emails/class-wc-email-customer-invoice.php:153
+#: includes/abstracts/abstract-wc-email.php:586
+#: includes/emails/class-wc-email-customer-invoice.php:154
 msgid "Email heading"
 msgstr "El. laiško antraštė"
 
-#: includes/abstracts/abstract-wc-email.php:590
-#: includes/emails/class-wc-email-customer-completed-order.php:174
-#: includes/emails/class-wc-email-customer-invoice.php:174
-#: includes/emails/class-wc-email-new-order.php:147
+#: includes/abstracts/abstract-wc-email.php:593
+#: includes/emails/class-wc-email-customer-completed-order.php:175
+#: includes/emails/class-wc-email-customer-invoice.php:175
+#: includes/emails/class-wc-email-new-order.php:148
 msgid "Email type"
 msgstr "El. laiško tipas"
 
-#: includes/abstracts/abstract-wc-email.php:592
-#: includes/emails/class-wc-email-customer-completed-order.php:176
-#: includes/emails/class-wc-email-customer-invoice.php:176
-#: includes/emails/class-wc-email-new-order.php:149
+#: includes/abstracts/abstract-wc-email.php:595
+#: includes/emails/class-wc-email-customer-completed-order.php:177
+#: includes/emails/class-wc-email-customer-invoice.php:177
+#: includes/emails/class-wc-email-new-order.php:150
 msgid "Choose which format of email to send."
 msgstr "Pasirinkite, kurį el. laiško formatą siųsti."
 
-#: includes/abstracts/abstract-wc-email.php:596
-#: includes/emails/class-wc-email-customer-completed-order.php:180
-#: includes/emails/class-wc-email-customer-invoice.php:180
-#: includes/emails/class-wc-email-new-order.php:153
-msgid "Plain text"
-msgstr "Paprastasis tekstas"
-
-#: includes/abstracts/abstract-wc-email.php:597
+#: includes/abstracts/abstract-wc-email.php:599
 #: includes/emails/class-wc-email-customer-completed-order.php:181
 #: includes/emails/class-wc-email-customer-invoice.php:181
 #: includes/emails/class-wc-email-new-order.php:154
-msgid "HTML"
-msgstr "HTML"
+msgid "Plain text"
+msgstr "Paprastasis tekstas"
 
-#: includes/abstracts/abstract-wc-email.php:598
+#: includes/abstracts/abstract-wc-email.php:600
 #: includes/emails/class-wc-email-customer-completed-order.php:182
 #: includes/emails/class-wc-email-customer-invoice.php:182
 #: includes/emails/class-wc-email-new-order.php:155
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/abstracts/abstract-wc-email.php:601
+#: includes/emails/class-wc-email-customer-completed-order.php:183
+#: includes/emails/class-wc-email-customer-invoice.php:183
+#: includes/emails/class-wc-email-new-order.php:156
 msgid "Multipart"
 msgstr "Įvairiapusis"
 
-#: includes/abstracts/abstract-wc-email.php:634
-#: includes/abstracts/abstract-wc-email.php:655
+#: includes/abstracts/abstract-wc-email.php:637
+#: includes/abstracts/abstract-wc-email.php:658
 msgid "Could not write to template file."
 msgstr "Nepavyko įrašyti į šablono failą."
 
-#: includes/abstracts/abstract-wc-email.php:686
+#: includes/abstracts/abstract-wc-email.php:689
 msgid "Template file copied to theme."
 msgstr "Šablono failas nukopijuotas į temą."
 
-#: includes/abstracts/abstract-wc-email.php:695
+#: includes/abstracts/abstract-wc-email.php:698
 msgid "Template file deleted from theme."
 msgstr "Šablono failas ištrintas iš temos."
 
-#: includes/abstracts/abstract-wc-email.php:703
+#: includes/abstracts/abstract-wc-email.php:706
 #: includes/abstracts/abstract-wc-integration.php:30
 #: includes/abstracts/abstract-wc-settings-api.php:39 woocommerce.php:181
 msgid "Settings"
 msgstr "Nustatymai"
 
-#: includes/abstracts/abstract-wc-email.php:715
+#: includes/abstracts/abstract-wc-email.php:718
 msgid "HTML template"
 msgstr "HTML šablonas"
 
-#: includes/abstracts/abstract-wc-email.php:716
+#: includes/abstracts/abstract-wc-email.php:719
 msgid "Plain text template"
 msgstr "Paprastojo teksto šablonas"
 
-#: includes/abstracts/abstract-wc-email.php:737
+#: includes/abstracts/abstract-wc-email.php:740
 msgid "Delete template file"
 msgstr "Ištrinti šablono failą"
 
-#: includes/abstracts/abstract-wc-email.php:740
+#: includes/abstracts/abstract-wc-email.php:743
 msgid ""
 "This template has been overridden by your theme and can be found in: "
 "<code>%s</code>."
 msgstr "Šį šabloną valdo jūsų tema, jis gali būti rastas : <code>%s</code>."
 
-#: includes/abstracts/abstract-wc-email.php:755
+#: includes/abstracts/abstract-wc-email.php:758
 msgid "Copy file to theme"
 msgstr "Kopijuoti failą į temą"
 
-#: includes/abstracts/abstract-wc-email.php:758
+#: includes/abstracts/abstract-wc-email.php:761
 msgid ""
 "To override and edit this email template copy <code>%s</code> to your theme "
 "folder: <code>%s</code>."
 msgstr "Norėdami redaguoti ir perduoti valdyti temai šį el. laiško šabloną, nukopijuokite <code>%s</code> į temos aplanką: <code>%s</code>."
 
-#: includes/abstracts/abstract-wc-email.php:769
+#: includes/abstracts/abstract-wc-email.php:772
 msgid "File was not found."
 msgstr "Failas nerastas."
 
-#: includes/abstracts/abstract-wc-email.php:794
+#: includes/abstracts/abstract-wc-email.php:797
 msgid "View template"
 msgstr "Peržiūrėti šabloną"
 
-#: includes/abstracts/abstract-wc-email.php:795
+#: includes/abstracts/abstract-wc-email.php:798
 msgid "Hide template"
 msgstr "Paslėpti šabloną"
 
-#: includes/abstracts/abstract-wc-email.php:806
+#: includes/abstracts/abstract-wc-email.php:809
 msgid "Are you sure you want to delete this template file?"
 msgstr "Ar tikrai norite ištrinti šį šablono failą?"
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:207
+#: includes/abstracts/abstract-wc-payment-gateway.php:238
 msgid "Card Number"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:211
+#: includes/abstracts/abstract-wc-payment-gateway.php:242
 msgid "Expiry (MM/YY)"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:212
+#: includes/abstracts/abstract-wc-payment-gateway.php:243
 msgid "MM / YY"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:215
+#: includes/abstracts/abstract-wc-payment-gateway.php:246
 msgid "Card Code"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:216
+#: includes/abstracts/abstract-wc-payment-gateway.php:247
 msgid "CVC"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-product.php:455
+#: includes/abstracts/abstract-wc-product.php:475
 #: includes/class-wc-product-simple.php:48
-#: includes/class-wc-product-variation.php:211
+#: includes/class-wc-product-variation.php:215
 msgid "Add to cart"
 msgstr "Į krepšelį"
 
-#: includes/abstracts/abstract-wc-product.php:465
+#: includes/abstracts/abstract-wc-product.php:485
 msgid "Read more"
 msgstr ""
 
-#: includes/abstracts/abstract-wc-product.php:573
-#: includes/abstracts/abstract-wc-product.php:578
+#: includes/abstracts/abstract-wc-product.php:593
 #: includes/abstracts/abstract-wc-product.php:598
+#: includes/abstracts/abstract-wc-product.php:618
 msgid "In stock"
 msgstr "Turime"
 
-#: includes/abstracts/abstract-wc-product.php:578
+#: includes/abstracts/abstract-wc-product.php:598
 msgid "Only %s left in stock"
 msgstr "Liko tik %s"
 
-#: includes/abstracts/abstract-wc-product.php:581
+#: includes/abstracts/abstract-wc-product.php:601
 msgid "%s in stock"
 msgstr "Liko %s"
 
-#: includes/abstracts/abstract-wc-product.php:588
+#: includes/abstracts/abstract-wc-product.php:608
 msgid "(backorders allowed)"
 msgstr "(galimi išankstiniai užsakymai)"
 
-#: includes/abstracts/abstract-wc-product.php:595
-#: includes/abstracts/abstract-wc-product.php:608 templates/cart/cart.php:74
+#: includes/abstracts/abstract-wc-product.php:615
+#: includes/abstracts/abstract-wc-product.php:628 templates/cart/cart.php:74
 msgid "Available on backorder"
 msgstr "Išankstinis užsakymas"
 
-#: includes/abstracts/abstract-wc-product.php:601
-#: includes/abstracts/abstract-wc-product.php:611
-#: includes/abstracts/abstract-wc-product.php:615
+#: includes/abstracts/abstract-wc-product.php:621
+#: includes/abstracts/abstract-wc-product.php:631
+#: includes/abstracts/abstract-wc-product.php:635
 msgid "Out of stock"
 msgstr "Neturime"
 
-#: includes/abstracts/abstract-wc-product.php:908
-#: includes/abstracts/abstract-wc-product.php:914
-#: includes/class-wc-cart.php:1419 includes/class-wc-order.php:859
-#: includes/class-wc-product-variation.php:312
+#: includes/abstracts/abstract-wc-product.php:928
+#: includes/abstracts/abstract-wc-product.php:934
+#: includes/class-wc-cart.php:1450 includes/class-wc-order.php:882
+#: includes/class-wc-product-variation.php:316
 msgid "Free!"
 msgstr "Nemokamai!"
 
-#: includes/abstracts/abstract-wc-product.php:930
+#: includes/abstracts/abstract-wc-product.php:950
 msgctxt "min_price"
 msgid "From:"
 msgstr "Nuo:"
 
-#: includes/abstracts/abstract-wc-product.php:1040
+#: includes/abstracts/abstract-wc-product.php:1060
 #: templates/single-product/rating.php:23
 msgid "Rated %s out of 5"
 msgstr "Įvertinimas: %s iš 5"
 
-#: includes/abstracts/abstract-wc-product.php:1042
+#: includes/abstracts/abstract-wc-product.php:1062
 #: templates/single-product/rating.php:25
 #: templates/single-product/review.php:27
 msgid "out of 5"
 msgstr "iš 5"
 
-#: includes/abstracts/abstract-wc-product.php:1386
+#: includes/abstracts/abstract-wc-product.php:1421
 msgid "%s &ndash; %s"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:69
+#: includes/api/class-wc-api-authentication.php:85
 msgid "Consumer Key is missing"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:72
+#: includes/api/class-wc-api-authentication.php:101
 msgid "Consumer Secret is missing"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:80
+#: includes/api/class-wc-api-authentication.php:107
 msgid "Consumer Secret is invalid"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:112
+#: includes/api/class-wc-api-authentication.php:140
 msgid "%s parameter is missing"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:151
+#: includes/api/class-wc-api-authentication.php:174
 msgid "Consumer Key is invalid"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:201
+#: includes/api/class-wc-api-authentication.php:224
 msgid "Invalid Signature - failed to sort parameters"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:214
+#: includes/api/class-wc-api-authentication.php:238
 msgid "Invalid Signature - signature method is invalid"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:221
+#: includes/api/class-wc-api-authentication.php:246
 msgid "Invalid Signature - provided signature does not match"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:256
+#: includes/api/class-wc-api-authentication.php:303
 msgid "Invalid timestamp"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:264
+#: includes/api/class-wc-api-authentication.php:311
 msgid "Invalid nonce - nonce has already been used"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:293
+#: includes/api/class-wc-api-authentication.php:340
 msgid "The API key provided does not have read permissions"
 msgstr ""
 
-#: includes/api/class-wc-api-authentication.php:302
+#: includes/api/class-wc-api-authentication.php:349
 msgid "The API key provided does not have write permissions"
 msgstr ""
 
-#: includes/api/class-wc-api-coupons.php:107
+#: includes/api/class-wc-api-coupons.php:112
 msgid "Invalid coupon ID"
 msgstr ""
 
-#: includes/api/class-wc-api-coupons.php:152
+#: includes/api/class-wc-api-coupons.php:158
 msgid "You do not have permission to read the coupons count"
 msgstr ""
 
-#: includes/api/class-wc-api-coupons.php:171
+#: includes/api/class-wc-api-coupons.php:178
 msgid "Invalid coupon code"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:198
-#: includes/api/class-wc-api-customers.php:201
+#: includes/api/class-wc-api-coupons.php:196
+msgid "You do not have permission to create coupons"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:201
+#: includes/api/class-wc-api-customers.php:337
+#: includes/api/class-wc-api-server.php:423
+msgid "Missing parameter %s"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:216
+#: includes/api/class-wc-api-coupons.php:318
+msgid "The coupon code already exists"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:243
+#: includes/api/class-wc-api-coupons.php:330
+msgid "Invalid coupon type - the coupon type must be any of these: %s"
+msgstr ""
+
+#: includes/api/class-wc-api-coupons.php:323
+msgid "Failed to update coupon"
+msgstr ""
+
+#: includes/api/class-wc-api-customers.php:254
+#: includes/api/class-wc-api-customers.php:257
 msgid "Invalid customer Email"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:219
+#: includes/api/class-wc-api-customers.php:275
 msgid "You do not have permission to read the customers count"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:235
+#: includes/api/class-wc-api-customers.php:332
 msgid "You do not have permission to create this customer"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:482
+#: includes/api/class-wc-api-customers.php:665
 msgid "Invalid customer ID"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:488
+#: includes/api/class-wc-api-customers.php:672
 msgid "Invalid customer"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:495
+#: includes/api/class-wc-api-customers.php:680
 msgid "You do not have permission to read this customer"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:500
+#: includes/api/class-wc-api-customers.php:686
 msgid "You do not have permission to edit this customer"
 msgstr ""
 
-#: includes/api/class-wc-api-customers.php:505
+#: includes/api/class-wc-api-customers.php:692
 msgid "You do not have permission to delete this customer"
 msgstr ""
 
@@ -3479,7 +4436,7 @@ msgstr ""
 msgid "The JSONP callback function is invalid"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:255
+#: includes/api/class-wc-api-orders.php:256
 msgid "You do not have permission to read the orders count"
 msgstr ""
 
@@ -3487,8 +4444,8 @@ msgstr ""
 msgid "You do not have permission to read the products count"
 msgstr ""
 
+#: includes/api/class-wc-api-products.php:458
 #: includes/api/class-wc-api-products.php:459
-#: includes/api/class-wc-api-products.php:460
 msgid "Placeholder"
 msgstr ""
 
@@ -3516,23 +4473,23 @@ msgstr ""
 msgid "You do not have permission to delete this %s"
 msgstr ""
 
-#: includes/api/class-wc-api-resource.php:302
+#: includes/api/class-wc-api-resource.php:314
 msgid "Permanently deleted customer"
 msgstr ""
 
-#: includes/api/class-wc-api-resource.php:304
+#: includes/api/class-wc-api-resource.php:316
 msgid "The customer cannot be deleted"
 msgstr ""
 
-#: includes/api/class-wc-api-resource.php:313
+#: includes/api/class-wc-api-resource.php:325
 msgid "This %s cannot be deleted"
 msgstr ""
 
-#: includes/api/class-wc-api-resource.php:316
+#: includes/api/class-wc-api-resource.php:328
 msgid "Permanently deleted %s"
 msgstr ""
 
-#: includes/api/class-wc-api-resource.php:322
+#: includes/api/class-wc-api-resource.php:334
 msgid "Deleted %s"
 msgstr ""
 
@@ -3552,80 +4509,7 @@ msgstr ""
 msgid "No route was found matching the URL and request method"
 msgstr ""
 
-#: includes/api/class-wc-api-server.php:404
-msgid "Missing parameter %s"
-msgstr ""
-
-#: includes/class-wc-ajax.php:158
-msgid "Sorry, your session has expired."
-msgstr "Atsiprašome, jūsų sesija baigėsi."
-
-#: includes/class-wc-ajax.php:158
-msgid "Return to homepage"
-msgstr ""
-
-#: includes/class-wc-ajax.php:291 includes/class-wc-ajax.php:320
-#: includes/class-wc-ajax.php:337
-msgid "You do not have sufficient permissions to access this page."
-msgstr "Jūs neturite teisės pasiekti šį puslapį."
-
-#: includes/class-wc-ajax.php:294 includes/class-wc-ajax.php:321
-#: includes/class-wc-ajax.php:338
-msgid "You have taken too long. Please go back and retry."
-msgstr "Užtrukote per ilgai. Grįžkite atgal ir bandykite vėl."
-
-#: includes/class-wc-ajax.php:551
-msgid "Same as parent"
-msgstr "Kaip ir tėvinis"
-
-#: includes/class-wc-ajax.php:552
-msgid "Standard"
-msgstr "Standartinis"
-
-#: includes/class-wc-ajax.php:810
-msgid "File %d"
-msgstr "Failas %d"
-
-#: includes/class-wc-ajax.php:1008 includes/class-wc-ajax.php:1009
-#: includes/class-wc-order.php:1571
-msgid "Item #%s stock reduced from %s to %s."
-msgstr "Produkto #%s kiekis sumažėjo nuo %s iki %s."
-
-#: includes/class-wc-ajax.php:1017
-msgid ""
-"No products had their stock reduced - they may not have stock management "
-"enabled."
-msgstr "Jokių produktų kiekis nesumažėjo - jiems tikriausiai neįjungta kiekio valdymo galimybė,"
-
-#: includes/class-wc-ajax.php:1056 includes/class-wc-ajax.php:1057
-msgid "Item #%s stock increased from %s to %s."
-msgstr "Produkto #%s kiekis padidėjo nuo %s iki %s."
-
-#: includes/class-wc-ajax.php:1064
-msgid ""
-"No products had their stock increased - they may not have stock management "
-"enabled."
-msgstr "Jokių produktų kiekis nepadidėjo - jiems tikriausiai neįjungta kiekio valdymo galimybė,"
-
-#: includes/class-wc-ajax.php:1080
-#: includes/widgets/class-wc-widget-product-categories.php:39
-#: templates/single-product-reviews.php:62
-msgid "Name"
-msgstr "Pavadinimas"
-
-#: includes/class-wc-ajax.php:1080
-msgid "Value"
-msgstr "Vertė"
-
-#: includes/class-wc-ajax.php:1298
-msgid "Delete note"
-msgstr "Ištrinti pastabą"
-
-#: includes/class-wc-ajax.php:1443
-msgid "Guest"
-msgstr "Svečias"
-
-#: includes/class-wc-cache-helper.php:105
+#: includes/class-wc-cache-helper.php:106
 msgid ""
 "In order for <strong>database caching</strong> to work with WooCommerce you "
 "must add <code>_wc_session_</code> to the \"Ignored Query Strings\" option "
@@ -3638,58 +4522,58 @@ msgid ""
 "Please contact us if you need assistance."
 msgstr ""
 
-#: includes/class-wc-cart.php:363
+#: includes/class-wc-cart.php:370
 msgid "An item which is no longer available was removed from your cart."
 msgstr ""
 
-#: includes/class-wc-cart.php:397 includes/class-wc-cart.php:416
-#: includes/class-wc-cart.php:425
+#: includes/class-wc-cart.php:404 includes/class-wc-cart.php:423
+#: includes/class-wc-cart.php:432
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
 "stock). Please edit your cart and try again. We apologise for any "
 "inconvenience caused."
 msgstr "Atsiprašome, šiuo metu neturime pakankamai produkto „%s“, kad galėtume įvykdyti jūsų užsakymą (turime %s). Pakoreguokite savo krepšelį ir bandykite vėl. Atsiprašome už nepatogumus."
 
-#: includes/class-wc-cart.php:460
+#: includes/class-wc-cart.php:467
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order right "
 "now. Please try again in %d minutes or edit your cart and try again. We "
 "apologise for any inconvenience caused."
 msgstr ""
 
-#: includes/class-wc-cart.php:470
+#: includes/class-wc-cart.php:477
 msgid ""
 "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
 "apologise for any inconvenience caused."
 msgstr "Atsiprašome, šiuo metu neturime produkto „%s“. Pakoreguokite krepšelį ir bandykite iš naujo. Atsiprašome už nepatogumus."
 
-#: includes/class-wc-cart.php:798
-msgid "Sorry, &quot;%s&quot; cannot be purchased."
-msgstr "Atsiprašome, produktas „%s“ negali būti perkamas."
+#: includes/class-wc-cart.php:809
+msgid "Sorry, this product cannot be purchased."
+msgstr ""
 
-#: includes/class-wc-cart.php:805
+#: includes/class-wc-cart.php:816
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of "
 "stock."
 msgstr "Jūs negalite įdėti produkto „%s“ į krepšelį, nes šio produkto šiuo metu nėra."
 
-#: includes/class-wc-cart.php:810
+#: includes/class-wc-cart.php:821
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is "
 "not enough stock (%s remaining)."
 msgstr "Jūs negalite įdėti tokio produkto „%s“ kiekio į krepšelį, nes jo tiek nėra (liko %s)."
 
-#: includes/class-wc-cart.php:824 includes/class-wc-cart.php:843
-#: includes/class-wc-cart.php:856 includes/class-wc-frontend-scripts.php:157
-#: includes/wc-cart-functions.php:98 templates/cart/mini-cart.php:64
+#: includes/class-wc-cart.php:835 includes/class-wc-cart.php:854
+#: includes/class-wc-cart.php:867 includes/class-wc-frontend-scripts.php:188
+#: includes/wc-cart-functions.php:96 templates/cart/mini-cart.php:64
 msgid "View Cart"
 msgstr ""
 
-#: includes/class-wc-cart.php:825
+#: includes/class-wc-cart.php:836
 msgid "You cannot add another &quot;%s&quot; to your cart."
 msgstr ""
 
-#: includes/class-wc-cart.php:844 includes/class-wc-cart.php:857
+#: includes/class-wc-cart.php:855 includes/class-wc-cart.php:868
 msgid ""
 "You cannot add that amount to the cart &mdash; we have %s in stock and you "
 "already have %s in your cart."
@@ -3749,1279 +4633,208 @@ msgid ""
 " to homepage</a>"
 msgstr ""
 
-#: includes/class-wc-checkout.php:498 includes/class-wc-form-handler.php:88
+#: includes/class-wc-checkout.php:500 includes/class-wc-form-handler.php:84
 msgid "is a required field."
 msgstr "yra būtinas laukelis."
 
-#: includes/class-wc-checkout.php:510 includes/class-wc-form-handler.php:99
+#: includes/class-wc-checkout.php:512 includes/class-wc-form-handler.php:95
 #: includes/shortcodes/class-wc-shortcode-cart.php:43
 msgid "Please enter a valid postcode/ZIP."
 msgstr "Įveskite tinkamą pašto kodą."
 
-#: includes/class-wc-checkout.php:519 includes/class-wc-form-handler.php:108
+#: includes/class-wc-checkout.php:521 includes/class-wc-form-handler.php:104
 msgid "is not a valid phone number."
 msgstr ""
 
-#: includes/class-wc-checkout.php:525 includes/class-wc-form-handler.php:115
+#: includes/class-wc-checkout.php:527 includes/class-wc-form-handler.php:111
 msgid "is not a valid email address."
 msgstr "yra netinkamas el. pašto adresas."
 
-#: includes/class-wc-checkout.php:540
+#: includes/class-wc-checkout.php:542
 msgid "is not valid. Please enter one of the following:"
 msgstr "netinka. Įveskite vieną iš šių:"
 
-#: includes/class-wc-checkout.php:585
+#: includes/class-wc-checkout.php:587
 msgid "You must accept our Terms &amp; Conditions."
 msgstr "Turite sutikti su mūsų sąlygomis ir taisyklėmis."
 
-#: includes/class-wc-checkout.php:590
+#: includes/class-wc-checkout.php:592
 msgid ""
 "Unfortunately <strong>we do not ship to %s</strong>. Please enter an "
 "alternative shipping address."
 msgstr ""
 
-#: includes/class-wc-checkout.php:598
+#: includes/class-wc-checkout.php:600
 msgid "Invalid shipping method."
 msgstr "Netinkamas pristatymo metodas."
 
-#: includes/class-wc-checkout.php:611
+#: includes/class-wc-checkout.php:613
 msgid "Invalid payment method."
 msgstr "Netinkamas mokėjimo metodas."
 
-#: includes/class-wc-comments.php:110
-msgid "You have taken too long. Please go back and refresh the page."
-msgstr "Užtrukote per ilgai. Grįžkite atgal ir perkraukite puslapį."
-
-#: includes/class-wc-comments.php:113
+#: includes/class-wc-comments.php:111
 msgid "Please rate the product."
 msgstr "Įvertinkite produktą."
 
-#: includes/class-wc-countries.php:37
-msgid "Afghanistan"
-msgstr "Afganistanas"
-
-#: includes/class-wc-countries.php:38
-msgid "&#197;land Islands"
-msgstr "Alandai"
-
-#: includes/class-wc-countries.php:39
-msgid "Albania"
-msgstr "Albanija"
-
-#: includes/class-wc-countries.php:40
-msgid "Algeria"
-msgstr "Alžyras"
-
-#: includes/class-wc-countries.php:41
-msgid "Andorra"
-msgstr "Andora"
-
-#: includes/class-wc-countries.php:42
-msgid "Angola"
-msgstr "Angola"
-
-#: includes/class-wc-countries.php:43
-msgid "Anguilla"
-msgstr "Angilija"
-
-#: includes/class-wc-countries.php:44
-msgid "Antarctica"
-msgstr "Antarktida"
-
-#: includes/class-wc-countries.php:45
-msgid "Antigua and Barbuda"
-msgstr "Antigva ir Barbuda"
-
-#: includes/class-wc-countries.php:46
-msgid "Argentina"
-msgstr "Argentina"
-
-#: includes/class-wc-countries.php:47
-msgid "Armenia"
-msgstr "Armėnija"
-
-#: includes/class-wc-countries.php:48
-msgid "Aruba"
-msgstr "Aruba"
-
-#: includes/class-wc-countries.php:49
-msgid "Australia"
-msgstr "Australija"
-
-#: includes/class-wc-countries.php:50
-msgid "Austria"
-msgstr "Austrija"
-
-#: includes/class-wc-countries.php:51
-msgid "Azerbaijan"
-msgstr "Azerbaidžanas"
-
-#: includes/class-wc-countries.php:52
-msgid "Bahamas"
-msgstr "Bahamai"
-
-#: includes/class-wc-countries.php:53
-msgid "Bahrain"
-msgstr "Bahreinas"
-
-#: includes/class-wc-countries.php:54
-msgid "Bangladesh"
-msgstr "Bangladešas"
-
-#: includes/class-wc-countries.php:55
-msgid "Barbados"
-msgstr "Barbadosas"
-
-#: includes/class-wc-countries.php:56
-msgid "Belarus"
-msgstr "Baltarusija"
-
-#: includes/class-wc-countries.php:57
-msgid "Belgium"
-msgstr "Belgija"
-
-#: includes/class-wc-countries.php:58
-msgid "Belau"
-msgstr "Belau"
-
-#: includes/class-wc-countries.php:59
-msgid "Belize"
-msgstr "Belizas"
-
-#: includes/class-wc-countries.php:60
-msgid "Benin"
-msgstr "Beninas"
-
-#: includes/class-wc-countries.php:61
-msgid "Bermuda"
-msgstr "Bermudai"
-
-#: includes/class-wc-countries.php:62
-msgid "Bhutan"
-msgstr "Butanas"
-
-#: includes/class-wc-countries.php:63
-msgid "Bolivia"
-msgstr "Bolivija"
-
-#: includes/class-wc-countries.php:64
-msgid "Bonaire, Saint Eustatius and Saba"
-msgstr "BES salos (Karibų Nyderlandai)"
-
-#: includes/class-wc-countries.php:65
-msgid "Bosnia and Herzegovina"
-msgstr "Bosnija ir Hercegovina"
-
-#: includes/class-wc-countries.php:66
-msgid "Botswana"
-msgstr "Botsvana"
-
-#: includes/class-wc-countries.php:67
-msgid "Bouvet Island"
-msgstr "Buvė sala"
-
-#: includes/class-wc-countries.php:68
-msgid "Brazil"
-msgstr "Brazilija"
-
-#: includes/class-wc-countries.php:69
-msgid "British Indian Ocean Territory"
-msgstr "Indijos Vandenyno Britų Sritis"
-
-#: includes/class-wc-countries.php:70
-msgid "British Virgin Islands"
-msgstr "Mergelių salos"
-
-#: includes/class-wc-countries.php:71
-msgid "Brunei"
-msgstr "Brunėjus"
-
-#: includes/class-wc-countries.php:72
-msgid "Bulgaria"
-msgstr "Bulgarija"
-
-#: includes/class-wc-countries.php:73
-msgid "Burkina Faso"
-msgstr "Burkina Fasas"
-
-#: includes/class-wc-countries.php:74
-msgid "Burundi"
-msgstr "Burundis"
-
-#: includes/class-wc-countries.php:75
-msgid "Cambodia"
-msgstr "Kambodža"
-
-#: includes/class-wc-countries.php:76
-msgid "Cameroon"
-msgstr "Kamerūnas"
-
-#: includes/class-wc-countries.php:77
-msgid "Canada"
-msgstr "Kanada"
-
-#: includes/class-wc-countries.php:78
-msgid "Cape Verde"
-msgstr "Žaliasis Kyšulys"
-
-#: includes/class-wc-countries.php:79
-msgid "Cayman Islands"
-msgstr "Kaimanų salos"
-
-#: includes/class-wc-countries.php:80
-msgid "Central African Republic"
-msgstr "Centrinė Afrikos Respublika"
-
-#: includes/class-wc-countries.php:81
-msgid "Chad"
-msgstr "Čadas"
-
-#: includes/class-wc-countries.php:82
-msgid "Chile"
-msgstr "Čilė"
-
-#: includes/class-wc-countries.php:83
-msgid "China"
-msgstr "Kinija"
-
-#: includes/class-wc-countries.php:84
-msgid "Christmas Island"
-msgstr "Kalėdų sala"
-
-#: includes/class-wc-countries.php:85
-msgid "Cocos (Keeling) Islands"
-msgstr "Kokosų sala"
-
-#: includes/class-wc-countries.php:86
-msgid "Colombia"
-msgstr "Kolumbija"
-
-#: includes/class-wc-countries.php:87
-msgid "Comoros"
-msgstr "Komorai"
-
-#: includes/class-wc-countries.php:88
-msgid "Congo (Brazzaville)"
-msgstr "Kongas (Brazivilis)"
-
-#: includes/class-wc-countries.php:89
-msgid "Congo (Kinshasa)"
-msgstr "Kongas (Kinšasa)"
-
-#: includes/class-wc-countries.php:90
-msgid "Cook Islands"
-msgstr "Kuko salos"
-
-#: includes/class-wc-countries.php:91
-msgid "Costa Rica"
-msgstr "Kosta Rika"
-
-#: includes/class-wc-countries.php:92
-msgid "Croatia"
-msgstr "Kroatija"
-
-#: includes/class-wc-countries.php:93
-msgid "Cuba"
-msgstr "Kuba"
-
-#: includes/class-wc-countries.php:94
-msgid "Cura&Ccedil;ao"
-msgstr "Kiurasao"
-
-#: includes/class-wc-countries.php:95
-msgid "Cyprus"
-msgstr "Kipras"
-
-#: includes/class-wc-countries.php:96
-msgid "Czech Republic"
-msgstr "Čekija"
-
-#: includes/class-wc-countries.php:97
-msgid "Denmark"
-msgstr "Danija"
-
-#: includes/class-wc-countries.php:98
-msgid "Djibouti"
-msgstr "Džibutis"
-
-#: includes/class-wc-countries.php:99
-msgid "Dominica"
-msgstr "Dominika"
-
-#: includes/class-wc-countries.php:100
-msgid "Dominican Republic"
-msgstr "Dominikos Respublika"
-
-#: includes/class-wc-countries.php:101
-msgid "Ecuador"
-msgstr "Ekvadoras"
-
-#: includes/class-wc-countries.php:102
-msgid "Egypt"
-msgstr "Egiptas"
-
-#: includes/class-wc-countries.php:103
-msgid "El Salvador"
-msgstr "Salvadoras"
-
-#: includes/class-wc-countries.php:104
-msgid "Equatorial Guinea"
-msgstr "Pusiaujo Gvinėja"
-
-#: includes/class-wc-countries.php:105
-msgid "Eritrea"
-msgstr "Eritrėja"
-
-#: includes/class-wc-countries.php:106
-msgid "Estonia"
-msgstr "Estija"
-
-#: includes/class-wc-countries.php:107
-msgid "Ethiopia"
-msgstr "Etiopija"
-
-#: includes/class-wc-countries.php:108
-msgid "Falkland Islands"
-msgstr "Folklando salos"
-
-#: includes/class-wc-countries.php:109
-msgid "Faroe Islands"
-msgstr "Farerų salos"
-
-#: includes/class-wc-countries.php:110
-msgid "Fiji"
-msgstr "Fidžis"
-
-#: includes/class-wc-countries.php:111
-msgid "Finland"
-msgstr "Suomija"
-
-#: includes/class-wc-countries.php:112
-msgid "France"
-msgstr "Prancūzija"
-
-#: includes/class-wc-countries.php:113
-msgid "French Guiana"
-msgstr "Prancūzijos Gviana"
-
-#: includes/class-wc-countries.php:114
-msgid "French Polynesia"
-msgstr "Prancūzijos Polinezija"
-
-#: includes/class-wc-countries.php:115
-msgid "French Southern Territories"
-msgstr "Prancūzijos Pietų Sritys"
-
-#: includes/class-wc-countries.php:116
-msgid "Gabon"
-msgstr "Gabonas"
-
-#: includes/class-wc-countries.php:117
-msgid "Gambia"
-msgstr "Gambija"
-
-#: includes/class-wc-countries.php:119
-msgid "Germany"
-msgstr "Vokietija"
-
-#: includes/class-wc-countries.php:120
-msgid "Ghana"
-msgstr "Gana"
-
-#: includes/class-wc-countries.php:121
-msgid "Gibraltar"
-msgstr "Gibraltaras"
-
-#: includes/class-wc-countries.php:122
-msgid "Greece"
-msgstr "Graikija"
-
-#: includes/class-wc-countries.php:123
-msgid "Greenland"
-msgstr "Grenlandija"
-
-#: includes/class-wc-countries.php:124
-msgid "Grenada"
-msgstr "Grenada"
-
-#: includes/class-wc-countries.php:125
-msgid "Guadeloupe"
-msgstr "Gvadelupa"
-
-#: includes/class-wc-countries.php:126
-msgid "Guatemala"
-msgstr "Gvatemala"
-
-#: includes/class-wc-countries.php:127
-msgid "Guernsey"
-msgstr "Gernsis"
-
-#: includes/class-wc-countries.php:128
-msgid "Guinea"
-msgstr "Gvinėja"
-
-#: includes/class-wc-countries.php:129
-msgid "Guinea-Bissau"
-msgstr "Bisau Gvinėja"
-
-#: includes/class-wc-countries.php:130
-msgid "Guyana"
-msgstr "Gajana"
-
-#: includes/class-wc-countries.php:131
-msgid "Haiti"
-msgstr "Haitis"
-
-#: includes/class-wc-countries.php:132
-msgid "Heard Island and McDonald Islands"
-msgstr "Herdas ir Makdonaldas"
-
-#: includes/class-wc-countries.php:133
-msgid "Honduras"
-msgstr "Hondūras"
-
-#: includes/class-wc-countries.php:134
-msgid "Hong Kong"
-msgstr "Honkongas"
-
-#: includes/class-wc-countries.php:135
-msgid "Hungary"
-msgstr "Verngrija"
-
-#: includes/class-wc-countries.php:136
-msgid "Iceland"
-msgstr "Islandija"
-
-#: includes/class-wc-countries.php:137
-msgid "India"
-msgstr "Indija"
-
-#: includes/class-wc-countries.php:138
-msgid "Indonesia"
-msgstr "Indonezija"
-
-#: includes/class-wc-countries.php:139
-msgid "Iran"
-msgstr "Iranas"
-
-#: includes/class-wc-countries.php:140
-msgid "Iraq"
-msgstr "Irakas"
-
-#: includes/class-wc-countries.php:141
-msgid "Republic of Ireland"
-msgstr "Airija"
-
-#: includes/class-wc-countries.php:142
-msgid "Isle of Man"
-msgstr "Meno sala"
-
-#: includes/class-wc-countries.php:143
-msgid "Israel"
-msgstr "Izraelis"
-
-#: includes/class-wc-countries.php:144
-msgid "Italy"
-msgstr "Italija"
-
-#: includes/class-wc-countries.php:145
-msgid "Ivory Coast"
-msgstr "Dramblio Kaulo Krantas"
-
-#: includes/class-wc-countries.php:146
-msgid "Jamaica"
-msgstr "Jamaika"
-
-#: includes/class-wc-countries.php:147
-msgid "Japan"
-msgstr "Japonija"
-
-#: includes/class-wc-countries.php:148
-msgid "Jersey"
-msgstr "Džersis"
-
-#: includes/class-wc-countries.php:149
-msgid "Jordan"
-msgstr "Jordanija"
-
-#: includes/class-wc-countries.php:150
-msgid "Kazakhstan"
-msgstr "Kazachstanas"
-
-#: includes/class-wc-countries.php:151
-msgid "Kenya"
-msgstr "Kenija"
-
-#: includes/class-wc-countries.php:152
-msgid "Kiribati"
-msgstr "Kiribatis"
-
-#: includes/class-wc-countries.php:153
-msgid "Kuwait"
-msgstr "Kuveitas"
-
-#: includes/class-wc-countries.php:154
-msgid "Kyrgyzstan"
-msgstr "Kirgizija"
-
-#: includes/class-wc-countries.php:155
-msgid "Laos"
-msgstr "Laosas"
-
-#: includes/class-wc-countries.php:156
-msgid "Latvia"
-msgstr "Latvija"
-
-#: includes/class-wc-countries.php:157
-msgid "Lebanon"
-msgstr "Libanas"
-
-#: includes/class-wc-countries.php:158
-msgid "Lesotho"
-msgstr "Lesotas"
-
-#: includes/class-wc-countries.php:159
-msgid "Liberia"
-msgstr "Liberija"
-
-#: includes/class-wc-countries.php:160
-msgid "Libya"
-msgstr "Libija"
-
-#: includes/class-wc-countries.php:161
-msgid "Liechtenstein"
-msgstr "Lichtenšteinas"
-
-#: includes/class-wc-countries.php:162
-msgid "Lithuania"
-msgstr "Lietuva"
-
-#: includes/class-wc-countries.php:163
-msgid "Luxembourg"
-msgstr "Liuksemburgas"
-
-#: includes/class-wc-countries.php:164
-msgid "Macao S.A.R., China"
-msgstr "Makao"
-
-#: includes/class-wc-countries.php:165
-msgid "Macedonia"
-msgstr "Makedonija"
-
-#: includes/class-wc-countries.php:166
-msgid "Madagascar"
-msgstr "Madagaskaras"
-
-#: includes/class-wc-countries.php:167
-msgid "Malawi"
-msgstr "Malavis"
-
-#: includes/class-wc-countries.php:168
-msgid "Malaysia"
-msgstr "Malaizija"
-
-#: includes/class-wc-countries.php:169
-msgid "Maldives"
-msgstr "Maldivų salos"
-
-#: includes/class-wc-countries.php:170
-msgid "Mali"
-msgstr "Malis"
-
-#: includes/class-wc-countries.php:171
-msgid "Malta"
-msgstr "Malta"
-
-#: includes/class-wc-countries.php:172
-msgid "Marshall Islands"
-msgstr "Maršalo salos"
-
-#: includes/class-wc-countries.php:173
-msgid "Martinique"
-msgstr "Martinika"
-
-#: includes/class-wc-countries.php:174
-msgid "Mauritania"
-msgstr "Mauritanija"
-
-#: includes/class-wc-countries.php:175
-msgid "Mauritius"
-msgstr "Mauricijus"
-
-#: includes/class-wc-countries.php:176
-msgid "Mayotte"
-msgstr "Majotas"
-
-#: includes/class-wc-countries.php:177
-msgid "Mexico"
-msgstr "Meksika"
-
-#: includes/class-wc-countries.php:178
-msgid "Micronesia"
-msgstr "Mikronezija"
-
-#: includes/class-wc-countries.php:179
-msgid "Moldova"
-msgstr "Moldova"
-
-#: includes/class-wc-countries.php:180
-msgid "Monaco"
-msgstr "Monakas"
-
-#: includes/class-wc-countries.php:181
-msgid "Mongolia"
-msgstr "Mongolija"
-
-#: includes/class-wc-countries.php:182
-msgid "Montenegro"
-msgstr "Juodkalnija"
-
-#: includes/class-wc-countries.php:183
-msgid "Montserrat"
-msgstr "Montseratas"
-
-#: includes/class-wc-countries.php:184
-msgid "Morocco"
-msgstr "Marokas"
-
-#: includes/class-wc-countries.php:185
-msgid "Mozambique"
-msgstr "Mozambikas"
-
-#: includes/class-wc-countries.php:186
-msgid "Myanmar"
-msgstr "Mianmaras"
-
-#: includes/class-wc-countries.php:187
-msgid "Namibia"
-msgstr "Namibija"
-
-#: includes/class-wc-countries.php:188
-msgid "Nauru"
-msgstr "Nauru"
-
-#: includes/class-wc-countries.php:189
-msgid "Nepal"
-msgstr "Nepalas"
-
-#: includes/class-wc-countries.php:190
-msgid "Netherlands"
-msgstr "Nyderlandai"
-
-#: includes/class-wc-countries.php:191
-msgid "Netherlands Antilles"
-msgstr "Nyderlandų Antilai"
-
-#: includes/class-wc-countries.php:192
-msgid "New Caledonia"
-msgstr "Naujoji Kaledonija"
-
-#: includes/class-wc-countries.php:193
-msgid "New Zealand"
-msgstr "Naujoji Zelandija"
-
-#: includes/class-wc-countries.php:194
-msgid "Nicaragua"
-msgstr "Nikaragva"
-
-#: includes/class-wc-countries.php:195
-msgid "Niger"
-msgstr "Nigeris"
-
-#: includes/class-wc-countries.php:196
-msgid "Nigeria"
-msgstr "Nigerija"
-
-#: includes/class-wc-countries.php:197
-msgid "Niue"
-msgstr "Niujė"
-
-#: includes/class-wc-countries.php:198
-msgid "Norfolk Island"
-msgstr "Norfolkas"
-
-#: includes/class-wc-countries.php:199
-msgid "North Korea"
-msgstr "Šiaurės Korėja"
-
-#: includes/class-wc-countries.php:200
-msgid "Norway"
-msgstr "Norvegija"
-
-#: includes/class-wc-countries.php:201
-msgid "Oman"
-msgstr "Omanas"
-
-#: includes/class-wc-countries.php:202
-msgid "Pakistan"
-msgstr "Pakistanas"
-
-#: includes/class-wc-countries.php:203
-msgid "Palestinian Territory"
-msgstr "Palestina"
-
-#: includes/class-wc-countries.php:204
-msgid "Panama"
-msgstr "Panama"
-
-#: includes/class-wc-countries.php:205
-msgid "Papua New Guinea"
-msgstr "Papua Naujoji Gvinėja"
-
-#: includes/class-wc-countries.php:206
-msgid "Paraguay"
-msgstr "Paragvajus"
-
-#: includes/class-wc-countries.php:207
-msgid "Peru"
-msgstr "Peru"
-
-#: includes/class-wc-countries.php:208
-msgid "Philippines"
-msgstr "Filipinai"
-
-#: includes/class-wc-countries.php:209
-msgid "Pitcairn"
-msgstr "Pikterno salos"
-
-#: includes/class-wc-countries.php:210
-msgid "Poland"
-msgstr "Lenkija"
-
-#: includes/class-wc-countries.php:211
-msgid "Portugal"
-msgstr "Portugalija"
-
-#: includes/class-wc-countries.php:212
-msgid "Qatar"
-msgstr "Kataras"
-
-#: includes/class-wc-countries.php:213
-msgid "Reunion"
-msgstr "Reunjonas"
-
-#: includes/class-wc-countries.php:214
-msgid "Romania"
-msgstr "Rumunija"
-
-#: includes/class-wc-countries.php:215
-msgid "Russia"
-msgstr "Rusija"
-
-#: includes/class-wc-countries.php:216
-msgid "Rwanda"
-msgstr "Ruanda"
-
-#: includes/class-wc-countries.php:217
-msgid "Saint Barth&eacute;lemy"
-msgstr "Šv. Bartolomėjus"
-
-#: includes/class-wc-countries.php:218
-msgid "Saint Helena"
-msgstr "Šv. Elenos sala"
-
-#: includes/class-wc-countries.php:219
-msgid "Saint Kitts and Nevis"
-msgstr "Sent Kitsas ir Nevis"
-
-#: includes/class-wc-countries.php:220
-msgid "Saint Lucia"
-msgstr "Sent Lusija"
-
-#: includes/class-wc-countries.php:221
-msgid "Saint Martin (French part)"
-msgstr "San Martenas (prancūzų dalis)"
-
-#: includes/class-wc-countries.php:222
-msgid "Saint Martin (Dutch part)"
-msgstr "San Martenas (olandų dalis)"
-
-#: includes/class-wc-countries.php:223
-msgid "Saint Pierre and Miquelon"
-msgstr "Sen Pjeras ir Mikelonas"
-
-#: includes/class-wc-countries.php:224
-msgid "Saint Vincent and the Grenadines"
-msgstr "Sent Vinsentas ir Grenadinai"
-
-#: includes/class-wc-countries.php:225
-msgid "San Marino"
-msgstr "San Marinas"
-
-#: includes/class-wc-countries.php:226
-msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
-msgstr "San Tomė ir Prinsipė"
-
-#: includes/class-wc-countries.php:227
-msgid "Saudi Arabia"
-msgstr "Saudo Arabija"
-
-#: includes/class-wc-countries.php:228
-msgid "Senegal"
-msgstr "Senegalas"
-
-#: includes/class-wc-countries.php:229
-msgid "Serbia"
-msgstr "Serbija"
-
-#: includes/class-wc-countries.php:230
-msgid "Seychelles"
-msgstr "Seišeliai"
-
-#: includes/class-wc-countries.php:231
-msgid "Sierra Leone"
-msgstr "Siera Leonė"
-
-#: includes/class-wc-countries.php:232
-msgid "Singapore"
-msgstr "Singapūras"
-
-#: includes/class-wc-countries.php:233
-msgid "Slovakia"
-msgstr "Slovakija"
-
-#: includes/class-wc-countries.php:234
-msgid "Slovenia"
-msgstr "Slovėnija"
-
-#: includes/class-wc-countries.php:235
-msgid "Solomon Islands"
-msgstr "Saliamono salos"
-
-#: includes/class-wc-countries.php:236
-msgid "Somalia"
-msgstr "Somalis"
-
-#: includes/class-wc-countries.php:237
-msgid "South Africa"
-msgstr "Pietų Afrika"
-
-#: includes/class-wc-countries.php:238
-msgid "South Georgia/Sandwich Islands"
-msgstr "Pietų Džordžija ir Sandvičas"
-
-#: includes/class-wc-countries.php:239
-msgid "South Korea"
-msgstr "Pietų Korėja"
-
-#: includes/class-wc-countries.php:240
-msgid "South Sudan"
-msgstr "Pietų Sudanas"
-
-#: includes/class-wc-countries.php:241
-msgid "Spain"
-msgstr "Ispanija"
-
-#: includes/class-wc-countries.php:242
-msgid "Sri Lanka"
-msgstr "Šri Lanka"
-
-#: includes/class-wc-countries.php:243
-msgid "Sudan"
-msgstr "Sudanas"
-
-#: includes/class-wc-countries.php:244
-msgid "Suriname"
-msgstr "Surinamas"
-
-#: includes/class-wc-countries.php:245
-msgid "Svalbard and Jan Mayen"
-msgstr "Svalbardas ir Jan Majenas"
-
-#: includes/class-wc-countries.php:246
-msgid "Swaziland"
-msgstr "Svazilandas"
-
-#: includes/class-wc-countries.php:247
-msgid "Sweden"
-msgstr "Švedija"
-
-#: includes/class-wc-countries.php:248
-msgid "Switzerland"
-msgstr "Šveicarija"
-
-#: includes/class-wc-countries.php:249
-msgid "Syria"
-msgstr "Sirija"
-
-#: includes/class-wc-countries.php:250
-msgid "Taiwan"
-msgstr "Taivanas"
-
-#: includes/class-wc-countries.php:251
-msgid "Tajikistan"
-msgstr "Tadžikistanas"
-
-#: includes/class-wc-countries.php:252
-msgid "Tanzania"
-msgstr "Tanzanija"
-
-#: includes/class-wc-countries.php:253
-msgid "Thailand"
-msgstr "Tailandas"
-
-#: includes/class-wc-countries.php:254
-msgid "Timor-Leste"
-msgstr "Rytų Timoras"
-
-#: includes/class-wc-countries.php:255
-msgid "Togo"
-msgstr "Togas"
-
-#: includes/class-wc-countries.php:256
-msgid "Tokelau"
-msgstr "Tokelau"
-
-#: includes/class-wc-countries.php:257
-msgid "Tonga"
-msgstr "Tonga"
-
-#: includes/class-wc-countries.php:258
-msgid "Trinidad and Tobago"
-msgstr "Trinidadas ir Tobagas"
-
-#: includes/class-wc-countries.php:259
-msgid "Tunisia"
-msgstr "Tunisas"
-
-#: includes/class-wc-countries.php:260
-msgid "Turkey"
-msgstr "Turkija"
-
-#: includes/class-wc-countries.php:261
-msgid "Turkmenistan"
-msgstr "Turkmenistanas"
-
-#: includes/class-wc-countries.php:262
-msgid "Turks and Caicos Islands"
-msgstr "Terksas ir Kaikosas"
-
-#: includes/class-wc-countries.php:263
-msgid "Tuvalu"
-msgstr "Tuvalu"
-
-#: includes/class-wc-countries.php:264
-msgid "Uganda"
-msgstr "Uganda"
-
-#: includes/class-wc-countries.php:265
-msgid "Ukraine"
-msgstr "Ukraina"
-
-#: includes/class-wc-countries.php:266
-msgid "United Arab Emirates"
-msgstr "Jungtiniai Arabų Emyratai"
-
-#: includes/class-wc-countries.php:267
-msgid "United Kingdom (UK)"
-msgstr ""
-
-#: includes/class-wc-countries.php:268
-msgid "United States (US)"
-msgstr ""
-
 #: includes/class-wc-countries.php:269
-msgid "Uruguay"
-msgstr "Urugvajus"
-
-#: includes/class-wc-countries.php:270
-msgid "Uzbekistan"
-msgstr "Uzbekistanas"
-
-#: includes/class-wc-countries.php:271
-msgid "Vanuatu"
-msgstr "Vanuatu"
-
-#: includes/class-wc-countries.php:272
-msgid "Vatican"
-msgstr "Vatikanas"
-
-#: includes/class-wc-countries.php:273
-msgid "Venezuela"
-msgstr "Venesuela"
-
-#: includes/class-wc-countries.php:274
-msgid "Vietnam"
-msgstr "Vietnamas"
-
-#: includes/class-wc-countries.php:275
-msgid "Wallis and Futuna"
-msgstr "Volisas ir Futūna"
-
-#: includes/class-wc-countries.php:276
-msgid "Western Sahara"
-msgstr "Vakarų Sachara"
-
-#: includes/class-wc-countries.php:277
-msgid "Western Samoa"
-msgstr "Vakarų Samoa"
-
-#: includes/class-wc-countries.php:278
-msgid "Yemen"
-msgstr "Jemenas"
-
-#: includes/class-wc-countries.php:279
-msgid "Zambia"
-msgstr "Zambija"
-
-#: includes/class-wc-countries.php:280
-msgid "Zimbabwe"
-msgstr "Zimbabvė"
-
-#: includes/class-wc-countries.php:484
 msgid "to the"
 msgstr "į"
 
-#: includes/class-wc-countries.php:485
+#: includes/class-wc-countries.php:270
 msgid "to"
 msgstr "į"
 
-#: includes/class-wc-countries.php:498
+#: includes/class-wc-countries.php:282
 msgid "the"
 msgstr "<!-- -->"
 
-#: includes/class-wc-countries.php:510
+#: includes/class-wc-countries.php:294
 msgid "VAT"
 msgstr "PVM"
 
-#: includes/class-wc-countries.php:510
+#: includes/class-wc-countries.php:294
 msgid "Tax"
 msgstr "Mokesčiai"
 
-#: includes/class-wc-countries.php:523
+#: includes/class-wc-countries.php:306
 msgid "(incl. VAT)"
 msgstr "(su PVM)"
 
-#: includes/class-wc-countries.php:523
+#: includes/class-wc-countries.php:306
 msgid "(incl. tax)"
 msgstr "(su mokesčiais)"
 
-#: includes/class-wc-countries.php:536
+#: includes/class-wc-countries.php:318
 msgid "(ex. VAT)"
 msgstr "(be PVM)"
 
-#: includes/class-wc-countries.php:536
+#: includes/class-wc-countries.php:318
 msgid "(ex. tax)"
 msgstr "(be mokesčių)"
 
-#: includes/class-wc-countries.php:719
-msgid "Country"
-msgstr "Valstybė"
-
-#: includes/class-wc-countries.php:724
-msgid "First Name"
-msgstr "Vardas"
-
-#: includes/class-wc-countries.php:729
-msgid "Last Name"
-msgstr "Pavardė"
-
-#: includes/class-wc-countries.php:735
-msgid "Company Name"
-msgstr "Įmonės pavadinimas"
-
-#: includes/class-wc-countries.php:739
-msgid "Address"
-msgstr "Adresas"
-
-#: includes/class-wc-countries.php:740
-msgctxt "placeholder"
-msgid "Street address"
-msgstr "Gatvės adresas"
-
-#: includes/class-wc-countries.php:745
-msgctxt "placeholder"
-msgid "Apartment, suite, unit etc. (optional)"
-msgstr "Apartamentai, kambario numeris ir pan. (nebūtina)"
-
-#: includes/class-wc-countries.php:750 includes/class-wc-countries.php:751
-msgid "Town / City"
-msgstr "Miestas"
-
-#: includes/class-wc-countries.php:757 includes/class-wc-countries.php:758
-msgid "State / County"
-msgstr "Apskritis"
-
-#: includes/class-wc-countries.php:764 includes/class-wc-countries.php:765
-#: templates/cart/shipping-calculator.php:80
-msgid "Postcode / Zip"
-msgstr "Pašto kodas"
-
-#: includes/class-wc-countries.php:827
-msgid "District"
-msgstr ""
-
-#: includes/class-wc-countries.php:834 includes/class-wc-countries.php:850
-#: includes/class-wc-countries.php:870 includes/class-wc-countries.php:931
-#: includes/class-wc-countries.php:950 includes/class-wc-countries.php:955
-#: includes/class-wc-countries.php:967 includes/class-wc-countries.php:1017
-#: includes/class-wc-countries.php:1041 includes/class-wc-countries.php:1082
-msgid "Province"
-msgstr "Provincija"
-
-#: includes/class-wc-countries.php:856
-msgid "Canton"
-msgstr "Kantonas"
-
-#: includes/class-wc-countries.php:865 includes/class-wc-countries.php:1023
-msgid "Municipality"
-msgstr "Savivaldybė"
-
-#: includes/class-wc-countries.php:918
-msgid "Town / District"
-msgstr "Miestas / Rajonas"
-
-#: includes/class-wc-countries.php:921
-msgid "Region"
-msgstr "Regionas"
-
-#: includes/class-wc-countries.php:926 includes/class-wc-countries.php:1057
-msgid "County"
-msgstr "Grafystė"
-
-#: includes/class-wc-countries.php:1046
-msgid "Zip"
-msgstr "Zip"
-
-#: includes/class-wc-countries.php:1049
-msgid "State"
-msgstr "Valstija"
-
-#: includes/class-wc-countries.php:1054
-msgid "Postcode"
-msgstr "Pašto kodas"
-
-#: includes/class-wc-countries.php:1162
-msgid "Email Address"
-msgstr "El. paštas"
-
-#: includes/class-wc-countries.php:1168
-msgid "Phone"
-msgstr "Telefonas"
-
-#: includes/class-wc-coupon.php:575
+#: includes/class-wc-coupon.php:578
 msgid "Coupon code applied successfully."
 msgstr "Kupono kodas priimtas."
 
-#: includes/class-wc-coupon.php:578
+#: includes/class-wc-coupon.php:581
 msgid "Coupon code removed successfully."
 msgstr ""
 
-#: includes/class-wc-coupon.php:599
+#: includes/class-wc-coupon.php:602
 msgid "Coupon is not valid."
 msgstr "Kuponas netinkamas."
 
-#: includes/class-wc-coupon.php:602 includes/class-wc-coupon.php:652
+#: includes/class-wc-coupon.php:605 includes/class-wc-coupon.php:655
 msgid "Coupon does not exist!"
 msgstr "Kuponas neegzistuoja!"
 
-#: includes/class-wc-coupon.php:605
+#: includes/class-wc-coupon.php:608
 msgid ""
 "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
 "your order."
 msgstr "Atsiprašome, kuponas „%s“ yra netinkamas - jis pašalintas iš jūsų užsakymo."
 
-#: includes/class-wc-coupon.php:608
+#: includes/class-wc-coupon.php:611
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
 "from your order."
 msgstr "Atsiprašome, panašu, kad kuponas „%s“ yra ne jūsų - jis pašalintas iš užsakymo."
 
-#: includes/class-wc-coupon.php:611
+#: includes/class-wc-coupon.php:614
 msgid "Coupon code already applied!"
 msgstr "Kupono kodas jau pritaikytas!"
 
-#: includes/class-wc-coupon.php:614
+#: includes/class-wc-coupon.php:617
 msgid ""
 "Sorry, coupon \"%s\" has already been applied and cannot be used in "
 "conjunction with other coupons."
 msgstr "Deja, kuponas „%s“ jau pritaikytas ir negali būti panaudotas kartu su kitais kuponais."
 
-#: includes/class-wc-coupon.php:617
+#: includes/class-wc-coupon.php:620
 msgid "Coupon usage limit has been reached."
 msgstr "Pasiektas kuponų naudojimo limitas."
 
-#: includes/class-wc-coupon.php:620
+#: includes/class-wc-coupon.php:623
 msgid "This coupon has expired."
 msgstr "Kuponas nebegalioja."
 
-#: includes/class-wc-coupon.php:623
+#: includes/class-wc-coupon.php:626
 msgid "The minimum spend for this coupon is %s."
 msgstr "Minimalios išlaidos šiam kuponui yra %s."
 
-#: includes/class-wc-coupon.php:626
+#: includes/class-wc-coupon.php:629
 msgid "Sorry, this coupon is not applicable to your cart contents."
 msgstr "Deja, šis kuponas netinkamas jūsų krepšelio turiniui."
 
-#: includes/class-wc-coupon.php:629
+#: includes/class-wc-coupon.php:632
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "Deja, šis kuponas netinkamas produktams, kurie išparduodami."
 
-#: includes/class-wc-coupon.php:655
+#: includes/class-wc-coupon.php:658
 msgid "Please enter a coupon code."
 msgstr "Įveskite kupono kodą."
 
-#: includes/class-wc-download-handler.php:37
+#: includes/class-wc-download-handler.php:42
 msgid "Invalid email address."
 msgstr "Netinkamas el. pašto adresas."
 
-#: includes/class-wc-download-handler.php:37
-#: includes/class-wc-download-handler.php:62
-#: includes/class-wc-download-handler.php:83
-#: includes/class-wc-download-handler.php:90
+#: includes/class-wc-download-handler.php:42
+#: includes/class-wc-download-handler.php:67
+#: includes/class-wc-download-handler.php:88
 #: includes/class-wc-download-handler.php:95
-#: includes/class-wc-download-handler.php:99
-#: includes/class-wc-download-handler.php:143
-#: includes/class-wc-download-handler.php:296
+#: includes/class-wc-download-handler.php:100
+#: includes/class-wc-download-handler.php:104
+#: includes/class-wc-download-handler.php:148
+#: includes/class-wc-download-handler.php:309
 msgid "Go to homepage"
 msgstr ""
 
-#: includes/class-wc-download-handler.php:62
+#: includes/class-wc-download-handler.php:67
 msgid "Invalid download."
 msgstr "Netinkamas atsisiuntimas."
 
-#: includes/class-wc-download-handler.php:75
+#: includes/class-wc-download-handler.php:80
 msgid "You must be logged in to download files."
 msgstr "Prisijunkite, jei norite atsisiųsti failus."
 
-#: includes/class-wc-download-handler.php:75
-#: templates/global/form-login.php:35 templates/myaccount/form-login.php:25
-#: templates/myaccount/form-login.php:44
+#: includes/class-wc-download-handler.php:80
+#: templates/global/form-login.php:35 templates/myaccount/form-login.php:27
+#: templates/myaccount/form-login.php:46
 msgid "Login"
 msgstr "Prisijungti"
 
-#: includes/class-wc-download-handler.php:75
+#: includes/class-wc-download-handler.php:80
 msgid "Log in to Download Files"
 msgstr ""
 
-#: includes/class-wc-download-handler.php:77
+#: includes/class-wc-download-handler.php:82
 msgid "This is not your download link."
 msgstr "Tai nėra jūsų atsisiuntimo nuoroda."
 
-#: includes/class-wc-download-handler.php:83
+#: includes/class-wc-download-handler.php:88
 msgid "Product no longer exists."
 msgstr "Produktas nebeegzistuoja."
 
-#: includes/class-wc-download-handler.php:90
-#: includes/class-wc-form-handler.php:525
+#: includes/class-wc-download-handler.php:95
+#: includes/class-wc-form-handler.php:541
 #: includes/shortcodes/class-wc-shortcode-checkout.php:172
 #: includes/shortcodes/class-wc-shortcode-my-account.php:111
 msgid "Invalid order."
 msgstr "Netinkamas užsakymas."
 
-#: includes/class-wc-download-handler.php:95
+#: includes/class-wc-download-handler.php:100
 msgid "Sorry, you have reached your download limit for this file"
 msgstr "Atsiprašome, pasiekėte šio failo atsisiuntimų limitą."
 
-#: includes/class-wc-download-handler.php:99
+#: includes/class-wc-download-handler.php:104
 msgid "Sorry, this download has expired"
 msgstr "Atsiprašome, šis atsisiuntimas nebegalioja"
 
-#: includes/class-wc-download-handler.php:143
+#: includes/class-wc-download-handler.php:148
 msgid "No file defined"
 msgstr "Failas nenurodytas"
 
-#: includes/class-wc-download-handler.php:296
+#: includes/class-wc-download-handler.php:309
 msgid "File not found"
 msgstr "Failas nerastas"
 
@@ -5029,173 +4842,183 @@ msgstr "Failas nerastas"
 msgid "Note"
 msgstr "Pastaba"
 
-#: includes/class-wc-emails.php:325
+#: includes/class-wc-emails.php:331
 msgid "Product low in stock"
 msgstr "Liko nedidelis kiekis"
 
-#: includes/class-wc-emails.php:330 includes/class-wc-emails.php:362
-#: includes/class-wc-emails.php:406
+#: includes/class-wc-emails.php:336 includes/class-wc-emails.php:368
+#: includes/class-wc-emails.php:412
 msgid "Variation #%s of %s"
 msgstr "Variacija #%s – %s"
 
-#: includes/class-wc-emails.php:332 includes/class-wc-emails.php:364
-#: includes/class-wc-emails.php:408
+#: includes/class-wc-emails.php:338 includes/class-wc-emails.php:370
+#: includes/class-wc-emails.php:414
 msgid "Product #%s - %s"
 msgstr "Produktas #%s - %s"
 
-#: includes/class-wc-emails.php:334
+#: includes/class-wc-emails.php:340
 msgid "is low in stock."
 msgstr "baigiasi."
 
-#: includes/class-wc-emails.php:357
+#: includes/class-wc-emails.php:363
 msgid "Product out of stock"
 msgstr "Produkto neturime"
 
-#: includes/class-wc-emails.php:366
+#: includes/class-wc-emails.php:372
 msgid "is out of stock."
 msgstr "neturime."
 
-#: includes/class-wc-emails.php:401
+#: includes/class-wc-emails.php:407
 msgid "Product Backorder"
 msgstr "Produkto išankstinis užsakymas"
 
-#: includes/class-wc-emails.php:411
+#: includes/class-wc-emails.php:417
 msgid "%s units of %s have been backordered in order %s."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:129
+#: includes/class-wc-form-handler.php:125
 msgid "Address changed successfully."
 msgstr "Adresas pakeistas sėkmingai."
 
-#: includes/class-wc-form-handler.php:180
+#: includes/class-wc-form-handler.php:174
 msgid "Please enter your name."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:184
-#: includes/wc-customer-functions.php:48
+#: includes/class-wc-form-handler.php:178 includes/wc-user-functions.php:48
 msgid "Please provide a valid email address."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:186
+#: includes/class-wc-form-handler.php:180
 msgid "This email address is already registered."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:190
+#: includes/class-wc-form-handler.php:184
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:189
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:193
+msgid "Please enter your current password."
+msgstr ""
+
+#: includes/class-wc-form-handler.php:197
 msgid "Please re-enter your password."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:192
-#: includes/class-wc-form-handler.php:815
+#: includes/class-wc-form-handler.php:201
+#: includes/class-wc-form-handler.php:831
 msgid "Passwords do not match."
 msgstr "Slaptažodžiai nesutampa."
 
-#: includes/class-wc-form-handler.php:208
+#: includes/class-wc-form-handler.php:223
 msgid "Account details changed successfully."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:334
+#: includes/class-wc-form-handler.php:350
 msgid "Payment method added."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:367
-#: includes/class-wc-form-handler.php:426
+#: includes/class-wc-form-handler.php:383
+#: includes/class-wc-form-handler.php:442
 msgid "Cart updated."
 msgstr "Krepšelis atnaujintas."
 
-#: includes/class-wc-form-handler.php:402
+#: includes/class-wc-form-handler.php:418
 msgid "You can only have 1 %s in your cart."
 msgstr "Krepšelyje galite turėti tik 1 %s."
 
-#: includes/class-wc-form-handler.php:492
+#: includes/class-wc-form-handler.php:508
 msgid "The cart has been filled with the items from your previous order."
 msgstr "Krepšelis užpildytas produktais iš jūsų ankstesnio užsakymo."
 
-#: includes/class-wc-form-handler.php:515
+#: includes/class-wc-form-handler.php:531
 msgid "Order cancelled by customer."
 msgstr "Pirkėjas atšaukė užsakymą."
 
-#: includes/class-wc-form-handler.php:518
+#: includes/class-wc-form-handler.php:534
 msgid "Your order was cancelled."
 msgstr "Užsakymas atšauktas."
 
-#: includes/class-wc-form-handler.php:523
+#: includes/class-wc-form-handler.php:539
 msgid ""
 "Your order can no longer be cancelled. Please contact us if you need "
 "assistance."
 msgstr ""
 
-#: includes/class-wc-form-handler.php:563
-#: includes/class-wc-form-handler.php:623
+#: includes/class-wc-form-handler.php:579
+#: includes/class-wc-form-handler.php:639
 msgid "Please choose product options&hellip;"
 msgstr "Pasirinkite produkto nuostatas &hellip;"
 
-#: includes/class-wc-form-handler.php:657
+#: includes/class-wc-form-handler.php:673
 msgid ""
 "Please choose the quantity of items you wish to add to your cart&hellip;"
 msgstr "Pasirinkite, kiek produktų norite įsidėti į krepšelį&hellip;"
 
-#: includes/class-wc-form-handler.php:664
+#: includes/class-wc-form-handler.php:680
 msgid "Please choose a product to add to your cart&hellip;"
 msgstr "Pasirinkite produktą, kurį norite įsidėti į krepšelį&hellip;"
 
-#: includes/class-wc-form-handler.php:724
-#: includes/class-wc-form-handler.php:728
-#: includes/class-wc-form-handler.php:732
-#: includes/class-wc-form-handler.php:741
-#: includes/class-wc-form-handler.php:861
+#: includes/class-wc-form-handler.php:740
+#: includes/class-wc-form-handler.php:744
+#: includes/class-wc-form-handler.php:748
+#: includes/class-wc-form-handler.php:757
+#: includes/class-wc-form-handler.php:883
 msgid "Error"
 msgstr "Klaida"
 
-#: includes/class-wc-form-handler.php:728
+#: includes/class-wc-form-handler.php:744
 msgid "Username is required."
 msgstr "Vartotojo vardas yra būtinas."
 
-#: includes/class-wc-form-handler.php:732
+#: includes/class-wc-form-handler.php:748
 msgid "Password is required."
 msgstr "Slaptažodis yra būtinas."
 
-#: includes/class-wc-form-handler.php:741
+#: includes/class-wc-form-handler.php:757
 msgid "A user could not be found with this email address."
 msgstr "Nėra tokiu el. pašto adresu registruoto vartotojo."
 
-#: includes/class-wc-form-handler.php:766
+#: includes/class-wc-form-handler.php:782
 msgid "You are now logged in as <strong>%s</strong>"
 msgstr ""
 
-#: includes/class-wc-form-handler.php:810
+#: includes/class-wc-form-handler.php:826
 msgid "Please enter your password."
 msgstr "Įveskite savo slaptažodį."
 
-#: includes/class-wc-form-handler.php:877
-#: includes/wc-customer-functions.php:110
+#: includes/class-wc-form-handler.php:899 includes/wc-user-functions.php:112
 msgid "ERROR"
 msgstr "KLAIDA"
 
-#: includes/class-wc-form-handler.php:877
+#: includes/class-wc-form-handler.php:899
 msgid "Anti-spam field was filled in."
 msgstr "Užpildytas anti brukalų laukelis."
 
-#: includes/class-wc-frontend-scripts.php:123
+#: includes/class-wc-frontend-scripts.php:149
 msgid "Please select a rating"
 msgstr "Pasirinkite įvertinimą"
 
-#: includes/class-wc-frontend-scripts.php:140
-#: includes/wc-template-functions.php:1602
+#: includes/class-wc-frontend-scripts.php:168
+#: includes/wc-template-functions.php:1594
 msgid "required"
 msgstr "būtina"
 
-#: includes/class-wc-frontend-scripts.php:164
+#: includes/class-wc-frontend-scripts.php:196
 msgid ""
 "Sorry, no products matched your selection. Please choose a different "
 "combination."
 msgstr "Deja, jūsų užklausos neatitiko jokie produktai. Pasirinkite kitokią kombinaciją."
 
-#: includes/class-wc-frontend-scripts.php:165
+#: includes/class-wc-frontend-scripts.php:197
 msgid ""
 "Sorry, this product is unavailable. Please choose a different combination."
 msgstr ""
 
-#: includes/class-wc-frontend-scripts.php:170
+#: includes/class-wc-frontend-scripts.php:204
 msgid "Select an option&hellip;"
 msgstr "Pasirinkti nuostatą&hellip;"
 
@@ -5220,7 +5043,7 @@ msgid "Cart"
 msgstr "Krepšelis"
 
 #: includes/class-wc-install.php:227
-msgctxt "Paeg slug"
+msgctxt "Page slug"
 msgid "checkout"
 msgstr "apmokejimas"
 
@@ -5247,253 +5070,253 @@ msgstr "Pirkėjas"
 msgid "Shop Manager"
 msgstr "Parduotuvės vadybininkas"
 
-#: includes/class-wc-install.php:703
-msgid "What's new:"
-msgstr "Kas naujo:"
-
-#: includes/class-wc-order.php:137
+#: includes/class-wc-order.php:160
 msgctxt "hash before order number"
 msgid "#"
 msgstr "#"
 
-#: includes/class-wc-order.php:854
+#: includes/class-wc-order.php:877
 msgid "&nbsp;<small>%svia %s</small>"
 msgstr "&nbsp;<small>%s– %s</small>"
 
-#: includes/class-wc-order.php:917
+#: includes/class-wc-order.php:940
 msgid "Cart Subtotal:"
 msgstr "Krepšelio suma:"
 
-#: includes/class-wc-order.php:924
+#: includes/class-wc-order.php:947
 msgid "Cart Discount:"
 msgstr "Krepšelio nuolaida:"
 
-#: includes/class-wc-order.php:931
+#: includes/class-wc-order.php:954
 msgid "Shipping:"
 msgstr "Pristatymas:"
 
-#: includes/class-wc-order.php:978
+#: includes/class-wc-order.php:1001
 msgid "Order Discount:"
 msgstr "Užsakymo nuolaida:"
 
-#: includes/class-wc-order.php:985
+#: includes/class-wc-order.php:1008
 msgid "Payment Method:"
 msgstr "Mokėjimo metodas:"
 
-#: includes/class-wc-order.php:991
+#: includes/class-wc-order.php:1014
 msgid "Order Total:"
 msgstr "Užsakymo suma:"
 
-#: includes/class-wc-order.php:1009 includes/wc-cart-functions.php:251
+#: includes/class-wc-order.php:1032 includes/wc-cart-functions.php:249
 msgid "(Includes %s)"
 msgstr "(įskaitant %s)"
 
-#: includes/class-wc-order.php:1258 includes/class-wc-order.php:1259
+#: includes/class-wc-order.php:1281 includes/class-wc-order.php:1282
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
-#: includes/class-wc-order.php:1314
+#: includes/class-wc-order.php:1337
 msgid "Order status changed from %s to %s."
 msgstr "Užsakymo būsena pakeista iš %s į %s."
 
-#: includes/class-wc-order.php:1583
+#: includes/class-wc-order.php:1592
+msgid "Item #%s stock reduced from %s to %s."
+msgstr "Produkto #%s kiekis sumažėjo nuo %s iki %s."
+
+#: includes/class-wc-order.php:1602
 msgid "Order item stock reduced successfully."
 msgstr "Produkto kiekis užsakyme sumažintas sėkmingai."
 
-#: includes/class-wc-post-types.php:55 includes/class-wc-post-types.php:57
+#: includes/class-wc-post-types.php:56 includes/class-wc-post-types.php:58
 #: includes/widgets/class-wc-widget-product-categories.php:30
 msgid "Product Categories"
 msgstr "Produktų kategorijos"
 
-#: includes/class-wc-post-types.php:58
+#: includes/class-wc-post-types.php:59
 msgid "Product Category"
 msgstr "Produkto kategorija"
 
-#: includes/class-wc-post-types.php:59
+#: includes/class-wc-post-types.php:60
 msgctxt "Admin menu name"
 msgid "Categories"
 msgstr "Kategorijos"
 
-#: includes/class-wc-post-types.php:60
+#: includes/class-wc-post-types.php:61
 msgid "Search Product Categories"
 msgstr "Ieškoti produktų kategorijų"
 
-#: includes/class-wc-post-types.php:61
+#: includes/class-wc-post-types.php:62
 msgid "All Product Categories"
 msgstr "Visos produktų kategorijos"
 
-#: includes/class-wc-post-types.php:62
+#: includes/class-wc-post-types.php:63
 msgid "Parent Product Category"
 msgstr "Tėvinė produktų kategorija"
 
-#: includes/class-wc-post-types.php:63
+#: includes/class-wc-post-types.php:64
 msgid "Parent Product Category:"
 msgstr "Tėvinė produktų kategorija:"
 
-#: includes/class-wc-post-types.php:64
+#: includes/class-wc-post-types.php:65
 msgid "Edit Product Category"
 msgstr "Redaguoti produktų kategoriją"
 
-#: includes/class-wc-post-types.php:65
+#: includes/class-wc-post-types.php:66
 msgid "Update Product Category"
 msgstr "Atnaujinti produktų kategoriją"
 
-#: includes/class-wc-post-types.php:66
+#: includes/class-wc-post-types.php:67
 msgid "Add New Product Category"
 msgstr "Pridėti naują produktų kategoriją"
 
-#: includes/class-wc-post-types.php:67
+#: includes/class-wc-post-types.php:68
 msgid "New Product Category Name"
 msgstr "Naujos produkto kategorijos pavadinimas"
 
-#: includes/class-wc-post-types.php:78
+#: includes/class-wc-post-types.php:79
 #: includes/updates/woocommerce-update-2.0.php:44
 msgctxt "slug"
 msgid "product-category"
 msgstr "produkto-kategorija"
 
-#: includes/class-wc-post-types.php:90 includes/class-wc-post-types.php:92
+#: includes/class-wc-post-types.php:91 includes/class-wc-post-types.php:93
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:27
 msgid "Product Tags"
 msgstr "Produktų žymos"
 
-#: includes/class-wc-post-types.php:93
+#: includes/class-wc-post-types.php:94
 msgid "Product Tag"
 msgstr "Produkto žyma"
 
-#: includes/class-wc-post-types.php:94
+#: includes/class-wc-post-types.php:95
 msgctxt "Admin menu name"
 msgid "Tags"
 msgstr "Žymos"
 
-#: includes/class-wc-post-types.php:95
+#: includes/class-wc-post-types.php:96
 msgid "Search Product Tags"
 msgstr "Ieškoti produkto žymų"
 
-#: includes/class-wc-post-types.php:96
+#: includes/class-wc-post-types.php:97
 msgid "All Product Tags"
 msgstr "Visos produkto žymos"
 
-#: includes/class-wc-post-types.php:97
+#: includes/class-wc-post-types.php:98
 msgid "Parent Product Tag"
 msgstr "Tėvinė produkto žyma"
 
-#: includes/class-wc-post-types.php:98
+#: includes/class-wc-post-types.php:99
 msgid "Parent Product Tag:"
 msgstr "Tėvinė produkto žyma:"
 
-#: includes/class-wc-post-types.php:99
+#: includes/class-wc-post-types.php:100
 msgid "Edit Product Tag"
 msgstr "Redaguoti produkto žymą"
 
-#: includes/class-wc-post-types.php:100
+#: includes/class-wc-post-types.php:101
 msgid "Update Product Tag"
 msgstr "Atnaujinti produkto žymą"
 
-#: includes/class-wc-post-types.php:101
+#: includes/class-wc-post-types.php:102
 msgid "Add New Product Tag"
 msgstr "Pridėti naują produkto žymą"
 
-#: includes/class-wc-post-types.php:102
+#: includes/class-wc-post-types.php:103
 msgid "New Product Tag Name"
 msgstr "Naujos produkto žymos pavadinimas"
 
-#: includes/class-wc-post-types.php:113
+#: includes/class-wc-post-types.php:114
 #: includes/updates/woocommerce-update-2.0.php:45
 msgctxt "slug"
 msgid "product-tag"
 msgstr "produkto-zyma"
 
-#: includes/class-wc-post-types.php:124 includes/class-wc-post-types.php:126
+#: includes/class-wc-post-types.php:125 includes/class-wc-post-types.php:127
 msgid "Shipping Classes"
 msgstr "Pristatymo klasės"
 
-#: includes/class-wc-post-types.php:127
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:546
+#: includes/class-wc-post-types.php:128
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
 msgid "Shipping Class"
 msgstr "Pristatymo klasė"
 
-#: includes/class-wc-post-types.php:128
+#: includes/class-wc-post-types.php:129
 msgctxt "Admin menu name"
 msgid "Shipping Classes"
 msgstr "Pristatymo klasės"
 
-#: includes/class-wc-post-types.php:129
+#: includes/class-wc-post-types.php:130
 msgid "Search Shipping Classes"
 msgstr "Ieškoti pristatymo klasių"
 
-#: includes/class-wc-post-types.php:130
+#: includes/class-wc-post-types.php:131
 msgid "All Shipping Classes"
 msgstr "Visos pristatymo klasės"
 
-#: includes/class-wc-post-types.php:131
+#: includes/class-wc-post-types.php:132
 msgid "Parent Shipping Class"
 msgstr "Tėvinė pristatymo klasė"
 
-#: includes/class-wc-post-types.php:132
+#: includes/class-wc-post-types.php:133
 msgid "Parent Shipping Class:"
 msgstr "Tėvinė pristatymo klasė:"
 
-#: includes/class-wc-post-types.php:133
+#: includes/class-wc-post-types.php:134
 msgid "Edit Shipping Class"
 msgstr "Redaguoti pristatymo klasę"
 
-#: includes/class-wc-post-types.php:134
+#: includes/class-wc-post-types.php:135
 msgid "Update Shipping Class"
 msgstr "Atnaujinti pristatymo klasę"
 
-#: includes/class-wc-post-types.php:135
+#: includes/class-wc-post-types.php:136
 msgid "Add New Shipping Class"
 msgstr "Pridėti naują pristatymo klasę"
 
-#: includes/class-wc-post-types.php:136
+#: includes/class-wc-post-types.php:137
 msgid "New Shipping Class Name"
 msgstr "Naujos pristatymo klasės pavadinimas"
 
-#: includes/class-wc-post-types.php:184
+#: includes/class-wc-post-types.php:185
 msgid "Search %s"
 msgstr "Ieškoti %s"
 
-#: includes/class-wc-post-types.php:185
+#: includes/class-wc-post-types.php:186
 msgid "All %s"
 msgstr "Visi %s"
 
-#: includes/class-wc-post-types.php:186
+#: includes/class-wc-post-types.php:187
 msgid "Parent %s"
 msgstr ""
 
-#: includes/class-wc-post-types.php:187
+#: includes/class-wc-post-types.php:188
 msgid "Parent %s:"
 msgstr ""
 
-#: includes/class-wc-post-types.php:188
+#: includes/class-wc-post-types.php:189
 msgid "Edit %s"
 msgstr ""
 
-#: includes/class-wc-post-types.php:189
+#: includes/class-wc-post-types.php:190
 msgid "Update %s"
 msgstr ""
 
-#: includes/class-wc-post-types.php:190
+#: includes/class-wc-post-types.php:191
 msgid "Add New %s"
 msgstr ""
 
-#: includes/class-wc-post-types.php:191
+#: includes/class-wc-post-types.php:192
 msgid "New %s"
 msgstr ""
 
-#: includes/class-wc-post-types.php:226
+#: includes/class-wc-post-types.php:227
 #: includes/updates/woocommerce-update-2.0.php:53
 msgctxt "slug"
 msgid "product"
 msgstr "produktas"
 
-#: includes/class-wc-post-types.php:232
+#: includes/class-wc-post-types.php:233
 #: includes/widgets/class-wc-widget-products.php:27
 msgid "Products"
 msgstr "Produktai"
 
-#: includes/class-wc-post-types.php:233 templates/cart/cart.php:27
+#: includes/class-wc-post-types.php:234 templates/cart/cart.php:27
 #: templates/checkout/form-pay.php:19 templates/checkout/review-order.php:18
 #: templates/emails/admin-new-order.php:22
 #: templates/emails/customer-completed-order.php:23
@@ -5504,168 +5327,168 @@ msgstr "Produktai"
 msgid "Product"
 msgstr "Produktas"
 
-#: includes/class-wc-post-types.php:234
+#: includes/class-wc-post-types.php:235
 msgctxt "Admin menu name"
 msgid "Products"
 msgstr "Produktai"
 
-#: includes/class-wc-post-types.php:235
+#: includes/class-wc-post-types.php:236
 msgid "Add Product"
 msgstr "Pridėti produktą"
 
-#: includes/class-wc-post-types.php:236
+#: includes/class-wc-post-types.php:237
 msgid "Add New Product"
 msgstr "Pridėti naują produktą"
 
-#: includes/class-wc-post-types.php:237 includes/class-wc-post-types.php:289
-#: includes/class-wc-post-types.php:328 templates/myaccount/my-address.php:45
+#: includes/class-wc-post-types.php:238 includes/class-wc-post-types.php:290
+#: includes/class-wc-post-types.php:329 templates/myaccount/my-address.php:45
 msgid "Edit"
 msgstr "Redaguoti"
 
-#: includes/class-wc-post-types.php:238
+#: includes/class-wc-post-types.php:239
 msgid "Edit Product"
 msgstr "Redaguoti produktą"
 
-#: includes/class-wc-post-types.php:239
+#: includes/class-wc-post-types.php:240
 msgid "New Product"
 msgstr "Naujas produktas"
 
-#: includes/class-wc-post-types.php:240 includes/class-wc-post-types.php:241
+#: includes/class-wc-post-types.php:241 includes/class-wc-post-types.php:242
 msgid "View Product"
 msgstr "Peržiūrėti produktą"
 
-#: includes/class-wc-post-types.php:242
+#: includes/class-wc-post-types.php:243
 #: includes/widgets/class-wc-widget-product-search.php:27
 msgid "Search Products"
 msgstr "ieškoti produktų"
 
-#: includes/class-wc-post-types.php:243
+#: includes/class-wc-post-types.php:244
 msgid "No Products found"
 msgstr "Produktų nerasta"
 
-#: includes/class-wc-post-types.php:244
+#: includes/class-wc-post-types.php:245
 msgid "No Products found in trash"
 msgstr "Šiukšlinėje produktų nerasta"
 
-#: includes/class-wc-post-types.php:245
+#: includes/class-wc-post-types.php:246
 msgid "Parent Product"
 msgstr "Tėvinis produktas"
 
-#: includes/class-wc-post-types.php:247
+#: includes/class-wc-post-types.php:248
 msgid "This is where you can add new products to your store."
 msgstr "Čia galite į parduotuvę pridėti naujus produktus."
 
-#: includes/class-wc-post-types.php:267
+#: includes/class-wc-post-types.php:268
 msgid "Variations"
 msgstr "Variacijos"
 
-#: includes/class-wc-post-types.php:275
+#: includes/class-wc-post-types.php:276
 msgctxt "Admin menu name"
 msgid "Orders"
 msgstr "Užsakymai"
 
-#: includes/class-wc-post-types.php:285
+#: includes/class-wc-post-types.php:286
 msgid "Orders"
 msgstr "Užsakymai"
 
-#: includes/class-wc-post-types.php:286 templates/myaccount/my-orders.php:32
+#: includes/class-wc-post-types.php:287 templates/myaccount/my-orders.php:32
 msgid "Order"
 msgstr "Užsakymas"
 
-#: includes/class-wc-post-types.php:287
+#: includes/class-wc-post-types.php:288
 msgid "Add Order"
 msgstr "Pridėti užsakymą"
 
-#: includes/class-wc-post-types.php:288
+#: includes/class-wc-post-types.php:289
 msgid "Add New Order"
 msgstr "Pridėti naują užsakymą"
 
-#: includes/class-wc-post-types.php:290
+#: includes/class-wc-post-types.php:291
 msgid "Edit Order"
 msgstr "Redaguoti užsakymą"
 
-#: includes/class-wc-post-types.php:291
+#: includes/class-wc-post-types.php:292
 msgid "New Order"
 msgstr "Naujas užsakymas"
 
-#: includes/class-wc-post-types.php:292 includes/class-wc-post-types.php:293
+#: includes/class-wc-post-types.php:293 includes/class-wc-post-types.php:294
 msgid "View Order"
 msgstr "Peržiūrėti užsakymą"
 
-#: includes/class-wc-post-types.php:294
+#: includes/class-wc-post-types.php:295
 msgid "Search Orders"
 msgstr "Ieškoti užsakymų"
 
-#: includes/class-wc-post-types.php:295
+#: includes/class-wc-post-types.php:296
 msgid "No Orders found"
 msgstr "Užsakymų nerasta"
 
-#: includes/class-wc-post-types.php:296
+#: includes/class-wc-post-types.php:297
 msgid "No Orders found in trash"
 msgstr "Šiukšlinėje užsakymų nerasta"
 
-#: includes/class-wc-post-types.php:297
+#: includes/class-wc-post-types.php:298
 msgid "Parent Orders"
 msgstr "Tėviniai užsakymai"
 
-#: includes/class-wc-post-types.php:300
+#: includes/class-wc-post-types.php:301
 msgid "This is where store orders are stored."
 msgstr "Čia saugomi parduotuvės užsakymai."
 
-#: includes/class-wc-post-types.php:323
+#: includes/class-wc-post-types.php:324
 msgid "Coupons"
 msgstr "Kuponai"
 
-#: includes/class-wc-post-types.php:324 templates/cart/cart.php:118
+#: includes/class-wc-post-types.php:325 templates/cart/cart.php:119
 msgid "Coupon"
 msgstr "Kuponas"
 
-#: includes/class-wc-post-types.php:325
+#: includes/class-wc-post-types.php:326
 msgctxt "Admin menu name"
 msgid "Coupons"
 msgstr "Kuponai"
 
-#: includes/class-wc-post-types.php:326
+#: includes/class-wc-post-types.php:327
 msgid "Add Coupon"
 msgstr "Pridėti kuponą"
 
-#: includes/class-wc-post-types.php:327
+#: includes/class-wc-post-types.php:328
 msgid "Add New Coupon"
 msgstr "Pridėti naują kuponą"
 
-#: includes/class-wc-post-types.php:329
+#: includes/class-wc-post-types.php:330
 msgid "Edit Coupon"
 msgstr "Redaguoti kuponą"
 
-#: includes/class-wc-post-types.php:330
+#: includes/class-wc-post-types.php:331
 msgid "New Coupon"
 msgstr "Naujas kuponas"
 
-#: includes/class-wc-post-types.php:331
+#: includes/class-wc-post-types.php:332
 msgid "View Coupons"
 msgstr "Peržiūrėti kuponus"
 
-#: includes/class-wc-post-types.php:332
+#: includes/class-wc-post-types.php:333
 msgid "View Coupon"
 msgstr "Peržiūrėti kuponą"
 
-#: includes/class-wc-post-types.php:333
+#: includes/class-wc-post-types.php:334
 msgid "Search Coupons"
 msgstr "Peržiūrėti kuponus"
 
-#: includes/class-wc-post-types.php:334
+#: includes/class-wc-post-types.php:335
 msgid "No Coupons found"
 msgstr "Kuponų nerasta"
 
-#: includes/class-wc-post-types.php:335
+#: includes/class-wc-post-types.php:336
 msgid "No Coupons found in trash"
 msgstr "Šiukšlinėje kuponų nerasta"
 
-#: includes/class-wc-post-types.php:336
+#: includes/class-wc-post-types.php:337
 msgid "Parent Coupon"
 msgstr "Tėvinis kuponas"
 
-#: includes/class-wc-post-types.php:338
+#: includes/class-wc-post-types.php:339
 msgid ""
 "This is where you can add new coupons that customers can use in your store."
 msgstr "Čia galite pridėti naujus kuponus, kuriuos pirkėjai galės panaudoti savo parduotuvėje."
@@ -5679,14 +5502,14 @@ msgid "View products"
 msgstr ""
 
 #: includes/class-wc-product-grouped.php:194
-#: includes/class-wc-product-variable.php:273
-#: includes/class-wc-product-variable.php:278
+#: includes/class-wc-product-variable.php:274
+#: includes/class-wc-product-variable.php:279
 msgctxt "Price range: from-to"
 msgid "%1$s&ndash;%2$s"
 msgstr ""
 
 #: includes/class-wc-product-simple.php:48
-#: includes/class-wc-product-variation.php:211
+#: includes/class-wc-product-variation.php:215
 msgid "Read More"
 msgstr "Skaityti daugiau"
 
@@ -5694,17 +5517,17 @@ msgstr "Skaityti daugiau"
 msgid "Select options"
 msgstr "Pasirinkti nuostatas"
 
-#: includes/class-wc-product-variable.php:485
+#: includes/class-wc-product-variable.php:486
 msgid ""
 "This variable product has no active variations so cannot be published. "
 "Changing status to draft."
 msgstr ""
 
-#: includes/class-wc-product-variation.php:516
+#: includes/class-wc-product-variation.php:555
 msgid "%s &ndash; %s%s"
 msgstr "%s &ndash; %s%s"
 
-#: includes/class-wc-shortcodes.php:973
+#: includes/class-wc-shortcodes.php:975
 msgid ""
 "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
 "in WC 2.2."
@@ -5737,21 +5560,21 @@ msgid ""
 "Your {site_title} order from {order_date} is complete - download your files"
 msgstr ""
 
-#: includes/emails/class-wc-email-customer-completed-order.php:146
-#: includes/emails/class-wc-email-new-order.php:133
+#: includes/emails/class-wc-email-customer-completed-order.php:147
+#: includes/emails/class-wc-email-new-order.php:134
 msgid "Subject"
 msgstr "Tema"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:153
-#: includes/emails/class-wc-email-new-order.php:140
+#: includes/emails/class-wc-email-customer-completed-order.php:154
+#: includes/emails/class-wc-email-new-order.php:141
 msgid "Email Heading"
 msgstr "El. laiško antraštė"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:160
+#: includes/emails/class-wc-email-customer-completed-order.php:161
 msgid "Subject (downloadable)"
 msgstr "Tema (atsisiunčiamiems)"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:167
+#: includes/emails/class-wc-email-customer-completed-order.php:168
 msgid "Email Heading (downloadable)"
 msgstr "El. laiško antraštė (atsisiunčiamiems)"
 
@@ -5781,11 +5604,11 @@ msgstr ""
 msgid "Order {order_number} details"
 msgstr "Užsakymo {order_number} detalės"
 
-#: includes/emails/class-wc-email-customer-invoice.php:160
+#: includes/emails/class-wc-email-customer-invoice.php:161
 msgid "Email subject (paid)"
 msgstr "El. laiško tema (apmokėtiems)"
 
-#: includes/emails/class-wc-email-customer-invoice.php:167
+#: includes/emails/class-wc-email-customer-invoice.php:168
 msgid "Email heading (paid)"
 msgstr "El. laiško antraštė (apmokėtiems)"
 
@@ -5875,23 +5698,23 @@ msgstr "Naujas pirkėjo užsakymas"
 msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
 msgstr ""
 
-#: includes/emails/class-wc-email-new-order.php:126
+#: includes/emails/class-wc-email-new-order.php:127
 msgid "Recipient(s)"
 msgstr "Gavėjai"
 
-#: includes/emails/class-wc-email-new-order.php:128
+#: includes/emails/class-wc-email-new-order.php:129
 msgid ""
 "Enter recipients (comma separated) for this email. Defaults to "
 "<code>%s</code>."
 msgstr "Įveskite šio laiško gavėjus (atskirkite kableliais). Pagal nutylėjimą: <code>%s</code>."
 
-#: includes/emails/class-wc-email-new-order.php:135
+#: includes/emails/class-wc-email-new-order.php:136
 msgid ""
 "This controls the email subject line. Leave blank to use the default "
 "subject: <code>%s</code>."
 msgstr "Tai kontroliuoja el. laiško temos laukelį. Palikite tuščią, jei norite naudoti numatytąją temą: <code>%s</code>."
 
-#: includes/emails/class-wc-email-new-order.php:142
+#: includes/emails/class-wc-email-new-order.php:143
 msgid ""
 "This controls the main heading contained within the email notification. "
 "Leave blank to use the default heading: <code>%s</code>."
@@ -5912,10 +5735,10 @@ msgstr "Įgalinti bankinius pavedimus"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:72
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:58
-#: includes/gateways/cod/class-wc-gateway-cod.php:64
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:142
+#: includes/gateways/cod/class-wc-gateway-cod.php:68
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:135
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:132
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:102
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:103
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:81
 #: includes/widgets/class-wc-widget-cart.php:30
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:28
@@ -5933,12 +5756,12 @@ msgstr "Pavadinimas"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:74
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:60
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:144
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:137
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:134
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:83
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:72
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:57
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:104
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:105
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
 msgid "This controls the title which the user sees during checkout."
 msgstr "Tai kontroliuoja pavadinimą, kuris rodomas vartotojui atsiskaitant."
@@ -5949,8 +5772,8 @@ msgstr "Bankinis pavedimas"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:79
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:65
-#: includes/gateways/cod/class-wc-gateway-cod.php:71
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:149
+#: includes/gateways/cod/class-wc-gateway-cod.php:75
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:142
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:139
 #: includes/wc-template-functions.php:980
 msgid "Description"
@@ -5958,7 +5781,7 @@ msgstr "Aprašymas"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:81
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:67
-#: includes/gateways/cod/class-wc-gateway-cod.php:66
+#: includes/gateways/cod/class-wc-gateway-cod.php:70
 msgid ""
 "Payment method description that the customer will see on your checkout."
 msgstr ""
@@ -5972,7 +5795,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:86
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:72
-#: includes/gateways/cod/class-wc-gateway-cod.php:78
+#: includes/gateways/cod/class-wc-gateway-cod.php:82
 msgid "Instructions"
 msgstr "Instrukcijos"
 
@@ -5990,7 +5813,7 @@ msgid "Account Name"
 msgstr "Sąskaitos pavadinimas"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:112
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:258
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:254
 msgid "Account Number"
 msgstr "Sąskaitos numeris"
 
@@ -5999,12 +5822,12 @@ msgid "Bank Name"
 msgstr "Banko pavadinimas"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:114
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:262
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:258
 msgid "Sort Code"
 msgstr "SortCode"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:115
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:266
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:262
 msgid "IBAN"
 msgstr "IBAN"
 
@@ -6020,15 +5843,15 @@ msgstr ""
 msgid "Remove selected account(s)"
 msgstr ""
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:245
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:241
 msgid "Our Bank Details"
 msgstr ""
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:270
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:266
 msgid "BIC"
 msgstr "BIC"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:301
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:297
 msgid "Awaiting BACS payment"
 msgstr "Laukiama pavedimo"
 
@@ -6057,12 +5880,12 @@ msgid ""
 " / County, Store Postcode."
 msgstr "Siųskite savo čekį į: Pavadinimas/Vardas Pavardė, Adresas, Miestas, Pašto kodas."
 
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:116
+#: includes/gateways/cheque/class-wc-gateway-cheque.php:114
 msgid "Awaiting cheque payment"
 msgstr "Laukiama apmokėjimo čekiu"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:24
-#: includes/gateways/cod/class-wc-gateway-cod.php:67
+#: includes/gateways/cod/class-wc-gateway-cod.php:71
 msgid "Cash on Delivery"
 msgstr "Apmokėjimas grynais (COD)"
 
@@ -6070,85 +5893,93 @@ msgstr "Apmokėjimas grynais (COD)"
 msgid "Have your customers pay with cash (or by other means) upon delivery."
 msgstr "Leisti pirkėjams apmokėti grynais (ar kitaip) atsiimant užsakymą."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:57
+#: includes/gateways/cod/class-wc-gateway-cod.php:61
 msgid "Enable COD"
 msgstr "Įgalinti apmokėjimą grynais (COD)"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:58
+#: includes/gateways/cod/class-wc-gateway-cod.php:62
 msgid "Enable Cash on Delivery"
 msgstr "Įgalinti apmokėjimą grynais (COD)"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:73
+#: includes/gateways/cod/class-wc-gateway-cod.php:77
 msgid "Payment method description that the customer will see on your website."
 msgstr "Apmokėjimo metodo aprašymas, kuris bus rodomas pirkėjui."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:74
-#: includes/gateways/cod/class-wc-gateway-cod.php:81
+#: includes/gateways/cod/class-wc-gateway-cod.php:78
+#: includes/gateways/cod/class-wc-gateway-cod.php:85
 msgid "Pay with cash upon delivery."
 msgstr "Apmokėti atsiimant užsakymą."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:80
+#: includes/gateways/cod/class-wc-gateway-cod.php:84
 msgid "Instructions that will be added to the thank you page."
 msgstr "Instrukcijos, kurios bus pridedamos padėkos puslapyje."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:85
+#: includes/gateways/cod/class-wc-gateway-cod.php:89
 msgid "Enable for shipping methods"
 msgstr "Įgalinti pristatymo metodams"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:90
+#: includes/gateways/cod/class-wc-gateway-cod.php:94
 msgid ""
 "If COD is only available for certain methods, set it up here. Leave blank to"
 " enable for all methods."
 msgstr "Jei apmokėjimas grynais galimas tik tam tikriems metodams, nurodykite čia. Palikite tuščią, jei visiems."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:94
+#: includes/gateways/cod/class-wc-gateway-cod.php:98
 msgid "Select shipping methods"
 msgstr ""
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:164
+#: includes/gateways/cod/class-wc-gateway-cod.php:102
+msgid "Enable for virtual orders"
+msgstr ""
+
+#: includes/gateways/cod/class-wc-gateway-cod.php:103
+msgid "Enable COD if the order is virtual"
+msgstr ""
+
+#: includes/gateways/cod/class-wc-gateway-cod.php:206
 msgid "Payment to be made upon delivery."
 msgstr "Apmokėjimas atliekamas pristatant."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:30
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:167
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:29
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:159
 msgid "Mijireh Checkout"
 msgstr "Mijireh atsiskaitymas"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:107
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:291
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:103
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:294
 msgid "Mijireh error:"
 msgstr "Mijireh klaida:"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:131
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:124
 msgid "Enable Mijireh Checkout"
 msgstr "Įgalinti Mijireh atsiskaitymą"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:135
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:128
 msgid "Access Key"
 msgstr "Prieigos raktas (Access Key)"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:137
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:130
 msgid "The Mijireh access key for your store."
 msgstr "Mijireh prieigos raktas jūsų parduotuvei."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:145
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:138
 msgid "Credit Card"
 msgstr "Kreditinė kortelė"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:151
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:144
 msgid "Pay securely with your credit card."
 msgstr "Saugiai apmokėkite su savo kreditine kortele."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:152
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:145
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:141
 msgid "This controls the description which the user sees during checkout."
 msgstr "Tai kontroliuoja aprašymą, kurį atsiskaitydamas mato pirkėjas."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:171
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:163
 msgid "Get started with Mijireh Checkout"
 msgstr "Pradėkite naudoti Mijireh atsiskaitymą"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:172
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:164
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
 "card data to your payment gateway while keeping you in control of the design"
@@ -6156,20 +5987,25 @@ msgid ""
 "Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap, and more."
 msgstr "suteikia funkcionalų ir saugų būdą gauti ir perduoti kreditinės kortelės duomenis apmokėjimo partneriui ir leidžia išlaikyti svetainės dizainą savo rankose. Mijireh palaiko įvairias mokėjimo sistemas: Stripe, Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap ir kitas."
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:174
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Join for free"
 msgstr "Prisijunkite nemokamai"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:174
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:166
 msgid "Learn more about WooCommerce and Mijireh"
 msgstr "Daugiau apie WooCommerce ir Mijireh"
 
-#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:178
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:170
 msgid ""
 "provides a fully PCI Compliant, secure way to collect and transmit credit "
 "card data to your payment gateway while keeping you in control of the design"
 " of your site."
 msgstr "suteikia funkcionalų ir saugų būdą gauti ir perduoti kreditinės kortelės duomenis apmokėjimo partneriui ir leidžia išlaikyti svetainės dizainą savo rankose."
+
+#: includes/gateways/mijireh/class-wc-gateway-mijireh.php:207
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:361
+msgid "Order %s"
+msgstr "Užsakymas %s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:31
 msgid "Proceed to PayPal"
@@ -6358,14 +6194,8 @@ msgid "Enable logging"
 msgstr "Įgalinti žurnalą"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:237
-msgid ""
-"Log PayPal events, such as IPN requests, inside "
-"<code>woocommerce/logs/paypal-%s.txt</code>"
-msgstr "Fiksuoti PayPal įvykius, kaip IPN užklausos, viduje <code>woocommerce/logs/paypal-%s.txt</code>"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:361
-msgid "Order %s"
-msgstr "Užsakymas %s"
+msgid "Log PayPal events, such as IPN requests, inside <code>%s</code>"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:370
 msgid "Shipping via"
@@ -6418,54 +6248,42 @@ msgstr "Laukiama apmokėjimo: %s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:762
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:770
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:787
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:782
 msgid "Payment %s via IPN."
 msgstr "Mokėjimas %s per IPN."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:775
-msgid "Order refunded/reversed"
-msgstr "Užsakymas nepriimtas/grąžintas"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:776
-msgid "Order %s has been marked as refunded - PayPal reason code: %s"
-msgstr "Užsakymas %s nepriimtas - PayPal priežasties kodas: %s"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:779
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:773
 msgid "Payment for order %s refunded/reversed"
 msgstr "Užsakymo %s apmokėjimas nepriimtas"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:792
-msgid "Order reversed"
-msgstr "Užsakymas grąžintas (angl. reversed)"
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:774
+msgid "Order %s has been marked as refunded - PayPal reason code: %s"
+msgstr "Užsakymas %s nepriimtas - PayPal priežasties kodas: %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:793
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:785
+msgid "Payment for order %s reversed"
+msgstr "Užsakymo %s apmokėjimas grąžintas (angl. reversed)"
+
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:786
 msgid ""
 "Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
 msgstr "Užsakymas %s paverstas laukiančiu dėl grąžinimo (angl. reversal) - PayPal priežasties kodas: %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:796
-msgid "Payment for order %s reversed"
-msgstr "Užsakymo %s apmokėjimas grąžintas (angl. reversed)"
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:792
+msgid "Reversal cancelled for order %s"
+msgstr "Grąžinimas (angl. reversal) atšauktas užsakymui %s"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:804
-msgid "Reversal Cancelled"
-msgstr "Grąžinimas (angl. reversal) atšauktas"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:805
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:793
 msgid ""
 "Order %s has had a reversal cancelled. Please check the status of payment "
 "and update the order status accordingly."
 msgstr "Užsakymo %s grąžinimas (angl. reversal) atšauktas. Patikrinkite apmokėjimo būseną ir atitinkamai atnaujinkite būseną."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:808
-msgid "Reversal cancelled for order %s"
-msgstr "Grąžinimas (angl. reversal) atšauktas užsakymui %s"
-
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:880
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:877
 msgid "Validation error: PayPal amounts do not match (amt %s)."
 msgstr ""
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:888
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:885
 msgid "PDT payment completed"
 msgstr ""
 
@@ -6496,7 +6314,7 @@ msgstr "Galimybė"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:93
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:82
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:142
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:143
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:101
 msgid "All allowed countries"
 msgstr "Visos galimos valstybės"
@@ -6505,8 +6323,8 @@ msgstr "Visos galimos valstybės"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:98
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:83
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:87
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:143
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:147
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:144
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:148
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:102
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:106
 msgid "Specific Countries"
@@ -6515,7 +6333,7 @@ msgstr "Tam tikros valstybės"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:105
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:94
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:79
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:154
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:155
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:113
 msgid "Select some countries"
 msgstr ""
@@ -6602,54 +6420,57 @@ msgid ""
 "blank to disable."
 msgstr "Įveskite minimalų tarifą. Mažesnės sumos bus padidintos. Palikite tuščią, jei funkcija nereikalinga."
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:540
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:541
 msgid "Costs"
 msgstr "Kainos"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:102
 msgid "Cost"
 msgstr "Kaina"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:547
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
 msgid "Cost, excluding tax."
 msgstr "Kaina, be mokesčių"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:549
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:110
 msgid "Handling Fee"
 msgstr "Užsakymo mokestis"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:548
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:549
 msgid ""
 "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%."
 msgstr "Suma be mokesčių. Įveskite sumą (pvz., 2.50) arba procentinį dydį (pvz., 5%)"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:553
-msgid "+ Add Cost"
-msgstr "+ Pridėti mokestį"
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:554
+msgid "Add Cost"
+msgstr ""
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:553
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:554
 msgid "Delete selected costs"
 msgstr "Ištrinti pasirinktus mokesčius"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:559
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:560
 msgid "Any class"
 msgstr "Visos klasės"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:560
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:561
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:562
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:102
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:115
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:123
 #: templates/order/order-details.php:122 templates/order/order-details.php:137
+#: templates/single-product/meta.php:23
 msgid "N/A"
 msgstr "N/A"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:579
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:609
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:580
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:610
 msgid "Select a class&hellip;"
 msgstr "Pasirinkti klasę&hellip;"
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:623
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:624
 msgid "Delete the selected rates?"
 msgstr "Ištrinti pasirinktus tarifus?"
 
@@ -6664,7 +6485,7 @@ msgid "Enable Free Shipping"
 msgstr "Įgalinti nemokamą pristatymą"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:77
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:137
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:138
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:96
 msgid "Method availability"
 msgstr "Metodo galimumas"
@@ -6735,61 +6556,61 @@ msgid ""
 msgstr "Tarifas be mokesčių. Įveskite sumą (pvz., 2.50) arba procentinį dydį (pvz., 5%). Palikite tuščią, jei funkcija nereikalinga."
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:25
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:105
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:106
 msgid "Local Delivery"
 msgstr "Vietinis pristatymas"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:96
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:97
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:75
 msgid "Enable"
 msgstr "Įgalinti"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:98
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:99
 msgid "Enable local delivery"
 msgstr "Įgalinti vietinį pristatymą"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:109
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:110
 msgid "Fee Type"
 msgstr "Tarifo tipas"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:111
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:112
 msgid "How to calculate delivery charges"
 msgstr "Kaip apskaičiuoti pristatymo mokesčius"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:114
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:115
 msgid "Fixed amount"
 msgstr "Fiksuotas dydis"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:115
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:116
 msgid "Percentage of cart total"
 msgstr "Procentinis krepšelio vertės dydis"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:116
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:117
 msgid "Fixed amount per product"
 msgstr "Fiksuotas dydis kiekvienam produktui"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:121
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:122
 msgid "Delivery Fee"
 msgstr "Pristatymo mokestis"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:123
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:124
 msgid ""
 "What fee do you want to charge for local delivery, disregarded if you choose"
 " free. Leave blank to disable."
 msgstr "Koks vietinio pristatymo mokestis (jei nėra nemokamas). Palikite tuščią, jei funkcija nereikalinga."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:129
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:88
 msgid "Zip/Post Codes"
 msgstr "Pašto kodai"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:131
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:132
 msgid ""
 "What zip/post codes would you like to offer delivery to? Separate codes with"
 " a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
 msgstr "Į kokius pašto kodus sutinkate pristatyti? Atskirkite kodus kableliais. Palaikomas pakaitos simbolis (4* atitiks 42111, 49491 ir pan.)"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:169
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:170
 msgid ""
 "Local delivery is a simple shipping method for delivering orders locally."
 msgstr "Vietinis pristatymas - paprastas pristatymo metodas skirtiems vietiniams pristatymams."
@@ -6822,6 +6643,12 @@ msgstr "Pristatymo kaina atnaujinta."
 #: includes/shortcodes/class-wc-shortcode-checkout.php:91
 msgid "Invalid order. If you have an account please log in and try again."
 msgstr ""
+
+#: includes/shortcodes/class-wc-shortcode-checkout.php:91
+#: includes/shortcodes/class-wc-shortcode-my-account.php:111
+#: templates/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Mano paskyra"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:113
 #: includes/shortcodes/class-wc-shortcode-checkout.php:164
@@ -6919,35 +6746,35 @@ msgstr "Atsiprašome, tokio užsakymo ID savo duomenų bazėje neradome."
 msgid "This product is protected and cannot be purchased."
 msgstr ""
 
-#: includes/wc-cart-functions.php:83
+#: includes/wc-cart-functions.php:81
 msgid "Added &quot;%s&quot; to your cart."
 msgstr "&quot;%s&quot; pridėtas į jūsų krepšelį."
 
-#: includes/wc-cart-functions.php:83
+#: includes/wc-cart-functions.php:81
 msgid "&quot; and &quot;"
 msgstr "&quot; ir &quot;"
 
-#: includes/wc-cart-functions.php:86
+#: includes/wc-cart-functions.php:84
 msgid "&quot;%s&quot; was successfully added to your cart."
 msgstr "&quot;%s&quot; sėkmingai pridėtas į jūsų krepšelį."
 
-#: includes/wc-cart-functions.php:94
+#: includes/wc-cart-functions.php:92
 msgid "Continue Shopping"
 msgstr ""
 
-#: includes/wc-cart-functions.php:193
+#: includes/wc-cart-functions.php:191
 msgid "Coupon:"
 msgstr "Kuponas:"
 
-#: includes/wc-cart-functions.php:219
+#: includes/wc-cart-functions.php:217
 msgid "Free shipping coupon"
 msgstr ""
 
-#: includes/wc-cart-functions.php:225
+#: includes/wc-cart-functions.php:223
 msgid "[Remove]"
 msgstr "[Pašalinti]"
 
-#: includes/wc-cart-functions.php:288
+#: includes/wc-cart-functions.php:286
 msgid "Free"
 msgstr "Nemokamai"
 
@@ -7056,59 +6883,67 @@ msgid "New Zealand Dollar"
 msgstr "N. Zelandijos doleriai"
 
 #: includes/wc-core-functions.php:193
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: includes/wc-core-functions.php:194
 msgid "Philippine Pesos"
 msgstr "Filipinų pesai"
 
-#: includes/wc-core-functions.php:194
+#: includes/wc-core-functions.php:195
 msgid "Polish Zloty"
 msgstr "Lenkijos zlotai"
 
-#: includes/wc-core-functions.php:195
+#: includes/wc-core-functions.php:196
 msgid "Pounds Sterling"
 msgstr "Svarai sterlingų"
 
-#: includes/wc-core-functions.php:196
+#: includes/wc-core-functions.php:197
 msgid "Romanian Leu"
 msgstr "Rumunijos lėjos"
 
-#: includes/wc-core-functions.php:197
+#: includes/wc-core-functions.php:198
 msgid "Russian Ruble"
 msgstr "Rusijos rubliai"
 
-#: includes/wc-core-functions.php:198
+#: includes/wc-core-functions.php:199
 msgid "Singapore Dollar"
 msgstr "Singapūro doleriai"
 
-#: includes/wc-core-functions.php:199
+#: includes/wc-core-functions.php:200
 msgid "South African rand"
 msgstr "Pietų Afrikos randai"
 
-#: includes/wc-core-functions.php:200
+#: includes/wc-core-functions.php:201
 msgid "Swedish Krona"
 msgstr "Švedijos kronos"
 
-#: includes/wc-core-functions.php:201
+#: includes/wc-core-functions.php:202
 msgid "Swiss Franc"
 msgstr "Šveicarijos frankai"
 
-#: includes/wc-core-functions.php:202
+#: includes/wc-core-functions.php:203
 msgid "Taiwan New Dollars"
 msgstr "Taivano naujieji doleriai"
 
-#: includes/wc-core-functions.php:203
+#: includes/wc-core-functions.php:204
 msgid "Thai Baht"
 msgstr "Tailando batai"
 
-#: includes/wc-core-functions.php:204
+#: includes/wc-core-functions.php:205
 msgid "Turkish Lira"
 msgstr "Turkijos liros"
 
-#: includes/wc-core-functions.php:205
+#: includes/wc-core-functions.php:206
 msgid "US Dollars"
 msgstr "JAV doleriai"
 
-#: includes/wc-core-functions.php:206
+#: includes/wc-core-functions.php:207
 msgid "Vietnamese Dong"
+msgstr ""
+
+#: includes/wc-core-functions.php:208
+msgid "Egyptian Pound"
 msgstr ""
 
 #: includes/wc-coupon-functions.php:22
@@ -7127,35 +6962,21 @@ msgstr "Produkto nuolaida"
 msgid "Product % Discount"
 msgstr "Produkto % nuolaida"
 
-#: includes/wc-customer-functions.php:52
-msgid ""
-"An account is already registered with your email address. Please login."
-msgstr "Paskyra su tokiu el. pašto adresu jau yra. Prisijunkite."
-
-#: includes/wc-customer-functions.php:61
-msgid "Please enter a valid account username."
-msgstr ""
-
-#: includes/wc-customer-functions.php:65
-msgid ""
-"An account is already registered with that username. Please choose another."
-msgstr "Toks vartotojo vardas jau turi paskyrą. Pasirinkite kitą."
-
-#: includes/wc-customer-functions.php:85
-msgid "Please enter an account password."
-msgstr "Įveskite paskyros slaptažodį."
-
-#: includes/wc-customer-functions.php:110
-msgid ""
-"Couldn&#8217;t register you&hellip; please contact us if you continue to "
-"have problems."
-msgstr "Registracija nepavyko&hellip;susisiekite su mumis, jei problemos tęsis."
-
 #: includes/wc-order-functions.php:295
 msgid "Unpaid order cancelled - time limit reached."
 msgstr "Neapmokėtas užsakymas atšauktas, nes pasiektas laiko limitas."
 
-#: includes/wc-product-functions.php:233
+#: includes/wc-page-functions.php:78
+msgctxt "edit-address-slug"
+msgid "billing"
+msgstr ""
+
+#: includes/wc-page-functions.php:79
+msgctxt "edit-address-slug"
+msgid "shipping"
+msgstr ""
+
+#: includes/wc-product-functions.php:235
 msgctxt "slug"
 msgid "uncategorized"
 msgstr "be-kategorijos"
@@ -7188,7 +7009,7 @@ msgstr "&nbsp;&ndash; Puslapis %s"
 
 #: includes/wc-template-functions.php:989
 #: templates/checkout/form-shipping.php:55
-#: templates/single-product/tabs/additional-information.php:14
+#: templates/single-product/tabs/additional-information.php:17
 msgid "Additional Information"
 msgstr "Papildoma informacija"
 
@@ -7207,43 +7028,67 @@ msgctxt "breadcrumb"
 msgid "Home"
 msgstr "Pradžia"
 
-#: includes/wc-template-functions.php:1558
+#: includes/wc-template-functions.php:1549
 msgid "Order Again"
 msgstr "Užsakyti dar kartą"
 
-#: includes/wc-template-functions.php:1649
+#: includes/wc-template-functions.php:1644
 #: templates/cart/shipping-calculator.php:28
 msgid "Select a country&hellip;"
 msgstr "Pasirinkite valstybę&hellip;"
 
-#: includes/wc-template-functions.php:1656
+#: includes/wc-template-functions.php:1651
 msgid "Update country"
 msgstr "Atnaujinti valstybę"
 
-#: includes/wc-template-functions.php:1699
+#: includes/wc-template-functions.php:1701
 #: templates/cart/shipping-calculator.php:52
 msgid "Select a state&hellip;"
 msgstr "Pasirinkite valstiją&hellip;"
 
-#: includes/wc-template-functions.php:1812
+#: includes/wc-template-functions.php:1842
 msgid "Search for:"
 msgstr "Ieškoti:"
 
-#: includes/wc-template-functions.php:1813
+#: includes/wc-template-functions.php:1843
 msgid "Search for products"
 msgstr "Ieškoti produktų"
 
-#: includes/wc-template-functions.php:1814
+#: includes/wc-template-functions.php:1844
 msgid "Search"
 msgstr "Paieška"
 
-#: includes/wc-term-functions.php:123
+#: includes/wc-term-functions.php:146
 msgid "Select a category"
 msgstr "Pasirinkti kategoriją"
 
-#: includes/wc-term-functions.php:127
+#: includes/wc-term-functions.php:149
 msgid "Uncategorized"
 msgstr "Be kategorijos"
+
+#: includes/wc-user-functions.php:52
+msgid ""
+"An account is already registered with your email address. Please login."
+msgstr "Paskyra su tokiu el. pašto adresu jau yra. Prisijunkite."
+
+#: includes/wc-user-functions.php:61
+msgid "Please enter a valid account username."
+msgstr ""
+
+#: includes/wc-user-functions.php:65
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr "Toks vartotojo vardas jau turi paskyrą. Pasirinkite kitą."
+
+#: includes/wc-user-functions.php:86
+msgid "Please enter an account password."
+msgstr "Įveskite paskyros slaptažodį."
+
+#: includes/wc-user-functions.php:112
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr "Registracija nepavyko&hellip;susisiekite su mumis, jei problemos tęsis."
 
 #: includes/widgets/class-wc-widget-cart.php:23
 msgid "Display the user's Cart in the sidebar."
@@ -7274,17 +7119,17 @@ msgstr "WooCommerce sluoksniuoti nav. filtrai"
 msgid "Active Filters"
 msgstr "Įjungti filtrai"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:84
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:91
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:96
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:85
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:92
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:97
 msgid "Remove filter"
 msgstr "Pašalinti filtrą"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:91
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:92
 msgid "Min"
 msgstr "Min"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:96
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:97
 msgid "Max"
 msgstr "Maks"
 
@@ -7381,6 +7226,11 @@ msgstr "Rikiuoti pagal"
 msgid "Category Order"
 msgstr "Kategorijos užsakymas"
 
+#: includes/widgets/class-wc-widget-product-categories.php:39
+#: templates/single-product-reviews.php:62
+msgid "Name"
+msgstr "Pavadinimas"
+
 #: includes/widgets/class-wc-widget-product-categories.php:45
 msgid "Show as dropdown"
 msgstr "Rodyti kaip išskl. sąrašą"
@@ -7394,10 +7244,10 @@ msgid "Show hierarchy"
 msgstr "Rodyti hierarchiją"
 
 #: includes/widgets/class-wc-widget-product-categories.php:60
-msgid "Only show children for the current category"
-msgstr "Esamai kategorijai rodyti tik dukterinius"
+msgid "Only show children of the current category"
+msgstr ""
 
-#: includes/widgets/class-wc-widget-product-categories.php:214
+#: includes/widgets/class-wc-widget-product-categories.php:223
 msgid "No product categories exist."
 msgstr "Produktų kategorijų nėra."
 
@@ -7565,17 +7415,13 @@ msgstr ""
 msgid "Please fill in your details to see available shipping methods."
 msgstr "Norėdami pamatyti galimus pristatymo metodus, įveskite savo duomenis."
 
-#: templates/cart/cart-shipping.php:73 templates/cart/cart-shipping.php:81
-msgid "Sorry, shipping is unavailable %s."
+#: templates/cart/cart-shipping.php:72 templates/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double"
+" check your address, or contact us if you need any help."
 msgstr ""
 
-#: templates/cart/cart-shipping.php:73 templates/cart/cart-shipping.php:81
-msgid ""
-"If you require assistance or wish to make alternate arrangements please "
-"contact us."
-msgstr "Jei reikia pagalbos arba norite su mumis dėl to tartis, susisiekite."
-
-#: templates/cart/cart-shipping.php:97
+#: templates/cart/cart-shipping.php:93
 msgid "Shipping"
 msgstr "Pristatymas"
 
@@ -7618,19 +7464,19 @@ msgstr "Viso"
 msgid "Remove this item"
 msgstr "Pašalinti šį produktą"
 
-#: templates/cart/cart.php:118 templates/checkout/form-coupon.php:25
+#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:26
 msgid "Coupon code"
 msgstr "Kupono kodas"
 
-#: templates/cart/cart.php:118 templates/checkout/form-coupon.php:29
+#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:30
 msgid "Apply Coupon"
 msgstr "Pateikti kuponą"
 
-#: templates/cart/cart.php:125
+#: templates/cart/cart.php:126
 msgid "Update Cart"
 msgstr "Atnaujinti krepšelį"
 
-#: templates/cart/cart.php:125
+#: templates/cart/cart.php:126
 msgid "Proceed to Checkout"
 msgstr ""
 
@@ -7663,6 +7509,10 @@ msgstr "Valstija / grafystė"
 #: templates/cart/shipping-calculator.php:72
 msgid "City"
 msgstr "Miestas"
+
+#: templates/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Pašto kodas"
 
 #: templates/cart/shipping-calculator.php:85
 msgid "Update Totals"
@@ -7704,11 +7554,11 @@ msgstr "Norėdami apmokėti, turite prisijungti."
 msgid "Your order"
 msgstr "Jūsų užsakymas"
 
-#: templates/checkout/form-coupon.php:17
+#: templates/checkout/form-coupon.php:18
 msgid "Have a coupon?"
 msgstr "Turite kuponą?"
 
-#: templates/checkout/form-coupon.php:18
+#: templates/checkout/form-coupon.php:19
 msgid "Click here to enter your code"
 msgstr "Paspauskite čia ir įveskite kodą"
 
@@ -7927,13 +7777,13 @@ msgstr "Paspauskite šią nuorodą, jei norite atkurti slaptažodį:"
 msgid "Click here to reset your password"
 msgstr "Paspauskite, jei norite atkurti slaptažodį"
 
-#: templates/emails/email-addresses.php:18
-#: templates/emails/plain/email-addresses.php:12
+#: templates/emails/email-addresses.php:20
+#: templates/emails/plain/email-addresses.php:14
 msgid "Billing address"
 msgstr "Registracijos adresas"
 
-#: templates/emails/email-addresses.php:28
-#: templates/emails/plain/email-addresses.php:17
+#: templates/emails/email-addresses.php:30
+#: templates/emails/plain/email-addresses.php:19
 msgid "Shipping address"
 msgstr "Pristatymo adresas"
 
@@ -8018,20 +7868,20 @@ msgid "Page"
 msgstr "Puslapis"
 
 #: templates/global/form-login.php:22
-#: templates/myaccount/form-lost-password.php:24
+#: templates/myaccount/form-lost-password.php:23
 msgid "Username or email"
 msgstr "Vartotojo vardas arba el. paštas"
 
-#: templates/global/form-login.php:26 templates/myaccount/form-login.php:36
-#: templates/myaccount/form-login.php:84
+#: templates/global/form-login.php:26 templates/myaccount/form-login.php:38
+#: templates/myaccount/form-login.php:88
 msgid "Password"
 msgstr "Slaptažodis"
 
-#: templates/global/form-login.php:38 templates/myaccount/form-login.php:46
+#: templates/global/form-login.php:38 templates/myaccount/form-login.php:48
 msgid "Remember me"
 msgstr ""
 
-#: templates/global/form-login.php:42 templates/myaccount/form-login.php:50
+#: templates/global/form-login.php:42 templates/myaccount/form-login.php:52
 msgid "Lost your password?"
 msgstr ""
 
@@ -8105,76 +7955,93 @@ msgid "Last name"
 msgstr "Pavardė"
 
 #: templates/myaccount/form-edit-account.php:28
-#: templates/myaccount/form-login.php:79
+#: templates/myaccount/form-login.php:81
 msgid "Email address"
 msgstr "El. pašto adresas"
 
-#: templates/myaccount/form-edit-account.php:32
+#: templates/myaccount/form-edit-account.php:34
 msgid "Password (leave blank to leave unchanged)"
 msgstr ""
 
-#: templates/myaccount/form-edit-account.php:36
+#: templates/myaccount/form-edit-account.php:38
 msgid "Confirm new password"
 msgstr ""
 
-#: templates/myaccount/form-edit-account.php:41
+#: templates/myaccount/form-edit-account.php:44
+msgid "Password Change"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:47
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:51
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:55
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:61
 msgid "Save changes"
 msgstr "Išsaugoti pakeitimus"
 
-#: templates/myaccount/form-edit-address.php:14
+#: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:19 templates/myaccount/my-address.php:25
 #: templates/order/order-details.php:118
 msgid "Billing Address"
 msgstr "Registracijos adresas"
 
-#: templates/myaccount/form-edit-address.php:14
+#: templates/myaccount/form-edit-address.php:16
 #: templates/myaccount/my-address.php:20 templates/order/order-details.php:133
 msgid "Shipping Address"
 msgstr "Pristatymo adresas"
 
-#: templates/myaccount/form-edit-address.php:38
+#: templates/myaccount/form-edit-address.php:40
 msgid "Save Address"
 msgstr "Išsaugoti adresą"
 
-#: templates/myaccount/form-login.php:32
+#: templates/myaccount/form-login.php:34
 msgid "Username or email address"
 msgstr ""
 
-#: templates/myaccount/form-login.php:63 templates/myaccount/form-login.php:96
+#: templates/myaccount/form-login.php:65
+#: templates/myaccount/form-login.php:102
 msgid "Register"
 msgstr "Registruotis"
 
-#: templates/myaccount/form-login.php:72
+#: templates/myaccount/form-login.php:74
 msgid "Username"
 msgstr "Vartotojo vardas"
 
-#: templates/myaccount/form-login.php:89
+#: templates/myaccount/form-login.php:95
 msgid "Anti-spam"
 msgstr ""
 
-#: templates/myaccount/form-lost-password.php:22
+#: templates/myaccount/form-lost-password.php:21
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr "Pamiršote slaptažodį? Įveskite vartotojo vardą arba el. pašto adresą. Į el. pašto dėžutę gausite nuorodą naujam slaptažodžiui susikurti."
 
-#: templates/myaccount/form-lost-password.php:28
+#: templates/myaccount/form-lost-password.php:27
 msgid "Enter a new password below."
 msgstr "Žemiau įveskite naują slaptažodį."
 
-#: templates/myaccount/form-lost-password.php:31
+#: templates/myaccount/form-lost-password.php:30
 msgid "New password"
 msgstr "Naujas slaptažodis"
 
-#: templates/myaccount/form-lost-password.php:35
+#: templates/myaccount/form-lost-password.php:34
 msgid "Re-enter new password"
 msgstr "Naujas slaptažodis (dar kartą)"
 
-#: templates/myaccount/form-lost-password.php:46
+#: templates/myaccount/form-lost-password.php:45
 msgid "Reset Password"
 msgstr "Atkurti slaptažodį"
 
-#: templates/myaccount/form-lost-password.php:46
+#: templates/myaccount/form-lost-password.php:45
 msgid "Save"
 msgstr "Išsaugoti"
 
@@ -8239,18 +8106,18 @@ msgstr "Atšaukti"
 msgid "View"
 msgstr "Peržiūrėti"
 
-#: templates/myaccount/view-order.php:12
+#: templates/myaccount/view-order.php:19
 msgid ""
 "Order <mark class=\"order-number\">%s</mark> was placed on <mark class"
 "=\"order-date\">%s</mark> and is currently <mark class=\"order-"
 "status\">%s</mark>."
 msgstr ""
 
-#: templates/myaccount/view-order.php:16 templates/order/tracking.php:31
+#: templates/myaccount/view-order.php:23 templates/order/tracking.php:31
 msgid "Order Updates"
 msgstr "Užsakymo atnaujinimai"
 
-#: templates/myaccount/view-order.php:22 templates/order/tracking.php:37
+#: templates/myaccount/view-order.php:29 templates/order/tracking.php:37
 msgid "l jS \\o\\f F Y, h:ia"
 msgstr "Y-m-d G:i (l)"
 
@@ -8324,10 +8191,6 @@ msgstr ""
 #: templates/single-product/meta.php:23
 msgid "SKU:"
 msgstr "Kodas:"
-
-#: templates/single-product/meta.php:23
-msgid "n/a"
-msgstr "n/a"
 
 #: templates/single-product/meta.php:27
 msgid "Category:"

@@ -14,15 +14,42 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6, li.menu-item > a {
 	font-family: "Coquette" !important;
 }
-p {
-	font-family: "kepler-std-semicondensed-cap" !important;
+p, body {
+	font-family: "myriad-pro",sans-serif;
+	font-style: normal;
+	font-weight: 300;
 }
 
-#et-top-navigation {
-	display: none;
+li.menu-item > a {
+	font-size: 1.5em;
+}
+
+.et_pb_blog_grid > article.post {
+	box-shadow: none;
+	-webkit-transition: box-shadow 0.5s ease-in-out;
+	-moz-transition: box-shadow 0.5s ease-in-out;
+	-o-transition: box-shadow 0.5s ease-in-out;
+	transition: box-shadow 0.5s ease-in-out;
+}
+
+.et_pb_blog_grid > article.post:hover {
+	box-shadow: 5px 5px 15px #cbcbcb;
+	-webkit-transition: box-shadow 0.5s ease-in-out;
+	-moz-transition: box-shadow 0.5s ease-in-out;
+	-o-transition: box-shadow 0.5s ease-in-out;
+	transition: box-shadow 0.5s ease-in-out;
+}
+
+/* Container for centered icons above text paragraphes */
+.center-image-container {
+  text-align: center;
+}
+.center-image-container > div > div > img {
+  vertical-align: middle;
+  max-height: 5em !important;
 }
 
 body {
@@ -31,6 +58,11 @@ body {
 	line-height: 1.2;
 	background: url(http://subtlepatterns.com/patterns/grey_wash_wall.png) repeat fixed;
 
+}
+
+/* Hide cart icon */
+.et-cart-info {
+	display: none;
 }
 
 /* Logo size increase on mobile */
