@@ -137,7 +137,8 @@ header {
   position: relative;
   float: right;
   margin-left: -100%;
-  margin-right: 3%; }
+  margin-right: 3%;
+  width: 280px; }
   #contact-details li {
     list-style: none;
     background-repeat: no-repeat;
